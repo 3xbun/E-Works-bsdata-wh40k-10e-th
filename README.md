@@ -1,4 +1,4 @@
-Template Data Repo
+Battlescribe WH40K 10e TH
 ==================
 
 [![Latest release](https://img.shields.io/github/release/3xbun/bsdata-wh40k-10e-th.svg?style=flat-square)](https://github.com/3xbun/bsdata-wh40k-10e-th/releases/latest)
