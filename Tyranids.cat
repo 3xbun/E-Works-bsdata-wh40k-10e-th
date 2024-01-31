@@ -455,7 +455,7 @@
         </profile>
         <profile id="fee7-90a8-24a2-79ef" name="Paroxysm (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the Fight phase, you can select one enemy unit within 12&quot; of and visible to this model and roll one D6: on a 1, this Psyker suffers D3 mortal wounds; on a 2+, until the end of the phase, subtract 1 from the Attacks characteristic of weapons equipped by models in that unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่มต้น Fight phase, คุณสามารถเลือกยูนิต ศัตรูหนึ่งยูนิตภายใน 12 นิ้วของและมองเห็นจากโมเดลนี้, ทอยลูกเต๋า 1D6 : หากได้ 1 Psyker นี้จะได้รับความเสียหาย D3 Mortal wound; หากได้ 2 ขิ้นไป จนกว่าจะจบเฟส ให้ลบ 1 จากค่า Attack ของอาวุธที่ติดตั้งโดยโมเดลในยูนิต ที่เลือก</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -466,7 +466,7 @@
           </modifiers>
         </infoLink>
         <infoLink id="b12e-7b6d-4af8-4757" name="Deep Strike" hidden="false" targetId="7cb5-dd6b-dd87-ad3b" type="rule"/>
-        <infoLink id="f648-e374-1db3-509c" name="Invulnerable Save 4+" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
+        <infoLink id="f648-e374-1db3-509c" name="Invulnerable Save" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
         <infoLink id="d052-102a-fd71-ef99" name="Shadow in the Warp" hidden="false" targetId="395b-a159-b293-27aa" type="rule"/>
         <infoLink id="52e5-4e0d-4d0e-572c" name="Synapse" hidden="false" targetId="86aa-437f-260b-5cad" type="rule"/>
         <infoLink id="edb4-b975-82dc-c551" name="Will of the Hive Mind" hidden="false" targetId="13-98c1-d481-eb95" type="profile"/>
@@ -586,7 +586,7 @@
         </profile>
         <profile id="d038-2f3d-1c4a-a15" name="Onslaught (Aura, Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly TYRANIDS unit is within 6&quot; of this model, ranged weapons equipped by models in that unit have the [ASSAULT] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในขณะที่ยูนิต Tyranids ที่เป็นมิตรหนึ่งยูนิต ที่อยู่ภายในระยะ 6 นิ้วจากโมเดลนี้ อาวุธระยะไกลของโมเดลในยูนิตนั้นจะมีความสามารถ [ASSAULT]</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -606,7 +606,7 @@
         </infoGroup>
       </infoGroups>
       <infoLinks>
-        <infoLink id="f729-3654-edaa-c166" name="Invulnerable Save 4+" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
+        <infoLink id="f729-3654-edaa-c166" name="Invulnerable Save" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
         <infoLink id="c1b-3112-2cfe-dac" name="Deadly Demise" hidden="false" targetId="b68a-5ded-65ac-98c" type="rule">
           <modifiers>
             <modifier type="append" field="name" value="D3"/>
@@ -811,12 +811,12 @@
         </profile>
         <profile id="3ae7-6f89-23de-3cca" name="Spawn Termagants" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Command phase, you can select one friendly TERMAGANTS unit within 6&quot; of this model and return up to D3+3 destroyed TERMAGANT models to that unit. A TERMAGANTS unit cannot be selected for this ability more than once per phase.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">น Command phase ของคุณ คุณสามารถเลือกยูนิต Termagants ที่เป็นมิตรหนึ่งยูนิตภายใน 6 นิ้วจากโมเดลนี้ และเริยกคืนโมเดล Termagant ที่ถูกทําลายสูงสุด D3+3 ตัวกลับไปยังยูนิตนั้น ยูนิต Termagants ไม่สามารถถูกเลือกเพิ่อใช้ความสามารถนี้ได้มากกว่าหนึ่งครั้งต่อเฟส</characteristic>
           </characteristics>
         </profile>
         <profile id="7697-fdc6-4658-3f1c" name="Brood Progenitor (Aura, Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly TERMAGANTS unit is within 6&quot; of this model, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิต Termagants ที่เป็นมิตรอยู่ภายใน 6 นิ้วจากโมเดลนี้ อาวุธระยะไกลที่สวมใส่โดย โมเดลในยูนิตนั้นมีความสามารถ [LETHAL HITS]</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -928,17 +928,17 @@
         </profile>
         <profile id="ba65-9542-51dd-8200" name="Hive Commander" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of your Command phase, if this model is on the battlefield, you gain 1CP</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงเริ่มต้น Command phase ของคุณ, หากโมเดลนี้อยู่ยนสนาม, คุณจะได้รับ 1 CP</characteristic>
           </characteristics>
         </profile>
         <profile id="4b18-f7de-620b-3b73" name="Malign Presence" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, after your opponent uses a Stratagem, if this model is your Warlord and is on the battlefield, it can use this ability. If it does, until the end of the battle, increase that Stratagem’s cost to your opponent by 1CP.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม, หลังจากที่ฝ่ายตรงข้ามใช้ Stratagem, หากโมเดลนี้เป็น Warlord และอยู่บนสนามรบ, มันสามารถใช้ความสามารถนี้ได้, จนกว่าจะเกม, เมื่อฝ่ายตรงข้ามใช้ Stratagem นั้นจะต้องจ่ายเพิ่มอีก 1 CP</characteristic>
           </characteristics>
         </profile>
         <profile id="b3b4-4208-4997-9506" name="Domination of the Hive Mind (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly TYRANIDS unit is within 9&quot; of this model, that unit is within your army’s Synapse Range.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิต Tyranids ที่เป็นมิตร ที่อยู่ในระยะ 9 นิ้ว ของโมเดลนี้, ยูนิตนั้นจะนับว่าอยู่ในระยะ Synapse</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1065,12 +1065,12 @@
         </profile>
         <profile id="a5e1-ca7f-aaef-7fda" name="Vicious Insight" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต, อาวุธที่สวมใส่ในยูนิตนั้น จะมีความสามารถ[DEVASTATING WOUNDS]</characteristic>
           </characteristics>
         </profile>
         <profile id="75d5-d9e0-5f01-60bf" name="Hypnotic Gaze (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the Fight phase, select one enemy unit within Engagement Range of this model. Until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงเริ่ม Fight phase, เลือกยูนิตศัตรู หนึ่งยูนิตที่อยู่ใน Engagement Range ของโมเดลนี้. จนจบเฟส, ทุกครั้งที่ยูนิตที่เลือกทําการโจมตีให้ลบ 1 จาก the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1095,7 +1095,7 @@
             <modifier type="append" field="name" value="8&quot;"/>
           </modifiers>
         </infoLink>
-        <infoLink id="71f8-7352-fa30-366c" name="Invulnerable Save 4+" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
+        <infoLink id="71f8-7352-fa30-366c" name="Invulnerable Save" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
         <infoLink id="c52f-a31e-35e3-d878" name="Synapse" hidden="false" targetId="86aa-437f-260b-5cad" type="rule"/>
       </infoLinks>
       <categoryLinks>
@@ -1161,12 +1161,12 @@
       <profiles>
         <profile id="a4ec-5941-e494-6ed0" name="Alpha Warrior" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต, อาวุธที่สวมใส่ในยูนิตนั้น จะมีความสามารถ [SUSTAINED HITS 1]</characteristic>
           </characteristics>
         </profile>
         <profile id="5689-b058-225b-88d9" name="Death Blow" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้ถูกทําลายจาการโจมตีระยะประชิด, หากมันยังไม่ไ ด้ทําการต่อสู้, ให้ทอย D6 หนึ่งลูก หากได้ 4+,โมเดลนี้จะไม่ถูกทําลายและโมเดลนี้ สามารถต่อสู้ได้, หลังจากที่โมเดลเสร็จสิ้นการโจมตีให้นําโมเดลนี้ออกจากเกม</characteristic>
           </characteristics>
         </profile>
         <profile id="6202-88a9-5a3-232a" name="Winged Tyranid Prime" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -1269,12 +1269,12 @@
         </profile>
         <profile id="3125-a7a9-2716-8a9f" name="Alpha Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต, ทุกครั้งที่โมเดลในยูนิตนั้นทําการโจมตี คุณสามารถ Re-roll the Hit roll ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="2c91-cffe-25ce-bd74" name="Unstoppable Monster" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of each player’s Command phase, this model regains up to D3 lost wounds.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงเริ่มต้น Command phase ของผู้เล่นทุกคน, โมเดลนี้จะฟื้นฟู Wound ที่สูญเสียไปสูงสุด D3 Wound</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1365,7 +1365,7 @@
       <profiles>
         <profile id="334d-297-9ce7-a555" name="Adaptable Predators" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This unit is eligible to shoot and declare a charge in a turn in which it Fell Back.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตนี้สามารถยิงและประกาศชาร์จได้ในเทิร์นที่ ทําการ Fall back</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1657,7 +1657,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9&quot; of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6&quot;.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเทิร์น, เมื่อยูนิตศัตรูจบการเคลื่อนที่แบบ Normal, Advance หริอ Fall Back ภายใน 9 นิ้ว ของยูนิตนี้, หากยูนิตนี้ไม่ได้ อยู่ใน Engagement Range ของยูนิตศัตรู, ยูนิตนี้สามารถเคลื่อนที่แบบ Normal ได้มากถึง D6 นิ้ว</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -8251,7 +8251,7 @@ HIVE PREDATORS 
     </profile>
     <profile id="384f-e5ff-31a2-1295" name="Damaged: 1-5 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-5 Wound ทุกครั้งที่โมเดลนี้ทําการโจมตี ให้ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="57fe-61a-b993-2db0" name="Invulnerable Save" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -8277,12 +8277,12 @@ HIVE PREDATORS 
     </profile>
     <profile id="b4a8-7659-cc29-b18e" name="Damaged: 1-4 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-4 Wound ทุกครั้งที่โมเดลนี้ทําการโจมตี ให้ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="50cc-aa66-ffc8-61c7" name="Damaged: 1-6 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-6 Wound ทุกครั้งที่โมเดลนี้ทําการโจมตี ให้ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="6cdf-a79d-f979-75f5" name="Tyranid Warrior" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -8297,7 +8297,7 @@ HIVE PREDATORS 
     </profile>
     <profile id="13-98c1-d481-eb95" name="Will of the Hive Mind" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อรอบ TYRANIDS ที่เป็นมิตรหนึ่งตัวในระยะ 12&quot; จากโมเดลที่มีความสามารถนี้สามารถได้รับผลของ Stratagem โดยใช้ 0CP แม้ว่าจะมียูนิตอื่นที่มาจากกองทัพของคุณได้รับผลจาก Stratagem นั้นแล้วในเฟสนี้ก็ตาม</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เทิร์นละครั้ง ยูนิต Tyranids ที่เป็นมิตรหนึ่งยูนิต ภายใน 12 นิ้ว ของโมเดลหนึ่งตัวขึ้นไปที่มีความสามารถนี้ ยูนิตนั้นสามารถ ใช้ Stratagem ซ้ำได้ด้วย 0CP ได้แม้ว่ายูนิตอื่นในกองทัพของคุณได้ใช้ Stratagem นั้นในเฟสนี้ไปแล้ว</characteristic>
       </characteristics>
     </profile>
     <profile id="2461-bee9-2afc-8776" name="Termagants" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
