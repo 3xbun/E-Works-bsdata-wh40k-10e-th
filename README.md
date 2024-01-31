@@ -7,7 +7,7 @@ Battlescribe WH40K 10e TH
 [![Contributors](https://img.shields.io/github/contributors/3xbun/bsdata-wh40k-10e-th.svg?style=flat-square)](https://github.com/3xbun/bsdata-wh40k-10e-th/graphs/contributors)
 [![Commit activity the past year](https://img.shields.io/github/commit-activity/y/3xbun/bsdata-wh40k-10e-th.svg?style=flat-square)](https://github.com/3xbun/bsdata-wh40k-10e-th/pulse/monthly)
 
-[![Chat on Discord](https://img.shields.io/discord/1140872301659832393.svg?logo=discord&style=popout-square)](https://www.bsdata.net/discord)
+[![Chat on Discord](https://img.shields.io/discord/1140872301659832393.svg?logo=discord&style=popout-square)](https://discord.gg/TRt7gNgbfD)
 
 ## Overview ##
 
