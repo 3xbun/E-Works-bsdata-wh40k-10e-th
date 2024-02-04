@@ -1022,17 +1022,17 @@
         </profile>
         <profile id="21e5-4e9-7904-8d96" name="Officer" hidden="false" typeId="3fc9-16d8-8670-c8e2" typeName="Orders">
           <characteristics>
-            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">This OFFICER can issue 1 Order to REGIMENT units.</characteristic>
+            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">โมเดล Officer ตัวนี้สามารถออกคําสั่งใส่ยูนิต Regiment ได้ 1 คําสั่ง</characteristic>
           </characteristics>
         </profile>
         <profile id="a7f5-adb8-d1c9-2a2d" name="Senior Officer" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็น Leader ให้กับยูนิตอาวุธระยะไกลของยูนิตนั้นจะมีความสามารถ [SUSTAINED HITS 1]</characteristic>
           </characteristics>
         </profile>
         <profile id="cd15-5c13-fa1e-b2eb" name="Get Back in the Fight" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, that unit is eligible to shoot in a turn in which it Fell Back.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็น Leader ให้กับยูนิต ยูนิตนั้น สามารถทําการยิงได้หลังจากทําการ Fall-Back</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1041,7 +1041,7 @@
           <profiles>
             <profile id="e668-97a7-2df8-6db3" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถติดตั้งให้กับยูนิตต่อไปนี้ได้:
 - Cadian Shock Troops
 - Infantry Squad
 - Kasrkin</characteristic>
