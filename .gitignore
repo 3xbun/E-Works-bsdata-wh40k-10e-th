@@ -1,6 +1,8 @@
 # Ignore everything
+.git/desktop.ini
+.github/workflows/desktop.ini
+desktop.ini
 *
-
 # Don't ignore .git* files
 !.gitignore
 !.gitattributes
