@@ -2,6 +2,8 @@
 .git/desktop.ini
 .github/workflows/desktop.ini
 desktop.ini
+.git\refs/desktop.ini
+.git\refs\tags/desktop.ini
 *
 # Don't ignore .git* files
 !.gitignore
