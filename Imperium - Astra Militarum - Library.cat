@@ -6324,12 +6324,12 @@
       <profiles>
         <profile id="90b9-635e-d3e3-7701" name="Malign Wardings(Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็น Leader ให้กับยูนิต โมเดลในยูนิตนั้นจะมีความสามารถ Feel No Pain 4+ ต่อการโจมตีแบบ Psychic</characteristic>
           </characteristics>
         </profile>
         <profile id="9609-45b8-af09-de5b" name="Psychic Barrier (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of your opponent’s Shooting phase, you can roll one D6: on a 1, this Psyker’s unit suffers D3 mortal wounds; on a 2+, until the end of the phase, models in this Psyker’s unit have a 4+ invulnerable save.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงเริ่มต้น Shooting phase ของคู่ต่อสู้ คุณสามารถทอย D6 ได้: หากออก 1 ยูนิตของ Psyker นี้จะโดน D3 Motal- Wound; หากออก 2+ จนจบเฟส โมเดลในยูนิตของ Psyker นี้ จะมี invulnerable save 4+</characteristic>
           </characteristics>
         </profile>
         <profile id="b4fa-4ea-3e1e-75d0" name="Primaris Psyker" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6348,7 +6348,7 @@
           <profiles>
             <profile id="51c5-d40-229d-1830" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถติดตั้งให้กับยูนิตต่อไปนี้ได้:
 - Cadian Shock Troops
 - Catachan Jungle Fighters
 - Death Korps of Krieg
