@@ -147,7 +147,7 @@
       <profiles>
         <profile id="9d7f-91af-104d-6c91" name="Ritualistic Feeding" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model ends a Charge move, until the end of the turn, add 3 to the Attacks characteristic of its Shaper’s ritual blade.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้จบการเคลื่อนที่แบบชาร์จ จนจบเทิร์น เพิ่ม 3 ให้กับค่า Attack ของ Shaper’s ritual blade ของมัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -156,7 +156,7 @@
           <profiles>
             <profile id="5d9e-289f-1504-fc93" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นำให้กับยูนิตดังต่อไปนี้:
 - KROOT CARNIVORES</characteristic>
               </characteristics>
             </profile>
@@ -169,7 +169,7 @@
           <profiles>
             <profile id="56ca-4c21-86c5-c8b1" name="The Shaper Commands" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit have the Feel No Pain 6+ ability. If models in that unit destroy an enemy unit in the Fight phase, then until the end of the battle, while this model is leading that unit, models in the unit have the Feel No Pain 4+ ability instead.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นผู้นำยูนิต โมเดลในยูนิตนั้นจะมี ความสามารถ Feel No Pain 6+ หากโมเดลนี้ทำลายยูนิตศัตรูใน Fight Phase จนจบเกม โมเดลในยูนิตนี้จะมีความสามารถ Feel No Pain 4+ แทน</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -275,7 +275,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink id="6846-d29f-53f-ee96" name="Warlord" hidden="false" collective="false" import="true" targetId="179c-d88a-d49b-48b9" type="selectionEntry"/>
-        <entryLink id="1f9d-e69b-805b-20a0" name="Enhancements - Kauyon" hidden="false" collective="false" import="true" targetId="fae2-569a-6bec-9167" type="selectionEntryGroup"/>
+        <entryLink id="1f9d-e69b-805b-20a0" name="Enhancements" hidden="false" collective="false" import="true" targetId="fae2-569a-6bec-9167" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="40.0"/>
@@ -387,27 +387,27 @@
       <profiles>
         <profile id="79c3-f1c9-8372-de8b" name="Agile Combatant" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model is eligible to shoot in a turn in which it Fell Back.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถยิงได้ในเทิร์นที่มัน Fall back</characteristic>
           </characteristics>
         </profile>
         <profile id="b13-dc2f-2104-2ba2" name="Hero of the Empire (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly T’AU EMPIRE unit is within 6&quot; of this model, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิต T’au Empire ที่เป็นมิตรอยู่ ภายในระยะ 6 นิ้ว ของโมเดลนี้ ทุกครั้งที่โมเดลในยูนิตนั้นทำการโจมตี ระยะไกล คุณสามารถ Re-roll a Hit roll ที่ออก 1 ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="d1d-2e4f-db3d-b3c4" name="Advanced Guardian Drone" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a ranged attack targets the bearer, subtract 1 from the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่มีการโจมตีระยะไกลใส่ผู้สวมใส่ ให้ลบ 1 จาก the Wound roll</characteristic>
           </characteristics>
         </profile>
         <profile id="8d40-9af2-d279-b0e2" name="Command-link Drone (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly T’AU EMPIRE unit is within 6&quot; of the bearer, each time you select that unit as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิต T’au Empire ที่เป็นมิตรอยู่ ภายในระยะ 6 นิ้ว ของผู้สวมใส่ ทุกครั้งที่คุณใช้ Stratagem กับยูนิตนั้น ทอยหนึ่ง D6 ลูก: ที่ 5+ คุณจะได้รับ 1 CP</characteristic>
           </characteristics>
         </profile>
         <profile id="8bf2-521f-d66-b9c" name="Supreme Commander" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If this model is in your army, it must be your WARLORD.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้อยู่ในกองทัพของคุณ มันจะต้องเป็น Warlord เท่านั้น</characteristic>
           </characteristics>
         </profile>
         <profile id="278f-dd0d-f414-5f1a" name="Commander Shadowsun" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -425,7 +425,7 @@
         <infoLink id="def6-ee0e-3340-cfd7" name="Infiltrators" hidden="false" targetId="c05d-f4c3-f091-4938" type="rule"/>
         <infoLink id="30b0-b00c-9536-d7e7" name="Lone Operative" hidden="false" targetId="a8a0-8fe7-898-e0f3" type="rule"/>
         <infoLink id="2bd0-da75-5958-6f3" name="Stealth" hidden="false" targetId="bec5-4288-34a6-ccfa" type="rule"/>
-        <infoLink id="561f-a241-6921-1d0e" name="Invulnerable Save" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
+        <infoLink id="561f-a241-6921-1d0e" name="Invulnerable Save (5+)" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
         <infoLink id="2a80-4ea2-fc93-5757" name="For The Greater Good" hidden="false" targetId="eeb6-c42-48f7-cc21" type="rule"/>
       </infoLinks>
       <categoryLinks>
@@ -598,12 +598,12 @@
       <profiles>
         <profile id="b518-dfb4-ed41-6393" name="Way of the Short Blade" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a model in that unit makes an attack that targets an enemy unit within 9&quot;, add 1 to the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นำยูนิต ทุกครั้งที่โมเดลใน ยูนิตนั้นทำการโจมตีใส่ยูนิตศัตรูที่อยู่ภายในระยะ 9 นิ้ว เพิ่ม 1 the Wound roll</characteristic>
           </characteristics>
         </profile>
         <profile id="49a3-e55-9ec9-32fd" name="Aggressive Offensive" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, when this model is selected to fight, it can use this ability. If it does, until the end of the phase, each time it makes an attack, you can re-roll the Hit roll and you can re-roll the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม เมื่อโมเดลนี้ถูกเลือกให้ต่อสู้ มันสามารถใช้ความสามารถนี้ได้ หากทำเช่นนี้จนจบเฟส ทุกครั้งที่โมเดลนี้ ทำการโจมตี คุณสามารถ Re-roll the Hit roll และ Re-roll the Wound roll ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="8889-bb93-823-4843" name="Commander Farsight" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -622,7 +622,7 @@
           <profiles>
             <profile id="a15a-7948-3ddb-ebd4" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นำให้กับยูนิตดังต่อไปนี้:
 - CRISIS BATTLESUITS</characteristic>
               </characteristics>
             </profile>
@@ -634,7 +634,7 @@
       </infoGroups>
       <infoLinks>
         <infoLink id="9fdd-c9a3-b984-5cc1" name="Deep Strike" hidden="false" targetId="7cb5-dd6b-dd87-ad3b" type="rule"/>
-        <infoLink id="112d-40ae-9f4c-6f14" name="Invulnerable Save" hidden="false" targetId="5b77-29f8-7b77-75e3" type="profile"/>
+        <infoLink id="112d-40ae-9f4c-6f14" name="Invulnerable Save (4+)" hidden="false" targetId="5b77-29f8-7b77-75e3" type="profile"/>
         <infoLink id="e8c8-744b-8bcb-456f" name="For The Greater Good" hidden="false" targetId="eeb6-c42-48f7-cc21" type="rule"/>
       </infoLinks>
       <categoryLinks>
@@ -918,7 +918,7 @@
       <profiles>
         <profile id="1597-2952-693f-60f2" name="Crisis Commander" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นผู้นำยูนิต ทุกครั้งที่โมเดลในยูนิตนั้นทำการโจมตีระยะไกล คุณสามารถ Re-roll a Hit roll ที่ออก 1 ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="1b5b-8bc9-907e-3372" name="Commander in Crisis Battlesuit" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -937,7 +937,7 @@
           <profiles>
             <profile id="bc3f-51ad-2fdb-1006" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นำให้กับยูนิตดังต่อไปนี้:
 - CRISIS BATTLESUITS</characteristic>
               </characteristics>
             </profile>
@@ -1031,7 +1031,7 @@
       <profiles>
         <profile id="a2d3-2ad-5805-8a37" name="Enforcer Commander" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a ranged attack targets that unit, worsen the Armour Penetration characteristic of that attack by 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นผู้นำยูนิต ทุกครั้งที่มีการโจมตีระยะ ไกลใส่ยูนิตนั้น ให้ลด 1 จากค่า Armour Penetration ของการโจมตีนั้น</characteristic>
           </characteristics>
         </profile>
         <profile id="374a-f353-ddb0-f709" name="Commander in Enforcer Battlesuit" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -1050,7 +1050,7 @@
           <profiles>
             <profile id="c575-5810-d5a-bfd0" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นำให้กับยูนิตดังต่อไปนี้:
 - CRISIS BATTLESUITS</characteristic>
               </characteristics>
             </profile>
@@ -1117,7 +1117,7 @@
           <profiles>
             <profile id="1286-6475-344a-bdcb" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นำให้กับยูนิตดังต่อไปนี้:
 - CRISIS BATTLESUITS</characteristic>
               </characteristics>
             </profile>
@@ -1130,7 +1130,7 @@
           <profiles>
             <profile id="e09d-50a0-b1a2-f705" name="Coldstar Commander" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit have a Move characteristic of 12&quot; and ranged weapons equipped by models in that unit have the [ASSAULT] ability.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นผู้นำยูนิต โมเดลในยูนิตนั้นจะมี ค่า Move เท่ากับ 12 นิ้ว และอาวุธระยะไกลของโมเดลในยูนิตนั้น จะมีความสามารถ [ASSAULT]</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1206,9 +1206,9 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dede-e5b9-1c61-ab4a" type="max"/>
           </constraints>
         </entryLink>
-        <entryLink id="78f-ce76-c6c6-1fe7" name="Drones" hidden="false" collective="false" import="true" targetId="8af8-6f80-96ef-6cdf" type="selectionEntryGroup"/>
+        <entryLink id="78f-ce76-c6c6-1fe7" name="Drones (0-2)" hidden="false" collective="false" import="true" targetId="8af8-6f80-96ef-6cdf" type="selectionEntryGroup"/>
         <entryLink id="a7ba-d2ae-514d-738a" name="Warlord" hidden="false" collective="false" import="true" targetId="179c-d88a-d49b-48b9" type="selectionEntry"/>
-        <entryLink id="9979-aac6-76a7-397e" name="Enhancements - Kauyon" hidden="false" collective="false" import="true" targetId="fae2-569a-6bec-9167" type="selectionEntryGroup"/>
+        <entryLink id="9979-aac6-76a7-397e" name="Enhancements" hidden="false" collective="false" import="true" targetId="fae2-569a-6bec-9167" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="110.0"/>
@@ -1231,12 +1231,12 @@
         </profile>
         <profile id="5fe0-afe2-451c-38d2" name="Volley Fire" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, add 1 to the Attacks characteristic of ranged weapons equipped by models in that unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นผู้นำยูนิต ให้เพิ่ม 1 ให้กับค่า Attack ของอาวุธ ระยะไกลของโมเดลในยูนิตนั้น</characteristic>
           </characteristics>
         </profile>
         <profile id="7c91-fe45-cd-7abc" name="Crack Shot" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a ranged attack, on a Critical Wound, that attack has an Armour Penetration characteristic of -3.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้โจมตีระยะไกล หากเกิด Critical Wound การโจมตีนั้นยะมีค่า Armour Penetration เท่ากับ -3</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1245,7 +1245,7 @@
           <profiles>
             <profile id="e084-9d6c-36d3-d635" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นำให้กับยูนิตดังต่อไปนี้:
 - BREACHER TEAM
 - STRIKE TEAM</characteristic>
               </characteristics>
@@ -1318,7 +1318,7 @@
       <entryLinks>
         <entryLink id="c4de-760c-da47-6d04" name="Warlord" hidden="false" collective="false" import="true" targetId="179c-d88a-d49b-48b9" type="selectionEntry"/>
         <entryLink id="5646-22a8-1a07-6d9a" name="Enhancements - Kauyon" hidden="false" collective="false" import="true" targetId="fae2-569a-6bec-9167" type="selectionEntryGroup"/>
-        <entryLink id="741e-93f-709e-8751" name="Drones" hidden="false" collective="false" import="true" targetId="8af8-6f80-96ef-6cdf" type="selectionEntryGroup"/>
+        <entryLink id="741e-93f-709e-8751" name="Drones (0-2)" hidden="false" collective="false" import="true" targetId="8af8-6f80-96ef-6cdf" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="40.0"/>
@@ -1360,7 +1360,7 @@
         </profile>
         <profile id="3a16-c8c-5d03-c1a1" name="Coordinated Leadership" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Command phase, roll one D6: on a 4+, you gain 1CP.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Command phase ของคุณ ทอยหนึ่ง D6: ที่ 4+ คุณจะได้รับ 1 CP</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1369,7 +1369,7 @@
           <profiles>
             <profile id="28bc-81f2-45a9-1e5e" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นำให้กับยูนิตดังต่อไปนี้:
 - BREACHER TEAM
 - STRIKE TEAM</characteristic>
               </characteristics>
@@ -1383,7 +1383,7 @@
           <profiles>
             <profile id="77a0-3cc8-dacf-bbdf" name="Failure Is Not an Option" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นผู้นำยูนิต โมเดลในยูนิตนั้นจะมี ความสามารถ Feel No Pain 5+</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1393,7 +1393,7 @@
         </infoGroup>
       </infoGroups>
       <infoLinks>
-        <infoLink id="3bd3-1b3c-41d6-a73" name="Invulnerable Save" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
+        <infoLink id="3bd3-1b3c-41d6-a73" name="Invulnerable Save (5+)" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="576f-939c-11d1-4d0b" name="Character" hidden="false" targetId="9cfd-1c32-585f-7d5c" primary="true"/>
@@ -1477,7 +1477,7 @@
       <profiles>
         <profile id="d75c-8807-c2d9-2fcc" name="Duality Shield" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, each time an attack targets this unit, it can use this ability. If it does, until the end of the phase, models in this unit have a 2+ invulnerable save.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม ทุกครั้งที่มีการโจมตีใส่ยูนิตนี้ ยูนิตนี้สามารถ ใช้ความสามารถนี้ได้ หากทำเช่นนั้น จนจบเฟส โมเดลในยูนิตนี้จะมี invulnerable save 2+</characteristic>
           </characteristics>
         </profile>
         <profile id="b79a-617-8519-d24f" name="Invulnerable Save (4+)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -1487,12 +1487,12 @@
         </profile>
         <profile id="726c-8c32-9fa2-6c2e" name="Paradox of Duality" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time an attack targets this unit, subtract 1 from the Hit roll and subtract 1 from the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่มีการโจมตีใส่ยูนิตนี้ ให้ลบ 1 จาก the Hit roll และลบ 1 จาก the Wound roll</characteristic>
           </characteristics>
         </profile>
         <profile id="8f07-3db6-72e6-2d9c" name="Supreme Loyalty (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly T’AU EMPIRE unit is within 6&quot; of this unit, each time that unit takes a Battle-shock or Leadership test, add 1 to that test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิต T’au Empire ที่เป็นมิตรอยู่ภายในระยะ 6 นิ้ว ของยูนิตนี้ ทุกครั้งที่ยูนิตนั้นทำ Battle-shock หรือ Leadership test ให้เพิ่ม 1 ให้กับการทดสอบนั้น</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1641,7 +1641,7 @@
         </profile>
         <profile id="217c-55e6-54fd-2338" name="Inspirational Defiance" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นผู้นำยูนิต เพิ่ม 1 ให้กับค่า Objective Control โมเดลในยูนิตนั้น</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1665,10 +1665,11 @@
           <profiles>
             <profile id="1eb5-c753-c9ab-ed3a" name="Martial Warrior" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model is selected to fight, select one of the following abilities to be active while resolving those attacks:
-- Direct Grace: Fidelity has the [PRECISION] ability.
-- Forceful Strike: Fidelity has the [DEVASTATING WOUNDS] ability.
-- Whirling Stance: Fidelity has the [SUSTAINED HITS 2] ability instead of [SUSTAINED HITS 1].</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ถูกเลือกให้ต่อสู้, เลือกหนึ่งในความสามารถต่อไปนี้เพื่อที่จะมีผลเมื่อทำการโจมตีเหล่านั้น:
+
+- Direct Grace: Fidelity จะมีความสามารถ [PRECISION] 
+- Forceful Strike: Fidelity จะมีความสามารถ [DEVASTATING WOUNDS] 
+- Whirling Stance: Fidelity จะมีความสามารถ [SUSTAINED HITS 2] แทน [SUSTAINED HITS 1]</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1680,7 +1681,7 @@
         </infoGroup>
       </infoGroups>
       <infoLinks>
-        <infoLink id="bdb-1587-cf80-72df" name="Invulnerable Save" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
+        <infoLink id="bdb-1587-cf80-72df" name="Invulnerable Save (5+)" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="9afb-c0f8-a7f6-cb69" name="Character" hidden="false" targetId="9cfd-1c32-585f-7d5c" primary="false"/>
@@ -1741,12 +1742,12 @@
         </profile>
         <profile id="2760-a977-5b19-6364" name="Structural Analyser" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a model in that unit makes a ranged attack, add 1 to the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นผู้นำยูนิต ทุกครั้งที่โมเดลในยูนิตนั้นทำการโจมตีระยะไกล เพิ่ม 1 the Wound roll</characteristic>
           </characteristics>
         </profile>
         <profile id="784c-ed1d-8f6-7c7b" name="Jammer Array" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Enemy units that are set up on the battlefield from Reserves cannot be set up within 12&quot; of this model.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตศัตรูที่เข้ามาบนสนามรบจาก Reserves ไม่สามารถวางภายในระยะ 12 นิ้ว ของโมเดลนี้</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1755,8 +1756,8 @@
           <profiles>
             <profile id="7872-ee2c-cffa-7dfb" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
-- PATHFINDER TEAM</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นำให้กับยูนิตดังต่อไปนี้:
+- Pathfinder Team</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -9614,7 +9615,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
       <entryLinks>
         <entryLink id="6b0f-5503-b19d-ec88" name="Burst cannon" hidden="false" collective="false" import="true" targetId="744e-b4b0-38a1-b2bc" type="selectionEntry"/>
         <entryLink id="7635-871-1437-e7b7" name="Airbursting fragmentation projector" hidden="false" collective="false" import="true" targetId="c450-b23e-d944-592" type="selectionEntry"/>
-        <entryLink id="164b-bdcb-796a-2033" name="Battlesuit Support System" hidden="false" collective="false" import="true" targetId="d00f-7725-16e3-c8ad" type="selectionEntry"/>
+        <entryLink id="164b-bdcb-796a-2033" name="Battlesuit support system" hidden="false" collective="false" import="true" targetId="d00f-7725-16e3-c8ad" type="selectionEntry"/>
         <entryLink id="eccc-812a-bc16-efb8" name="Cyclic ion blaster" hidden="false" collective="false" import="true" targetId="50c-52f0-4214-e932" type="selectionEntry"/>
         <entryLink id="6713-2448-d215-dfe0" name="Fusion blaster" hidden="false" collective="false" import="true" targetId="bd09-e873-aa20-1ee8" type="selectionEntry"/>
         <entryLink id="2653-db59-f983-6b5d" name="Missile pod" hidden="false" collective="false" import="true" targetId="c231-cb03-49de-50e4" type="selectionEntry"/>
@@ -9943,7 +9944,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
     <profile id="b5b2-f430-5dc1-106b" name="Battlesuit Support System" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <comment>Shared</comment>
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer’s unit is eligible to shoot in a turn in which it Fell Back, but when doing so only models equipped with this wargear can make ranged attacks.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตของผู้สวมใส่สามารถยิงในเทิร์นที่ Fall back แต่เมื่อทำเช่นนั้นจะมีเพียงโมเดลที่ติดตั้ง Wargear นี้เท่านั้นที่สามารถโจมตี ระยะไกลได้</characteristic>
       </characteristics>
     </profile>
     <profile id="6c1e-179e-a2dc-85d6" name="Targeting Array" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
