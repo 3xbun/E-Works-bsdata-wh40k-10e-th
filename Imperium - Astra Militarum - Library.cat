@@ -8126,17 +8126,17 @@
         </profile>
         <profile id="d520-92fd-8c74-ec6e" name="Tank Commander" hidden="false" typeId="3fc9-16d8-8670-c8e2" typeName="Orders">
           <characteristics>
-            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">This Officer can issue 1 Order to Squadron units.</characteristic>
+            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">โมเดล Officer ตัวนี้สามารถออกคําสั่งใส่ยูนิต Squadron ได้ 1 คําสั่ง</characteristic>
           </characteristics>
         </profile>
         <profile id="c082-8d5a-82a8-68dc" name="Death Befitting An Office" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">When this model is destroyed , roll one D6: on a 2+, do not remove it from play – it can, after the attacking model’s unit has finished making its attacks, shoot as if it were your Shooting phase and as if it had its full wounds remaining. This model is then removed from play.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้ถูกทําลาย ให้ทอย 1D6 ที่ 2+ หากทอยผ่าน จะยังไม่นําโมเดลนี้ออกจากสนาม หลังจากที่ศัตรูทําการโจมตี เสร็จแล้ว โมเดลนี้สามารถทําการยิงสวนกลับไปได้เหมือนกับช่วง shooting- phase ของคุณ โดยมี wound เท่ากับค่าเริ่มต้น หลังจากทําการโจมตีเสร็จสิ้น จึงจะนําออกจากสนาม</characteristic>
           </characteristics>
         </profile>
         <profile id="4ff0-53df-403a-f934" name="Vox-net" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model issues an Order, it can issue it to an eligible unit up to 12&quot; away</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ออกคําสั่ง สามารถออกคําสั่งได้ไกลถึง 12 นิ้ว</characteristic>
           </characteristics>
         </profile>
       </profiles>
