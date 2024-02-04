@@ -163,33 +163,30 @@
         </profile>
         <profile id="2a04-449d-87ed-e7b4" name="Emplacement Platform" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Friendly Astra Militarum Infantry models can be set up or end any type of move on top of the platform section of this Fortification.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล Astra Militarum Infantry ที่เป็นมิตร สามารถถูกวางหริอจบการ Move ประเภทใดก็ได้ที่ด้านบนของ Fortification นี้</characteristic>
           </characteristics>
         </profile>
         <profile id="a11b-d88f-224b-7bd7" name="Reinforced Cover" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่มีการยิงมาที่โมเดล หากไม่สามารถมองเห็น โมเดลทุกตัวได้ทั้งหมดจากยูนิตที่โจมตีมาเนื่องจากโมเดลอยู่ใน Fortification นี้ โมเดลที่ถูกโจมตีจะได้รับ Benefit of Cover จากการโจมตีครั้งนั้น</characteristic>
           </characteristics>
         </profile>
         <profile id="6d15-ae73-bc60-165b" name="Defence Line" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While an Astra Militarum Infantry model has the Benefit of Cover as a result of this terrain feature, that model has a 4+ invulnerable save</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล Astra Militarum Infantry ที่ได้รับ Benefit of Cover จาก Terrain feature นี้ (ดูด้านบน) โมเดลนี้จะมี Invulnerable save 4+</characteristic>
           </characteristics>
         </profile>
         <profile id="f17a-5562-a920-1f2e" name="Fortification" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While an enemy unit is only within Engagement Range of one or more Fortifications from your army:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตศัตรูอยู่ใน Engagement Range ของ Fortifications นี้ตั้งแต่หนึ่งยูนิตขิ้นไป:
 
-
-■ That unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.
-
-
-■ Models in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so.</characteristic>
+■ ยูนิตนั้นยังคงสามารถเป็นเป้าหมายของการโจมตีระยะไกลได้ แต่ทุกครั้ง ที่มีการโจมตีดังกล่าว ให้ลบ 1 the Hot roll ยกเว้นการโจมตีด้วยปืน Pistol 
+■ โมเดลในยูนิตนั้นไม่จําเป็นต้องทําการทดสอบ Desperate Escape หลังจาก ทําการ Fall-Back ในขณะที่ติดสถานะ Battle-shock ยกเว้นโมเดลจะเคลื่อน ที่ผ่านโมเดลศัตรู</characteristic>
           </characteristics>
         </profile>
         <profile id="c620-2ef7-d09d-1ed3" name="Deployment" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">When this model is set up, it will consist of 1 platform section, up to 5 shield sections, up to 2 broken shield sections and up to 2 end sections. All sections must be connected to each other to form a continuous defence line; the 2 broken shield sections can be placed either at the end of the defence line, or in the middle of it such that both are within ½&quot; of each other (in this case, these 2 sections count as being connected to each other). All of the sections that have been set up are then treated as a single model for all rules purposes.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้ถูกเซ็ทอัพ มันจะประกอบด้วย Platform section 1 ส่วน Shield section สูงสุด 5 ส่วน Broken shield sections สูงสุด 2 ส่วน และ End sections สูงสุด 2 ส่วน ส่วนทั้งหมดต้องเชื่อมต่อถึงกันเพื่อสร้างแนวปองกันต่อ เนื่อง Broken shield sections 2 ส่วนสามารถวางไว้ที่ปลายแนวปองกันหรือ ตรงกลางแนวป้องกันโดยให้ทั้งสองส่วนอยู่ภายใน 1/2&quot; ของกันและกัน (ในกรณีนี้ ส่วนทั้ง 2 นี้ถือว่าเชื่อมต่อถึงกัน) ส่วนทั้งหมดที่ถูกเซ็ทอัพแล้วจะถือเป็นโมเดล เดียวสําหรับวัตถุประสงค์ของกฎทั้งหมด</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4704,17 +4701,17 @@
         </profile>
         <profile id="4768-11ce-3c8b-3ce4" name="Officer" hidden="false" typeId="3fc9-16d8-8670-c8e2" typeName="Orders">
           <characteristics>
-            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">This Officer can issue up to 3 Orders to Astra Militarum units.</characteristic>
+            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">โมเดล Officer ตัวนี้สามารถออกคําสั่งใส่ยูนิต Astra Militarum ได้ 3 คําสั่ง</characteristic>
           </characteristics>
         </profile>
         <profile id="ea84-ea61-c0c8-2dd6" name="The Lord Solar" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of your Command phase, If this model is on the battlefield, you gain 1CP.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่ม Command Phase ของคุณ หากโมเดลนี้อยู่บน สนามรบ คุณจะได้รับ 1 CP</characteristic>
           </characteristics>
         </profile>
         <profile id="84cb-968f-e85b-ee8d" name="The Collegiate Astrolex" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">After both players have deployed their armies, select up to three Astra Militarum units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หลังจากที่ผู้เล่นทั้งสองทําการ Deploy กองทัพ แล้ว ให้เลือกยูนิต Astra Militarum สูงสุดสามยูนิตในกองทัพของคุณแล้วทําการ Deploy ใหม่อีกครั้ง หริอนํายูนิตเหล่านั้นไปไว้ใน Strategic reserves ได้ หากต้องการ โดยไม่คํานึงถึงจํานวนที่อยู่ใน Strategic reserve ตั้งแต่แรกอยู่แล้ว</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4723,7 +4720,7 @@
           <profiles>
             <profile id="b70c-2b-b942-ef2" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถติดตั้งให้กับยูนิตต่อไปนี้ได้:
 - Attilan Rough Riders
 - Cadian Shock Troops
 - Catachan Jungle Fighters
@@ -20079,30 +20076,29 @@ DUTY AND HONOUR!
   <sharedProfiles>
     <profile id="3a3d-9e14-64a6-c032" name="Invulnerable Save 5+" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This Model has a 5+ Invulnerable Save</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี 5+ Invulnerable Save</characteristic>
       </characteristics>
     </profile>
     <profile id="9658-6ed-d3c0-e755" name="Invulnerable Save 4+" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This Model has a 4+ Invulnerable Save</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี 4+ Invulnerable Save</characteristic>
       </characteristics>
     </profile>
     <profile id="a626-b90a-cf43-68b4" name="Damaged: 1-4 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-4 Wound ทุกครั้งที่โมเดลนี้ทําการโจมตี ให้ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="9b6f-5790-3573-45c7" name="Ogryn Bodyguard" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While one or more Officer models are in the same unit as this model, those Officer models have the Feel No Pain 4+ ability</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดล Officer ตั้งแต่หนึ่งตัวขิ้นไป, อยู่ในยูนิต เดียวกันกับโมเดลนี้, โมเดล Officer เหล่านั้นจะมีความสามารถ Feel No Pain 4+</characteristic>
       </characteristics>
     </profile>
     <profile id="a48c-9345-509b-518c" name="Loyal Protector" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the Declare Battle Formations step, this model must join one Command Squad unit from your army (a Command Squad cannot have more than one Loyal Protector model joined to it). This model then counts as part of that Command Squad for the rest of the battle, and its Starting Strength is increased accordingly. If it is not possible to join this model to a Command Squad, it does not take part in the battle and counts as having been destroyed. 
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงประกาศ Battle Formations โมเดลนี้จะต้องเข้าร่วมกับยูนิต Command- Squad หนึ่งยูนิตในกองทัพของคุณ (Command Squad ไม่สามารถมีโมเดล Loyal Protector มากกว่าหนึ่งตัวได้) โมเดลนี้นับเป็นส่วนหนึ่งของยูนิต Command Squad นั้นจนจบเกมและ Starting Strength ของมันจะเพิ่มขึ้นตาม จํานวนโมเดล หากไม่สามารถเข้าร่วมกับ Command Squad ได้ โมเดลดังกล่าว จะถูกทําลายและไม่นับว่าอยู่ในเกม
 
-
-While this model is joined to a unit, it can embark within any Transport that unit can embark within, and takes up the space of 3 models.</characteristic>
+เมื่อที่โมเดลนี้รวมเข้ากับยูนิต สามารถเริ่มเกมด้วยการ Embark ใน Transport ใดก็ได้ที่ยูนิตสามารถ Embark ได้ และใช้พื้นที่เท่ากับโมเดล 3 ตัว</characteristic>
       </characteristics>
     </profile>
     <profile id="bd6a-9b65-19dc-e09a" name="Guardsman" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -20197,7 +20193,7 @@ While this model is joined to a unit, it can embark within any Transport that un
     </profile>
     <profile id="30d1-9e89-5aa2-6bde" name="Damaged: 1-6 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-6 Wound ทุกครั้งที่โมเดลนี้ทําการโจมตี ให้ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="3f52-eab3-befb-8dcb" name="Leman Russ Battle Tank" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -20212,7 +20208,7 @@ While this model is joined to a unit, it can embark within any Transport that un
     </profile>
     <profile id="e862-4703-fc73-5c46" name="Damaged: 1-8 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-8 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-8 Wound ให้ลบ 4 จากค่า Objective control (OC) และทุกครั้งที่โมเดลนี้ทําการโจมตี ให้ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="8f0a-f21-ee33-e69f" name="Tempestus Scion" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -20237,12 +20233,12 @@ While this model is joined to a unit, it can embark within any Transport that un
     </profile>
     <profile id="4ca9-3652-f045-85ba" name="Damaged: 1-7 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-7 wounds remaining, subtract 4 from its Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-7 Wound ให้ลบ 4 จากค่า Objective control (OC) และทุกครั้งที่โมเดลนี้ทําการโจมตี ให้ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="ac02-24ee-d928-9f4" name="Damaged: 1-5 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-5 Wound ทุกครั้งที่โมเดลนี้ทําการโจมตี ให้ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="c09c-fda4-9613-d2f3" name="Grenadier" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
