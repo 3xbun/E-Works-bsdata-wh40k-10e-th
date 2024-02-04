@@ -1145,12 +1145,12 @@
       <profiles>
         <profile id="9c13-76b5-43ba-b4f7" name="Officer" hidden="false" typeId="3fc9-16d8-8670-c8e2" typeName="Orders">
           <characteristics>
-            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">This unit’s Officer can issue 1 Order to a Regiment unit.</characteristic>
+            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">โมเดล Officer ตัวนี้สามารถออกคําสั่งใส่ยูนิต Regiment ได้ 1 คําสั่ง</characteristic>
           </characteristics>
         </profile>
         <profile id="4248-cf6f-79c7-aba6" name="Cadia Stands!" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this unit contains a Cadian Officer, you can ignore any or all modifiers to the characteristics of models in this unit and to any roll or test made for models in this unit (excluding modifiers to saving throws).</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตนี้มี Cadian Officer คุณสามารถเพิกเฉยต่อ ผลปรับแต่งใดๆ ที่มีผลต่อค่าสถานะของโมเดลในยูนิตนี้รวมถึงการทอยหริอ การทดสอบใดๆ ที่เกิดขิ้นสําหรับโมเดลในยูนิตนี้ (ยกเว้นการปรับแต่งที่มีผล ต่อการทอยเซฟ)</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3824,17 +3824,17 @@
         </profile>
         <profile id="280e-3f11-f189-e044" name="Cold Steel and Courage" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, melee weapons equipped by models in that unit have the [LETHAL HITS] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็น Leader ให้กับยูนิต อาวุธประชิด ของยูนิตนั้นจะมีความสามารถ [LETHAL HITS]</characteristic>
           </characteristics>
         </profile>
         <profile id="1852-5055-1320-6d2e" name="Been There, Seen it, Killed it" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a melee attack, if it made a Charge move this turn, you can re-roll the Hit roll and you can re-roll the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทําการโจมตีระยะประชิด หากโมเดลนี้ทําการชาร์จสําเร็จในเทิร์นนี้ คุณสามารถ Re-roll the Hit roll และ the Wound roll ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="cd4e-8f15-2a64-17b9" name="Officer" hidden="false" typeId="3fc9-16d8-8670-c8e2" typeName="Orders">
           <characteristics>
-            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">This Officer can issue up to 2 Orders to Regiment units.</characteristic>
+            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">โมเดล Officer ตัวนี้สามารถออกคําสั่งใส่ยูนิต Regiment ได้ 2 คําสั่ง</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3843,7 +3843,7 @@
           <profiles>
             <profile id="6498-dc4f-5dd0-df70" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถติดตั้งให้กับยูนิตต่อไปนี้ได้:
 - Catachan Jungle Fighters</characteristic>
               </characteristics>
             </profile>
@@ -5925,12 +5925,12 @@
       <profiles>
         <profile id="fe48-9ca2-e030-7057" name="Command Structure (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly Platoon unit is within 6&quot; of this unit’s Platoon Commander, you can target that unit with Stratagems even while it is Battle-shocked.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิต Platoon ในกองทัพคุณอยู่ในระยะ 6 นิ้วจากยูนิตนี้ ยูนิตนั้นสามารถใช้ Stratagem ได้แม้จะติดสถานะ Battle-shock อยู่ก็ตาม</characteristic>
           </characteristics>
         </profile>
         <profile id="a701-a04b-e1b3-ef1e" name="Officer" hidden="false" typeId="3fc9-16d8-8670-c8e2" typeName="Orders">
           <characteristics>
-            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">This unit’s Officer can issue 1 Order to a Regiment unit.</characteristic>
+            <characteristic name="Officer" typeId="36b-c3c9-245f-e97d">โมเดล Officer ตัวนี้สามารถออกคําสั่งใส่ยูนิต Regiment ได้ 1 คําสั่ง</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -10171,7 +10171,7 @@
       <profiles>
         <profile id="b8e3-1e1f-b58b-1ca0" name="Medi-pack" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer’s unit has the Feel No Pain 6+ ability</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผู้ที่ถือจะมี Feel No Pain 6+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -10206,7 +10206,7 @@
       <profiles>
         <profile id="ad3a-c003-5055-d0e7" name="Regimental Standard" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Add 1 to the Objective Control characteristic of models in the bearer’s unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เพิ่ม 1 ให้กับ Objective Control ของโมเดล ในยูนิตของผู้ถือ</characteristic>
           </characteristics>
         </profile>
       </profiles>
