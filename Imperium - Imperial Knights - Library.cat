@@ -930,7 +930,7 @@ Reclaim the Realm
         </profile>
         <profile id="aa56-4384-8f12-cc31" name="Martial Pride" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a melee attack targets this model, subtract 1 from the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่มีการโจมตีระยะประชิดใส่โมเดลนี้ ให้ลบ 1 จาก the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -939,7 +939,7 @@ Reclaim the Realm
           <profiles>
             <profile id="1d35-f0ed-8ef8-a52d" name="Gallant&apos;s Duty (Bondsman)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a model is affected by this ability, you can re-roll Charge rolls made for that model and each time that model makes a melee attack, you can re-roll the Hit roll.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลได้รับผลจากความสามารถนี้ คุณสามารถ Re-roll Charge roll สําหรับโมเดลนั้นได้ และทุกครั้งที่โมเดลนั้น โจมตีระยะประชิด คุณสามารถ Re-roll the Hit roll ได้</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -955,7 +955,7 @@ Reclaim the Realm
           </modifiers>
         </infoLink>
         <infoLink id="3d70-deb4-ae27-4af0" name="Super-Heavy Walker" hidden="false" targetId="5e13-1624-d280-418d" type="rule"/>
-        <infoLink id="5934-ecf2-f980-e506" name="Invulnerable Save 5+" hidden="false" targetId="8552-862d-6a49-4879" type="profile"/>
+        <infoLink id="5934-ecf2-f980-e506" name="Invulnerable Save (5+*)" hidden="false" targetId="8552-862d-6a49-4879" type="profile"/>
         <infoLink id="4954-cc62-a646-8f2b" name="Damaged: 1-7 Wounds Remaining" hidden="false" targetId="a274-b647-186a-54ee" type="profile"/>
       </infoLinks>
       <categoryLinks>
@@ -1094,7 +1094,7 @@ Reclaim the Realm
           <profiles>
             <profile id="61b5-1d00-e20d-2e1d" name="Warden&apos;s Duty (Bondsman)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a model is affected by this ability, each time an attack is allocated to that model, subtract 1 from the Damage characteristic of that attack.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลได้รับผลจากความสามารถนี้ ทุกครั้งที่มีการจัดสรรการโจมตี(Allocate)ให้กับโมเดลนั้น ให้ลบ 1 จากค่า Damage ของการโจมตีนั้น</characteristic>
               </characteristics>
             </profile>
           </profiles>
