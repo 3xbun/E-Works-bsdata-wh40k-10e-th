@@ -1412,12 +1412,13 @@
       <profiles>
         <profile id="bf86-5de2-35f6-7cc6" name="Turbo-boost" publicationId="4115-3627-e608-39f6" page="17" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6&quot; to the Move characteristic of models in this unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตนี้เคลื่อนที่แบบ Advance เพิ่มค่า Move ของโมเดลใน ยูนิตนี้อีก 6&quot; จนจบเฟส แทนการทอย Advance</characteristic>
           </characteristics>
         </profile>
         <profile id="daa6-6c8a-136f-695" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="18" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character from your army with the Leader ability can be attached to a Outrider Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเปนผูนําใหกับยูนิต
+Outrider Squad มันสามารถเปนผูนํายูนิตนี้ไดเชนกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
