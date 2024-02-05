@@ -2410,17 +2410,17 @@
         </profile>
         <profile id="3431-c2fc-bb66-b5f3" name="Node Lash (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll. If the target is Battle-shocked, add 1 to the Wound roll as well.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ขณะที่โมเดลนี้เป็นผู้นํายูนิต ทุกครั้งที่โมเดลในยูนิต นั้นโจมตี ให้เพิ่ม 1 ลงใน the Hit roll ถ้าเป้าหมาย Battle-shocked ให้เพิ่ม 1 ลงใน the Wound roll เช่นกัน</characteristic>
           </characteristics>
         </profile>
         <profile id="0f27-7f4d-4bd3-43f1" name="Psychic Terror (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If one or more Neurotyrants from your army are on the battlefield when you unleash the Shadow in the Warp, subtract 1 from the Battle-shock test each enemy unit on the battlefield must take as a result.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากมี Neurotyrants หนึ่งยูนิตขึ้นไปจาก กองทัพของคุณอยู่ในสนามรบเมื่อคุณปลดปล่อย Shadow in the Warp ให้ลบ 1 จากการทดสอบ Battle-shock ของยูนิตศัตรูแต่ละยูนิตในสนามรบที่ต้อง ทดสอบที่เป็นผลมาจากการปลดปล่อย Shadow in the Warp</characteristic>
           </characteristics>
         </profile>
         <profile id="808e-ed23-9487-8b66" name="Synaptic Relays" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Command phase, you can select up to two friendly Tyranids units within 18&quot; of this model’s unit. Until the start of your next Command phase, the selected units are always considered to be within Synapse Range of your army.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Command phase ของคุณ คุณสามารถเลือก ยูนิต Tyranids ที่เป็นมิตรสูงสุดสองยูนิตภายใน 18 นิ้วของยูนิตนี้ จนถึง Command phase ถัดไป ยูนิตที่เลือกจะถือว่าอยู่ในระยะ Synapse ของ กองทัพของคุณเสมอ</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2441,7 +2441,7 @@
         </infoGroup>
       </infoGroups>
       <infoLinks>
-        <infoLink id="f6c8-e11d-0fee-1359" name="Invulnerable Save 4+" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
+        <infoLink id="f6c8-e11d-0fee-1359" name="Invulnerable Save" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
         <infoLink id="9fc3-bae9-df73-3fbd" name="Shadow in the Warp" hidden="false" targetId="395b-a159-b293-27aa" type="rule"/>
         <infoLink id="2fab-d80f-4e83-580c" name="Synapse" hidden="false" targetId="86aa-437f-260b-5cad" type="rule"/>
       </infoLinks>
