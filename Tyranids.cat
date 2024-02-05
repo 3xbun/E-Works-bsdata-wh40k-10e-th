@@ -2567,7 +2567,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle round, you can target one model with this ability with the Rapid Ingress Stratagem for 0CP.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อ Battle Round คุณสามารถเลือกโมเดลหนึ่ง ตัวด้วยความสามารถนี้โดยใช้ Rapid Ingress Stratagem ฟรี</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -8262,7 +8262,7 @@ HIVE PREDATORS 
     </profile>
     <profile id="3f46-6dbb-d99b-4ae2" name="Feeder Tendrils" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model destroys an enemy Character model, you gain 1CP.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทําลายโมเดล Character ของศัตรู คุณจะได้รับ CP 1</characteristic>
       </characteristics>
     </profile>
     <profile id="9c62-16b6-ad61-163d" name="Floating Death" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
