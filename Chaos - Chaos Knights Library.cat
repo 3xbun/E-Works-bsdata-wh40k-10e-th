@@ -606,7 +606,7 @@
         </profile>
         <profile id="dec4-f0af-5aee-9e79" name="Karnivore" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">You can re-roll Charge rolls made for this model.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">คุณสามารถ Re-roll Charge roll สําหรับโมเดลนี้ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="7616-9c14-acc8-dd08" name="Invulnerable Save" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
