@@ -4084,7 +4084,7 @@ Reclaim the Realm
         <selectionEntry id="e424-58f3-8e79-19a6" name="Noble Lance" hidden="false" collective="false" import="true" type="upgrade">
           <rules>
             <rule id="92f9-bfbb-ce23-f12a" name="Indomitable Heroes" hidden="false">
-              <description>All IMPERIAL KNIGHTS models from your army have the Feel No Pain 6+ ability. If your army is Honoured, those models have the Feel No Pain 5+ ability.</description>
+              <description>โมเดล Imperial Knights ทั้งหมดในกองทัพของคุณจะมีความสามารถ Feel No Pain 6+ หากกองทัพของคุณได้รับ Honour โมเดลเหล่านี้ จะมีความสามารถ Feel No Pain 5+</description>
             </rule>
           </rules>
           <infoLinks>
@@ -4099,10 +4099,10 @@ Reclaim the Realm
   </sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="f5a5-d4cf-3b72-ed02" name="Bondsman Abilities" hidden="false">
-      <description>Some QUESTORIS models have a Bondsman ability, tagged with the word ‘Bondsman’. In your Command phase, one or more models from your army with a Bondsman ability can use that ability. For each one that does, select one friendly ARMIGER model within 12&quot; of that model (you cannot select an ARMIGER model that is already being affected by a Bondsman ability). Until the start of your next Command phase, the Armiger model you selected is affected by that Bondsman ability.</description>
+      <description>บางโมเดล Questoris มีความสามารถ Bondsman, มีแท็กคีย์เวิร์ด &apos;Bondsman&apos; ใน Command Phase ของคุณ โมเดลหนึ่งตัวหริอมากกว่า นั้นจากกองทัพของคุณที่มีความสามารถ Bondsman สามารถใช้ความ สามารถนั้นได้ สําหรับแต่ละโมเดลที่ใช้ เลือกโมเดล Armiger ที่เป็นมิตรหนึ่ง ตัวที่อยู่ภายในระยะ 12&quot; ของโมเดลนั้น (คุณไม่สามารถเลือกโมเดล Armiger ที่ได้รับผลจากความสามารถ Bondsman อยู่แล้วได้) จนถึงช่วง เริ่มต้น Command phase ถัดไปของคุณ โมเดล Armiger ที่คุณเลือก จะได้รับผลจากความสามารถ Bondsman นั้น</description>
     </rule>
     <rule id="b73d-e9bc-b7f3-ccb3" name="Conversion" hidden="false">
-      <description>Each time an attack is made with this weapon, if the target is more than 12&quot; from the bearer, an unmodified successful Hit roll of 4+ scores a Critical Hit.</description>
+      <description>ทุกครั้งที่มีการโจมตีจากอาวุธนี้ ถ้าเป้าหมายอยู่ห่างมากกว่า 12&quot; จากผู้สวมใส่ การทอยโดยไม่มีการปรับเปลี่ยนที่ได้ 4+ ถือว่าเป็น Critical Hit</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
