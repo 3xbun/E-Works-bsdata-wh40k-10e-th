@@ -4002,7 +4002,7 @@
       <profiles>
         <profile id="ca9b-8e0-47fa-32ed" name="Subterranean Tunnels" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model is set up on the battlefield using the Deep Strike ability, it can be set up anywhere on the battlefield that is more than 3&quot; horizontally away from all enemy units. When doing so, if this model is set up within 9&quot; of one or more enemy units, until the end of the turn, it is not eligible to declare a charge</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ถูกวางบนสนามรบโดยใช้ความ สามารถ Deep Strike มันสามารถวางได้ทุกที่บนสนามรบที่อยู่ห่างจากยูนิตศัตรู ทั้งหมดมากกว่า 3 นิ้วในแนวนอน เมื่อทําเช่นนั้น หากโมเดลนี้ถูกตั้งค่าภายใน 9 นิ้ว ของยูนิตศัตรูหนึ่งยูนิตขึ้นไป จนกว่าจะสิ้นสุดเทิร์น มันจะไม่สามารถประกาศชาร์จได้</characteristic>
           </characteristics>
         </profile>
         <profile id="2913-9d03-6b31-46a8" name="Trygon" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
