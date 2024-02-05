@@ -733,12 +733,12 @@
       <profiles>
         <profile id="762-8fda-bc0e-6e5f" name="Catechism of Death" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this unit contains Chaplain Cassius, melee weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตนี้มี Chaplain Cassius อาวุธระยะประชิด ของโมเดลในยูนิตนี้จะมีความสามารถ [DEVASTATING WOUNDS]</characteristic>
           </characteristics>
         </profile>
         <profile id="685b-a006-c655-4250" name="Unflinching" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit takes a Battle-shock or Leadership test, you can re-roll that test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้ทํา Battle-shock หริอ Leadership test คุณสามารถ Re-roll การทดสอบนั้นใหม่ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -773,7 +773,7 @@
             </profile>
             <profile id="4019-5ac3-1808-fb5b" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี invulnerable save 4+ </characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1010,7 +1010,7 @@
             </profile>
             <profile id="cb89-cc1a-5e19-2bf1" name="Jump Pack" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has a Move characteristic of 12&quot; and can move over models and terrain as if they were not there.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผู้สวมใส่จะมีค่า Move เท่ากับ 12&quot; สามารถเคลื่อนที่ผ่านโมเดล และ Terrain ได้ราวกับว่ามันไม่มีอยู่จริง</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1050,7 +1050,7 @@
             </profile>
             <profile id="4b39-2ba4-2741-5275" name="Jump Pack" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has a Move characteristic of 12&quot; and can move over models and terrain as if they were not there.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผู้สวมใส่จะมีค่า Move เท่ากับ 12&quot; สามารถเคลื่อนที่ผ่านโมเดล และ Terrain ได้ราวกับว่ามันไม่มีอยู่จริง</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1103,7 +1103,7 @@
             </profile>
             <profile id="b490-9584-430a-7495" name="Psychic Hood" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Models in the bearer’s unit have the Feel No Pain 4+ ability against Psychic Attacks.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผู้สวมใส่จะมี Feel No Pain 4+ ต่อการโจมตีแบบ Psychic</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1224,7 +1224,7 @@
             </profile>
             <profile id="f12-38da-600-43e8" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี invulnerable save 4+ </characteristic>
               </characteristics>
             </profile>
           </profiles>
