@@ -512,7 +512,7 @@
         </profile>
         <profile id="2e28-2c16-b363-684a" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Guardian Defenders
 ■ Storm Guardians</characteristic>
           </characteristics>
@@ -4089,7 +4089,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="8e59-8a27-382f-ebbb">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Guardian Defenders
 ■ Storm Guardians
 ■ Warlock Conclave</characteristic>
@@ -4377,7 +4377,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="b5a6-cb04-951e-3c0e">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Guardian Defenders
 ■ Storm Guardians
 ■ Warlock Conclave</characteristic>
@@ -4563,7 +4563,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="60c7-3eec-1396-ae4d">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Warlock Skyrunner Conclave
 ■ Windriders</characteristic>
           </characteristics>
@@ -6504,7 +6504,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="a5c9-19d8-137-fdac">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Corsair Voidreavers
 ■ Corsair Voidscarred
 ■ Guardian Defenders
@@ -7753,7 +7753,7 @@ Attacks characteristic of this model’s Solitaire weapons</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="5bd6-4043-fbc0-8277">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Wraithblades
 ■ Wraithguard
 ■ Wraithlord</characteristic>
@@ -8916,7 +8916,7 @@ Attacks characteristic of this model’s Solitaire weapons</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="b762-ef83-2f56-ded">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Corsair Voidreavers
 ■ Corsair Voidscarred
 ■ Guardian Defenders
@@ -12046,7 +12046,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="f2b9-a861-22b3-57e0">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Corsair Voidscarred
 ■ Corsair Voidreavers
 ■ Guardian Defenders
@@ -12423,7 +12423,7 @@ You can attach this unit to the above unit, even if one other Leader unit (excl
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="3be-fb9e-8fc9-71e3">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Court of the Archon
 ■ Kabalite Warriors</characteristic>
           </characteristics>
@@ -19427,7 +19427,7 @@ Designer’s Note: These are all cumulative, so if your army contains at least o
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="510b-2196-2fab-2f43">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Guardian Defenders
 ■ Storm Guardians
 You can attach this model to one of the above units, even if one other Leader unit (excluding Warlock units) has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths</characteristic>
@@ -19792,7 +19792,7 @@ You can attach this model to one of the above units, even if one other Leader u
       <profiles>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="4ca7-2eba-8559-ebf6">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Wraithblades
 ■ Wraithguard
 ■ Wraithlord</characteristic>

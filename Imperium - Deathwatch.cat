@@ -57,7 +57,7 @@
         </profile>
         <profile id="6240-ce76-8480-ccfe" name="Leader" publicationId="4115-3627-e608-39f6" page="8" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Deathwatch Veterans
 ■ Proteus Kill Team</characteristic>
           </characteristics>
@@ -168,7 +168,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
         </profile>
         <profile id="8863-f9da-9fe5-8262" name="Leader" publicationId="4115-3627-e608-39f6" page="10" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Deathwatch Veterans
 ■ Proteus Kill Team</characteristic>
           </characteristics>

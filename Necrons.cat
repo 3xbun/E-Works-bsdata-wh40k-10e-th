@@ -466,7 +466,7 @@
         </profile>
         <profile id="b567-98ec-597b-f8c9" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ NECRON WARRIORS
 You can attach this model to one of the above units even if one ROYAL WARDEN or NOBLE model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
@@ -530,7 +530,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
         </profile>
         <profile id="1ac3-6f6-b9a4-2496" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ LYCHGUARD
 ■ NECRON WARRIORS</characteristic>
@@ -662,7 +662,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
         </profile>
         <profile id="99f0-b4b4-4c25-a7a8" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS</characteristic>
           </characteristics>
         </profile>
@@ -755,7 +755,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
         </profile>
         <profile id="6c1-e306-7422-f026" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ LYCHGUARD
 ■ NECRON WARRIORS
@@ -948,7 +948,7 @@ You can attach this model to one of the above units even if NEMESOR ZAHNDREKH h
       <profiles>
         <profile id="4998-fa4a-8055-e811" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ LYCHGUARD
 ■ NECRON WARRIORS</characteristic>
@@ -1042,7 +1042,7 @@ You can attach this model to one of the above units even if NEMESOR ZAHNDREKH h
       <profiles>
         <profile id="4c30-fc2d-b7f7-fed1" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ LYCHGUARD
 ■ NECRON WARRIORS</characteristic>
@@ -1126,7 +1126,7 @@ in its place, with all of its wounds remaining (if the selected model was leadi
       <profiles>
         <profile id="5fcf-6a9e-f8d1-6d6f" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ NECRON WARRIORS</characteristic>
           </characteristics>
@@ -1236,7 +1236,7 @@ in its place, with all of its wounds remaining (if the selected model was leadi
       <profiles>
         <profile id="5b79-8-18b5-51d0" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ SKORPEKH DESTROYERS</characteristic>
           </characteristics>
         </profile>
@@ -1361,7 +1361,7 @@ in its place, with all of its wounds remaining (if the selected model was leadi
       <profiles>
         <profile id="e7ff-8e68-9766-247f" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ LOKHUST DESTROYERS
 ■ LOKHUST HEAVY DESTROYERS</characteristic>
           </characteristics>
@@ -1516,7 +1516,7 @@ in its place, with all of its wounds remaining (if the selected model was leadi
       <profiles>
         <profile id="2192-eee-9c40-fb31" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ LYCHGUARD
 ■ NECRON WARRIORS</characteristic>
@@ -1814,7 +1814,7 @@ in its place, with all of its wounds remaining (if the selected model was leadi
       <profiles>
         <profile id="a39f-6d97-5dac-8f37" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ LYCHGUARD
 ■ NECRON WARRIORS</characteristic>
@@ -2008,7 +2008,7 @@ in its place, with all of its wounds remaining (if the selected model was leadi
       <profiles>
         <profile id="df30-5340-9681-8ed5" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CANOPTEK WRAITHS
 ■ IMMORTALS
 ■ NECRON WARRIORS
@@ -2096,7 +2096,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       <profiles>
         <profile id="38bf-e8c8-1df1-1f0f" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ NECRON WARRIORS
 You can attach this model to one of the above units even if one ROYAL WARDEN or NOBLE model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
@@ -2185,7 +2185,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       <profiles>
         <profile id="62a7-3930-9c4b-1e98" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ NECRON WARRIORS
 You can attach this model to one of the above units even if one ROYAL WARDEN or NOBLE model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
@@ -2279,7 +2279,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       <profiles>
         <profile id="336-3705-cbf1-676a" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ NECRON WARRIORS
 You can attach this model to one of the above units even if one ROYAL WARDEN or NOBLE model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
@@ -7495,7 +7495,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       <profiles>
         <profile id="28b0-a7ad-6aaa-8032" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMMORTALS
 ■ LYCHGUARD
 ■ NECRON WARRIORS</characteristic>

@@ -649,7 +649,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="65ac-314e-ef32-fc12">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Aggressor Squad
 ■ Eradicator Squad
@@ -1043,7 +1043,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="707b-cbab-54ac-96eb">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Eliminator Squad
 ■ Incursor Squad
@@ -1147,7 +1147,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="c0ec-c5a8-757a-a31c">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Relic Terminator Squad
 ■ Terminator Assault Squad
@@ -1292,7 +1292,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="7bc3-a914-c28c-84d5">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessors with Jump Packs
 ■ Vanguard Veteran Squad with Jump Packs</characteristic>
@@ -13022,7 +13022,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="b91a-9570-fe75-f836">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Bike Squad
 ■ Outrider Squad</characteristic>
@@ -13298,7 +13298,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="ba72-8a45-4bf0-d10c">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Bladeguard Veteran Squad
@@ -13467,7 +13467,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="6071-4e16-eb0f-63a6">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Incursor Squad
 ■ Infiltrator Squad
@@ -13604,7 +13604,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="fbef-6d32-361e-9163">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Desolation Squad
@@ -13722,7 +13722,7 @@ model is within 12&quot;.</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="2b01-240c-52a6-88e7">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Eliminator Squad
 ■ Incursor Squad
@@ -13813,7 +13813,7 @@ model is within 12&quot;.</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="d0c-d5f-c94-6a53">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Relic Terminator Squad
 ■ Terminator Assault Squad
@@ -13883,7 +13883,7 @@ model is within 12&quot;.</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="667f-b83f-474c-3faf">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Squad with Jump Packs
 ■ Vanguard Veteran Squad with Jump Packs</characteristic>
@@ -13975,7 +13975,7 @@ model is within 12&quot;.</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="26af-8c8a-8691-a425">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Bladeguard Veteran Squad
@@ -14082,7 +14082,7 @@ model is within 12&quot;.</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="1f58-f4ff-f878-127d">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Terminator Assault Squad
 ■ Terminator Squad</characteristic>
@@ -14168,7 +14168,7 @@ weapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS]
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="e5b9-b9-e6bf-b25">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Bike Squad
 ■ Outrider Squad</characteristic>
@@ -14231,7 +14231,7 @@ weapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS]
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="62b0-76a-eacb-ee30">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessors with Jump Packs
 ■ Vanguard Veteran Squad with Jump Packs</characteristic>
@@ -14355,7 +14355,7 @@ Attacks characteristic of 7.</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="237c-15f3-c241-2ae1">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Desolation Squad
@@ -14726,7 +14726,7 @@ Attacks characteristic of 7.</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="f866-2e66-d276-7cc0">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Bladeguard Veteran Squad
@@ -14801,7 +14801,7 @@ Attacks characteristic of 7.</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="a19-ea12-9d03-65c4">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Desolation Squad
@@ -14912,7 +14912,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="90f4-f4cf-7e9-2088">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Aggressor Squad
 ■ Eradicator Squad
@@ -14975,7 +14975,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="d9f5-17f1-fc0c-cb61">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Devastator Squad
@@ -15190,7 +15190,7 @@ You can attach this model to the above unit even if one Captain, Chapter Master
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="ab49-936e-921e-b30b">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Terminator Squad
 ■ Terminator Assault Squad
@@ -15700,7 +15700,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="9839-fe55-3fc2-c9e7">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Bladeguard Veteran Squad
@@ -15818,7 +15818,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="6e66-2c98-4726-d12d">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Bladeguard Veteran Squad*
@@ -17965,7 +17965,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="893c-22fb-ecd5-1968">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Squad
 ■ Command Squad
@@ -18765,7 +18765,7 @@ You can attach this model to one of the above units even if one Character model
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="1150-328f-66f5-11fd">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Bike Squad
 ■ Outrider Squad</characteristic>
@@ -18829,7 +18829,7 @@ You can attach this model to one of the above units even if one Character model
       <profiles>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="bb08-858e-9634-9515">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Bike Squad
 ■ Outrider Squad</characteristic>
@@ -19007,7 +19007,7 @@ You can attach this model to one of the above units even if one Character model
       <profiles>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="e17-41e5-b31-1d44">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Aggressor Squad
 ■ Eradicator Squad
@@ -19080,7 +19080,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="3d8f-6029-fdb9-6f40">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Bike Squad
 ■ Outrider Squad</characteristic>
@@ -19312,7 +19312,7 @@ Attacks characteristic of 7.</characteristic>
       <profiles>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="292a-c073-f9f3-3e45">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Bike Squad
 ■ Outrider Squad</characteristic>

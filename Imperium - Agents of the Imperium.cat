@@ -2230,7 +2230,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="476e-389f-48d7-1d73">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMPERIUM BATTLELINE INFANTRY
 ■ INQUISTORIAL HENCHMEN</characteristic>
           </characteristics>
@@ -2348,7 +2348,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="7473-5420-18f-e831">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMPERIUM BATTLELINE INFANTRY
 ■ INQUISTORIAL HENCHMEN</characteristic>
           </characteristics>
@@ -2488,7 +2488,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="7ecf-3f6-48e8-3280">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMPERIUM BATTLELINE INFANTRY
 ■ INQUISTORIAL HENCHMEN</characteristic>
           </characteristics>
@@ -2732,7 +2732,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="5121-f15b-7863-647d">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMPERIUM BATTLELINE INFANTRY
 ■ INQUISTORIAL HENCHMEN</characteristic>
           </characteristics>
@@ -2931,7 +2931,7 @@
       <profiles>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="8611-4228-ef56-ce00">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMPERIUM BATTLELINE INFANTRY
 ■ INQUISTORIAL HENCHMEN</characteristic>
           </characteristics>
@@ -3674,7 +3674,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="5d2f-58be-2278-28a2">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMPERIAL NAVY BREACHERS
 ■ VOIDSMEN-AT-ARMS</characteristic>
           </characteristics>
@@ -3777,7 +3777,7 @@
       <profiles>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="df3e-9e08-d754-cbbe">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMPERIAL NAVY BREACHERS
 ■ VOIDSMEN-AT-ARMS</characteristic>
           </characteristics>
@@ -3887,7 +3887,7 @@
       <profiles>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="72b7-4352-d7ba-a049">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMPERIAL NAVY BREACHERS
 ■ VOIDSMEN-AT-ARMS</characteristic>
           </characteristics>
@@ -4306,7 +4306,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="1822-763e-13b4-2cca">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ IMPERIUM BATTLELINE INFANTRY
 ■ INQUISTORIAL HENCHMEN</characteristic>
           </characteristics>

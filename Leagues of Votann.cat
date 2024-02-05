@@ -87,7 +87,7 @@
         </profile>
         <profile id="e940-64a8-ba9a-42bc" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - Einhyr Hearthguard
 - Hearthkyn Warriors</characteristic>
           </characteristics>
@@ -797,7 +797,7 @@
         </profile>
         <profile id="7139-216a-b740-0af3" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - EINHYR HEARTHGUARD
 - HEARTHKYN WARRIORS</characteristic>
           </characteristics>
