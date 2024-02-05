@@ -2163,12 +2163,12 @@
         </profile>
         <profile id="097a-e5ac-6ab9-4d1d" name="Grasping Tendrils" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time an enemy unit (excluding Titanic units) within Engagement Range of one or more units from your army with this ability is selected to Fall Back, you can roll one D6: on a 3+, that enemy unit must Remain Stationary instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตศัตรู (ไม่นับยูนิต Titanic) ที่อยู่ใน  Engagement Range ของยูนิตหนึ่งยูนิตขึ้นไปในกองทัพของคุณที่มีความสามารถนี้ ถูกเลือกให้ Fall Back คุณสามารถทอยลูกเต๋า D6 หนึ่งลูก:  ถ้าได้ผลลัพธ์ 3+ ยูนิตศัตรูนั้นจะต้อง Remain Stationary แทน</characteristic>
           </characteristics>
         </profile>
         <profile id="a599-0bf5-3022-ecc6" name="Hypertoxic Miasma (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your Movement phase, roll one D6 for each enemy unit within 6&quot; of this model: on a 2-3, that unit suffers 1 mortal wound; on a 4-5, that unit suffers D3 mortal wounds; on a 6, that unit suffers D6 mortal wounds.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงจบ Movement phase ของคุณ ให้ทอยลูกเต๋า D6 หนึ่งลูกสําหรับแต่ละยูนิตศัตรูภายใน 6 นิ้ว ของโมเดลนี้: ถ้าได้ผลลัพธ์ 2-3 ยูนิตนั้นจะได้รับบาดเจ็บ 1 Mortal wound ถ้าได้ผลลัพธ์ 4-5 ยูนิตนั้นจะได้รับบาดเจ็บ D3 Mortal wounds ถ้าได้ผลลัพธ์ 6 ยูนิตนั้นจะได้รับบาดเจ็บ D6 Mortal wounds</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2178,7 +2178,7 @@
             <modifier type="append" field="name" value="D3"/>
           </modifiers>
         </infoLink>
-        <infoLink id="ab7d-eb66-c5e7-3adc" name="Damaged 1-5 Wounds Remaining" hidden="false" targetId="384f-e5ff-31a2-1295" type="profile"/>
+        <infoLink id="ab7d-eb66-c5e7-3adc" name="Damaged: 1-5 Wounds Remaining" hidden="false" targetId="384f-e5ff-31a2-1295" type="profile"/>
         <infoLink id="43ad-3b3b-c2f5-757f" name="Synapse" hidden="false" targetId="86aa-437f-260b-5cad" type="rule"/>
       </infoLinks>
       <categoryLinks>
