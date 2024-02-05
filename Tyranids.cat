@@ -6859,20 +6859,19 @@
         </profile>
         <profile id="d06d-869e-b2-ff95" name="Feeder Tendrils" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model destroys an enemy CHARACTER model, you gain 1CP</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทําลายโมเดล Character ของศัตรู คุณจะได้รับ CP 1</characteristic>
           </characteristics>
         </profile>
         <profile id="e348-1799-4ccc-f1e3" name="Neural Disruption" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Command phase, select one enemy unit within 12&quot; of this model. That unit must take a Battle-shock test</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Command phase ของคุณ เลือกยูนิตศัตรูหนึ่งยูนิต ที่อยู่ภายในระยะ 12 นิ้วของโมเดลนี้ ยูนิตนั้นจะต้องทําการทดสอบ Battle-shock</characteristic>
           </characteristics>
         </profile>
         <profile id="f420-4c72-dafd-6998" name="Psychological Saboteur (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While an enemy unit is with 12&quot; of this model, if that unit is Battle-shocked:
-
-- Each time a model in that unit makes an attack, subtract 1 from the Hit roll
-- Each time a friendly TYRANIDS model makes an attack that targets that unit, add 1 to the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตศัตรูอยู่ภายในระยะ 12 นิ้วของ โมเดลนี้ หากยูนิตนั้นติด Battle-shock: 
+■ ทุกครั้งที่โมเดลในยูนิตนั้นโจมตี ให้ลบ 1 จาก the Hit roll 
+■ ทุกครั้งที่โมเดล Tyranids ที่เป็นมิตรโจมตียูนิตนั้น ให้เพิ่ม 1 the Wound roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
