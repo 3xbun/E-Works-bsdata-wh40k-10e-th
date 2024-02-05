@@ -3060,12 +3060,12 @@ Outrider Squad มันสามารถเปนผูนํายู�
       <profiles>
         <profile id="f8b6-3181-7e49-fb57" name="Indomitor Doctrines" publicationId="4115-3627-e608-39f6" page="25" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้ทําการโจมตีใส่ยูนิตที่ติด สถานะ below Starting Strength เพิ่ม 1 the Hit roll และเพิ่ม 1 wound roll หากยูนิตนั้นติดสถานะ Below Half-strength</characteristic>
           </characteristics>
         </profile>
         <profile id="b8a4-e32-bbbb-4e78" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="24" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character unit from your army can be attached to a Heavy Intercessor Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Heavy Intercessor Squad มันสามารถ เป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
