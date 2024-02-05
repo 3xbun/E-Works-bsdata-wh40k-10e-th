@@ -5345,9 +5345,9 @@
       <profiles>
         <profile id="ad40-62a4-c6ff-6036" name="Spore Mine Cysts" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model ends a Normal move, you can do one of the following:
-- Select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound.
-- Add a new SPORE MINES unit containing D3 models to your army and set it up anywhere on the battlefield that is within 6&quot; of this model and more than 9&quot; horizontally away from all enemy units. You cannot select this option for more than one model per turn.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้จบการเคลื่อนที่ปกติ คุณสามารถ ทําสิ่งใดสิ่งหนึ่งต่อไปนี้:
+- เลือกยูนิตศัตรูหนึ่งยูนิตที่มันเคลื่อนที่ผ่านในระหว่างการเคลื่อนที่ครั้งนั้นและ ทอยลูกเต๋า D6 หกครั้ง: สําหรับผลลัพธ์ที่สูงกว่าหรือเท่ากับ 3+ ยูนิตนั้นได้รับ ความเสียหาย 1 Mortal wound 
+- เพิ่มยูนิต Spore Mines ใหม่ที่มีโมเดลเท่ากับ D3 ตัวให้กับกองทัพของคุณ และวางไว้ที่ใดก็ได้บนสนามรบที่อยู่ภายใน 6 นิ้วของโมเดลนี้และห่างจากยูนิต ศัตรูทั้งหมดมากกว่า 9 นิ้วในแนวราบ</characteristic>
           </characteristics>
         </profile>
         <profile id="eec4-96a5-bff1-8d07" name="Harpy" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
