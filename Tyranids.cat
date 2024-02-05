@@ -5103,12 +5103,12 @@
         </profile>
         <profile id="ceb3-c557-c854-8883" name="Aerial Seeding" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model must immediately disembark after it has been set up on the battlefield, and they must be set up more than 9&quot; away from all enemy models. After this model has been set up on the battlefield, no units can embark within it.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้ต้องเริ่มเกมใน Reserve แต่ตัวมันเองและยูนิตใดๆ ที่ Embark อยู่ภายในโมเดลนี้จะไม่ถูกนับรวมกับขีดจํากัดใด ๆ ที่อยู่ในจํานวนสูงสุด ของยูนิต Reserve ที่คุณสามารถใส่ตอนเริ่มเกมได้ โมเดลนี้สามารถวางลงบนสนาม ได้ในขั้นตอน Reinforcements ของ Movement phase ครั้งแรก ครั้งที่สอง หรือ ครั้งที่สามของคุณ โดยไม่คํานึงถึงกฎใด ๆ ของภารกิจ ยูนิตใด ๆ ที่ Embark อยู่ ภายในโมเดลนี้ต้อง Disembark ทันทีหลังจากที่วางลงบนสนามรบแล้ว และต้อง วางให้ห่างจากโมเดลศัตรูทั้งหมดมากกว่า 9 นิ้ว หลังจากที่โมเดลนี้วางบนสนามรบ แล้ว ยูนิตใด ๆ จะไม่สามารถ Emark ได้ภายในโมเดลนี้ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="c21b-12cd-b9a6-4e19" name="Tyrannocyte" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 20 TYRANIDS INFANTRY models, or 1 TYRANIDS MONSTER model with a Wounds characteristic of 12 or less. Each INFANTRY model with a Wounds characteristic of more than 1 takes up the space of 3 models.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้มีความจุในการขนส่งโมเดล Tyranids Infantry 20 ตัว หรือโมเดล Tyranids Monster 1 ตัวที่มีค่า Wounds เท่ากับ 12 หรือต่ํากว่า โมเดล Infantry แต่ละตัวที่มีค่า Wounds มากกว่า 1 จะใช้พื้นที่ในการขนส่งโมเดล เท่ากับ 3 ตัว</characteristic>
           </characteristics>
         </profile>
       </profiles>
