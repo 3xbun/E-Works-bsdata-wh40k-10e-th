@@ -3719,12 +3719,12 @@ Outrider Squad มันสามารถเปนผูนํายู�
       <profiles>
         <profile id="e966-dcf9-893d-a8f8" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="24" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character unit from your army can be attached to an Infiltrator Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Infiltrator Squad มันสามารถ เป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
         <profile id="afc0-1ac-ce23-3a4f" name="Spectrus Doctrines" publicationId="4115-3627-e608-39f6" page="27" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your opponent’s turn, if this unit is more than 6&quot; away from all enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves. It will arrive back on the battlefield in the Reinforcements step of your next Movement phase.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อจบเทิร์นของฝ่ายตรงข้าม หากยูนิตนี้ห่างจากยูนิต ศัตรูทั้งหมดมากกว่า 6&quot; คุณสามารถนํายูนิตนี้ออกจากสนามรบและวางไว้ใน Strategic Reserves ยูนิตนี้จะกลับเข้ามาในสนามรบในช่วง Reinforcements ของ Movement phase ถัดไปของคุณ</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3800,7 +3800,7 @@ Outrider Squad มันสามารถเปนผูนํายู�
                       <profiles>
                         <profile id="62db-8998-860b-8b93" name="Helix Gauntlet" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                           <characteristics>
-                            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Models in the bearer’s unit have the Feel No Pain 6+ ability.</characteristic>
+                            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลในยูนิตของผู้สวมใส่จะมี Feel No Pain 6+</characteristic>
                           </characteristics>
                         </profile>
                       </profiles>
@@ -3815,7 +3815,7 @@ Outrider Squad มันสามารถเปนผูนํายู�
                       <profiles>
                         <profile id="4f63-f053-e97e-fddf" name="Infiltrator Comms Array" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                           <characteristics>
-                            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristic>
+                            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่คุณใช้ Stratagem กับยูนิตของ ผู้สวมใส่ ทอยหนึ่ง D6: ที่ 5+ คุณจะได้รับ 1 CP</characteristic>
                           </characteristics>
                         </profile>
                       </profiles>
