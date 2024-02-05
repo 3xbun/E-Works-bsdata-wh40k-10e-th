@@ -1622,12 +1622,12 @@ Reclaim the Realm
         </profile>
         <profile id="527e-c53f-32af-f316" name="Ion Aegis (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly ARMIGER model is within 6&quot; of this model, that ARMIGER models has the Benefits of Cover.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดล Armiger ที่เป็นมิตรอยู่ภายในระยะ 6&quot; จากโมเดลนี้ โมเดล Armiger นั้นจะได้รับ Benefit of Cover</characteristic>
           </characteristics>
         </profile>
         <profile id="c930-deaf-6267-1e1e" name="Overwhelming Firestorm" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this model has shot, select one enemy unit hit by this model this phase. That unit must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting phase ของคุณ หลังจากที่ โมเดลนี้ยิงแล้ว เลือกหนึ่งยูนิตศัตรูที่ถูกโมเดลนี้ยิงในเฟสนี้ ยูนิตนั้นต้องทํา Battle-shock test</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1709,7 +1709,7 @@ Reclaim the Realm
       <entryLinks>
         <entryLink id="d6d0-f919-6b60-1883" name="Carapace-mounted Weapons" hidden="false" collective="false" import="true" targetId="a7a4-bdf2-bae4-f031" type="selectionEntryGroup"/>
         <entryLink id="1e14-c6e7-a82a-aede" name="Warlord" hidden="false" collective="false" import="true" targetId="ad65-d3cb-c677-7cb3" type="selectionEntry"/>
-        <entryLink id="3ae1-a54a-a17b-533e" name="Noble Lance - Enhancements" hidden="false" collective="false" import="true" targetId="f77c-b744-c82a-a3cd" type="selectionEntryGroup"/>
+        <entryLink id="3ae1-a54a-a17b-533e" name="Enhancements" hidden="false" collective="false" import="true" targetId="f77c-b744-c82a-a3cd" type="selectionEntryGroup"/>
         <entryLink id="a21f-6701-aa11-b2e5" name="Twin meltagun" hidden="false" collective="false" import="true" targetId="65ed-f9fa-c767-15d" type="selectionEntry">
           <constraints>
             <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cbb0-131a-8266-ae3e" type="min"/>
