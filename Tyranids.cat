@@ -4684,7 +4684,7 @@
         </profile>
         <profile id="9989-4ee6-2244-2805" name="Death Scream" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this model has shot, select one unit hit by one or more of those attacks. That unit must take a Battle-shock test, subtracting 1 from that test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วง Shooting phase ของคุณ หลังจากโมเดลนี้ยิงแล้ว เลือกยูนิตหนึ่งยูนิตที่ถูกโจมตีอย่างน้อยหนึ่งครั้งโดยการโจมตีเหล่านั้น ยูนิตนั้น ต้องทํา Battle-shock test โดยลบ 1 จากการทดสอบนั้น</characteristic>
           </characteristics>
         </profile>
       </profiles>
