@@ -844,7 +844,7 @@ Reclaim the Realm
         </profile>
         <profile id="be43-2d11-65f8-aedb" name="Aggressive Assault" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a ranged attack against the closest eligible target, add 1 to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้โจมตีระยะไกลใส่เป้าหมาย ที่ใกล้ที่สุด เพิ่ม 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -853,7 +853,7 @@ Reclaim the Realm
           <profiles>
             <profile id="23cf-33c7-9f58-d57a" name="Errant&apos;s Duty (Bondsman)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a model is affected by this ability, you can re-roll Advance rolls made for that model and its ranged weapons have the [ASSAULT] ability.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลได้รับผลจากความสามารถนี้ คุณสามารถ Re-roll Advance roll สําหรับโมเดลนั้นได้ และอาวุธระยะไกลของ มันจะมีความสามารถ [ASSAULT]</characteristic>
               </characteristics>
             </profile>
           </profiles>
