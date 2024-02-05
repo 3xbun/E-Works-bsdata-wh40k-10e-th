@@ -1879,7 +1879,7 @@
         </profile>
         <profile id="db46-1f35-2996-964f" name="Armour Hunter" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes an attack that targets a MONSTER or VEHICLE, add 1 to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทำการโจมตีใส่เป้าหมายที่เป็น Monster หรือ Vehicle ให้เพิ่ม 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1888,7 +1888,7 @@
           <profiles>
             <profile id="fefe-3546-8754-2e26" name="XV02 Pilot Battlesuit" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Command phase, you can select one friendly HAMMERHEAD GUNSHIP unit within 12&quot;. Until the start of your next Command phase, ranged weapons equipped by models in that unit have the [LETHAL HITS] ability.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Command phase ของคุณ คุณสามารถเลือก ยูนิต Hammerhead Gunship ที่เป็นมิตรหนึ่งยูนิตภายใน 12 นิ้ว จนถึงช่วงเริ่ม ต้น Command phase ถัดไปของคุณ อาวุธระยะไกลของโมเดลในยูนิตนั้น จะมีความสามารถ [LETHAL HITS]</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -2150,14 +2150,14 @@
         </profile>
         <profile id="62df-a9ee-3931-13d" name="Cover Fire" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this unit is within range of an objective marker you control, each time you select it as the target of the Fire Overwatch Stratagem, hits are scored on unmodified Hit rolls of 4+ when resolving that Stratagem.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตนี้อยู่ภายในระยะของ objective marker ที่คุณควบคุม ทุกครั้งที่คุณใช้ Stratagem Fire Overwatch กับยูนิตนี้ Hit rolls ที่ไม่ได้ปรับแต่ง จะผ่านที่ 4+ เมื่อใช้้ Stratagem นั้น</characteristic>
           </characteristics>
         </profile>
         <profile id="d2e6-f139-acad-1b30" name="DS8 Support Turret" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Movement phase, if this unit Remains Stationary, until the start of your next Movement phase, its Fire Warrior Shas’ui model is equipped with the support turret missile system weapon.
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Movement phase ของคุณ หากยูนิตนี้ Remains Stationary จนถึงช่วงเริ่มต้น Movement phase ถัดไป โมเดล Fire Warrior Shas&apos;ui ของยูนิตนี้จะติดตั้งด้วย support turret missile system weapon
 
-Designer’s Note: Place a DS8 Support Turret token next to this unit to remind you.</characteristic>
+หมายเหตุ: วาง DS8 Support Turret token ใกล้ๆ กับยูนิตเพื่อกันลืม</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -9950,12 +9950,12 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
     </profile>
     <profile id="2220-2459-9f07-490e" name="Damaged: 1-4 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-4 Wound ทุกครั้งที่โมเดลนี้ทำการโจมตี ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="4f24-6581-c017-3daa" name="Damaged: 1-5 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-5 Wound ทุกครั้งที่โมเดลนี้ทำการโจมตี ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="3d6e-7d4-ba81-9a8f" name="Weapon Support System" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -9973,7 +9973,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
     <profile id="6c1e-179e-a2dc-85d6" name="Targeting Array" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <comment>Shared</comment>
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model is selected to shoot, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ถูกเลือกให้ทำการยิง คุณสามารถเลือก ที่จะ Re-roll หนึ่ง Hit roll หรือ Re-roll หนึ่ง Wound roll เมื่อทำการโจมตี</characteristic>
       </characteristics>
     </profile>
     <profile id="2050-72df-fd02-7085" name="Tidewall Cover" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -9983,7 +9983,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
     </profile>
     <profile id="3a1d-540f-ebbf-700e" name="Damaged: 1-6 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-6 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-6 Wound ทุกครั้งที่โมเดลนี้ทำการโจมตี ลบ 1 the Hit roll</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>
