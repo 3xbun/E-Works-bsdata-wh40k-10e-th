@@ -5198,7 +5198,7 @@
         </profile>
         <profile id="aaf-ca1a-79f3-94c3" name="Airborne Predator" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a ranged attack that targets a unit that can FLY, add 1 to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทําการโจมตีระยะไกลใส่เป้าหมาย เป็นยูนิต Fly ให้เพิ่ม 1 ให้กับ the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
