@@ -3809,12 +3809,12 @@
       <profiles>
         <profile id="e63a-3205-566f-57d8" name="Parasitic Infection" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time an INFANTRY model is destroyed by an attack made with this model’s barbed ovipositor, after this model has finished making its attacks, you can add one new RIPPER SWARMS unit to your army consisting of D3 models and set it up within 3&quot; of this model. If you do, that RIPPER SWARMS unit can be set up within Engagement Range of the destroyed model’s unit (but not within Engagement Range of any other enemy units).</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดล Infantry ถูกทําลายโดยการโจมตี ด้วยอาวุธ barbed ovipositor ของโมเดลนี้ หลังจากโมเดลนี้โจมตีเสร็จแล้ว คุณสามารถเพิ่มยูนิต Ripper Swarms ใหม่หนึ่งยูนิตให้กับกองทัพของคุณ ซึ่งประกอบด้วยโมเดล D3 ตัวและวางอยู่ไว้ภายใน 3 นิ้วของโมเดลนี้ หากคุณ  ทําเช่นนั้น ยูนิต Ripper Swarms นี้สามารถวางภายในระยะ Engagement- Range ของยูนิตที่ถูกทําลาย (แต่ไม่ใช่ภายในระยะ Engagement Range  ของยูนิตศัตรูอื่น)</characteristic>
           </characteristics>
         </profile>
         <profile id="738b-7257-a0b0-6cda" name="It Itches!" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the Fight phase, select one enemy unit within Engagement Range of this model. That enemy unit must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่ม Fight phase เลือกยูนิตศัตรูหนึ่งยูนิตภายในระยะ Engagement Range ของโมเดลนี้ ยูนิตศัตรูนั้นต้องทํา Battle-shock test</characteristic>
           </characteristics>
         </profile>
         <profile id="5c09-d793-dbbf-7d14" name="Parasite of Mortrex" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
