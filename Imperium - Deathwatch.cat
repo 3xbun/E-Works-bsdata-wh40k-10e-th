@@ -1637,22 +1637,22 @@
       <profiles>
         <profile id="c729-b51b-629d-5df9" name="Terminatus Assault" publicationId="4115-3627-e608-39f6" page="15" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit ends a Charge move, each enemy unit within Engagement Range of this unit must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้สิ้นสุดการเคลื่อนที่แบบชาร์จ ยูนิตศัตรู ทุกยูนิตที่อยู่ใน Engagement Range ของยูนิตนี้จะต้องทํา Battle-shock test</characteristic>
           </characteristics>
         </profile>
         <profile id="72d-cf90-8721-2810" name="Teleport Homer" publicationId="4115-3627-e608-39f6" page="16" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent’s deployment zone. If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3&quot; of that token and not within 9&quot; of any enemy models. That token is then removed.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่มเกม คุณสามารถวางโทเคน Teleport Homer หนึ่ง อันสําหรับยูนิตนี้ได้ทุกที่บนสนามรบให้อยู่นอก deployment zone ของฝ่ายตรง ข้าม หากทําเช่นนั้น ครั้งหนึ่งต่อเกม คุณสามารถใช้ Stratagem Rapid Ingress กับยูนิตนี้ด้วย 0 CP เมื่อ Stratagem นั้นทํางาน คุณต้องวางยูนิตนี้ภายในระยะ 3&quot; ของโทเคนนั้นและห่างมากกว่า 9&quot; จากโมเดลศัตรูใดๆ หลังจากนั้นโทเคนนั้น จะถูกนําออกจากสนาม</characteristic>
           </characteristics>
         </profile>
         <profile id="f1f4-4cb5-6192-b88b" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี invulnerable save 4+ </characteristic>
           </characteristics>
         </profile>
         <profile id="f957-6c76-5341-c2cf" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="18" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character from your army with the Leader ability can be attached to a Terminator Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Terminator Squad มันสามารถเป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1763,12 +1763,12 @@
       <profiles>
         <profile id="55db-d5ea-d9bb-4205" name="Death to the Alien" publicationId="4115-3627-e608-39f6" page="13" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target of that attack does not have the Imperium or Chaos keywords, you can re-roll the Hit roll instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้ทําการโจมตี คุณสามารถ Re-roll a Hit roll ที่ออก 1 ได้ หากเป้าหมายของการโจมตีนั้นไม่มีคีย์เวิร์ด Imperium หริอ Chaos คุณสามารถ Re-roll the Hit roll แทนได้</characteristic>
           </characteristics>
         </profile>
         <profile id="5b2a-95ce-d179-ab23" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="18" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character from your army with the Leader ability can be attached to a Vanguard Veterans Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากยูนิต Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Sternguard Veteran Squad หรือ Vanguard Veteran Squad มันสามารถ เป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
