@@ -3912,7 +3912,7 @@
       <profiles>
         <profile id="5b71-bc6f-68c5-a06a" name="Terror from the Deep" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit is set up on the battlefield using the Deep Strike ability, roll one D6 for each enemy unit within 12&quot; of this model: on a 2-4, that unit suffers D3 mortal wounds; on a 5+, that unit suffers 3 mortal wounds and must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้ถูกวางบนสนามรบโดยใช้ความสามารถ Deep Strike ให้ทอยลูกเต๋า D6 หนึ่งลูกสําหรับแต่ละยูนิตศัตรูภายใน 12 นิ้วของโ มเดลนี้: หากผลการทอยได้ 2-4 ยูนิตนั้นจะได้รับความเสียหายแบบ D3 Mortal Wound; หากผลการทอยได้ 5+ ยูนิตนั้นจะได้รับความเสียหาย 3 Mortal และต้องทํา Battle-shock test</characteristic>
           </characteristics>
         </profile>
         <profile id="c9fa-4640-80ed-c955" name="Mawloc" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
