@@ -4186,7 +4186,7 @@
       <profiles>
         <profile id="e00d-271e-a667-e79f" name="Symbiotic Targeting" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly TYRANIDS model makes an attack that targets that unit, re-roll a Hit roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วง Shooting phase ของคุณ หลังจากโมเดลนี้ ยิงแล้ว เลือกยูนิตศัตรูหนึ่งยูนิตที่ถูกโจมตีอย่างน้อยหนึ่งครั้งโดยการโจมตีเหล่านั้น จนกว่าจะสิ้นสุดเฟสนี้ ทุกครั้งที่โมเดล Tyranids ที่เป็นมิตรทําการโจมตีใส่ยูนิตที่ เป็นเป้าหมาย คุณสามารถ Re-roll a Hit roll ที่ออก 1 ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="494b-44b8-d54f-8316" name="Exocrine" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
