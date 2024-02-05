@@ -1180,7 +1180,7 @@ Reclaim the Realm
           <profiles>
             <profile id="f3ec-bea-7d9f-df98" name="Punishing Salvoes" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Movement phase, if this model Remains Stationary, until the start of your next Movement phase, this model’s ranged weapons have the [SUSTAINED HITS 1] ability.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Movement phase ของคุณ หากโมเดลนี้ไม่ได้ ทําการเคลื่อนที่ใดๆ จนถึงช่วงเริ่มต้นของ Movement phase ถัดไปของคุณ อาวุธระยะไกลของโมเดลนี้จะมีความสามารถ [SUSTAINED HITS 1]</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1192,7 +1192,7 @@ Reclaim the Realm
           <profiles>
             <profile id="11c1-4782-61b6-4b98" name="Crusader&apos;s Duty (Bondsman)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a model is affected by this ability, each time that model makes a ranged attack, add 1 to the Hit roll.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลได้รับผลจากความสามารถนี้ ทุกครั้งที่โมเดลนั้นโจมตีระยะไกล เพิ่ม 1 the Hit roll</characteristic>
               </characteristics>
             </profile>
           </profiles>
