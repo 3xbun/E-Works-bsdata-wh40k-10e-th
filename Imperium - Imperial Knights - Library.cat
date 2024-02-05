@@ -1478,12 +1478,12 @@ Reclaim the Realm
         </profile>
         <profile id="3b9-a66e-f6ac-8aeb" name="Ion Aegis (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly ARMIGER model is within 6&quot; of this model, that ARMIGER models has the Benefits of Cover.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดล Armiger ที่เป็นมิตรอยู่ภายในระยะ 6&quot; ของโมเดลนี้ โมเดล Armiger นั้นจะได้รับ Benefit of Cover</characteristic>
           </characteristics>
         </profile>
         <profile id="1b2e-aac4-ebfe-3c7" name="Titan Hunter" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a ranged attack made by this model is allocated to a MONSTER or VEHICLE model, re-roll a Damage roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่การโจมตีระยะไกลของโมเดลนี้ถูกจัดสรร(Allocate) ให้กับโมเดล Monster หริอ Vehicle คุณสามารถ Re-roll a Damage roll ที่ออก 1 ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1494,7 +1494,7 @@ Reclaim the Realm
           </modifiers>
         </infoLink>
         <infoLink id="a27e-e57a-72d-f1cb" name="Super-Heavy Walker" hidden="false" targetId="5e13-1624-d280-418d" type="rule"/>
-        <infoLink id="208e-37cd-517b-80e1" name="Invulnerable Save 5+" hidden="false" targetId="8552-862d-6a49-4879" type="profile"/>
+        <infoLink id="208e-37cd-517b-80e1" name="Invulnerable Save (5+*)" hidden="false" targetId="8552-862d-6a49-4879" type="profile"/>
         <infoLink id="3a46-4765-60ee-4a29" name="Damaged: 1-8 Wounds Remaining" hidden="false" targetId="1934-9c67-78e2-4fd9" type="profile"/>
       </infoLinks>
       <categoryLinks>
