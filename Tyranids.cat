@@ -5576,17 +5576,17 @@
         </profile>
         <profile id="ee87-2dbd-843f-7179" name="Feel No Pain 5+" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This Model has a 5+ Feel No Pain</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี Feel No Pain 5+ </characteristic>
           </characteristics>
         </profile>
         <profile id="5171-dc2c-e7b0-2d4" name="Bio-stimulus (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly Tyranids unit is within 6&quot; of this model, models in that unit have the Feel No Pain 6+ ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในขณะที่ยูนิต Tyranids ฝ่ายเดียวกันอยู่ภายใน 6 นิ้ว ของโมเดลนี้ โมเดลในยูนิตนั้นจะมีความสามารถ Feel No Pain 6+</characteristic>
           </characteristics>
         </profile>
         <profile id="34b3-35ff-995a-560d" name="Feeding Frenzy" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a melee attack that targets a unit that is below its Starting Strength, add 1 to the Hit roll. If that target is also Below Half strength, add 1 to the Wound roll as well.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทําการโจมตีระยะประชิดใส่เป้าหมายเป็น ยูนิตที่มีค่า Strength น้อยกว่าค่า Starting Strength ของโมเดลนี้ ให้เพิ่ม 1 ให้กับ Hit roll หากเป้าหมายนั้นมีค่า Wounds น้อยกว่าครึ่งหนึ่งของค่า Wounds เริ่มต้น ให้เพิ่ม 1 ให้กับ Wound roll เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
