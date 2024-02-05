@@ -4109,27 +4109,27 @@ Reclaim the Realm
     <profile id="8552-862d-6a49-4879" name="Invulnerable Save (5+*)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <comment>5+</comment>
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model has a 5+ invulnerable save against ranged attacks.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี invulnerable save 5+ จากการโจมตีระยะไกล</characteristic>
       </characteristics>
     </profile>
     <profile id="a274-b647-186a-54ee" name="Damaged: 1-7 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-7 wounds remaining, subtract 5 from this models Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-7 Wound ลบค่า Objective Control ของโมเดลนี้ลง 5 และทุกครั้งที่โมเดลนี้โจมตี ให้ลบ 1 จาก Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="b9a3-9db8-fd2f-7e43" name="Damaged: 1-4 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-4 Wound ทุกครั้งที่โมเดลนี้โจมตี ให้ลบ 1 จาก Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="1934-9c67-78e2-4fd9" name="Damaged: 1-8 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-8 wounds remaining, subtract 5 from this models Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-8 Wound ลบค่า Objective Control ของโมเดลนี้ลง 5 และทุกครั้งที่โมเดลนี้โจมตี ให้ลบ 1 จาก Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="fd9d-ca26-26f2-d231" name="Damaged: 1-10 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-10 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-10 Wound ลบค่า Objective Control ของโมเดลนี้ลง 5 และทุกครั้งที่โมเดลนี้โจมตี ให้ลบ 1 จาก Hit roll</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>
