@@ -1016,7 +1016,7 @@ Until the end of the phase:
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="e084-9d6c-36d3-d635">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BREACHER TEAM
 - STRIKE TEAM</characteristic>
               </characteristics>
@@ -1179,7 +1179,7 @@ Until the end of the phase:
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="28bc-81f2-45a9-1e5e">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BREACHER TEAM
 - STRIKE TEAM</characteristic>
               </characteristics>
@@ -1445,7 +1445,7 @@ Until the end of the phase:
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="c601-4585-dfb8-bbf7">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BREACHER TEAM
 - KROOT CARNIVORES
 - STRIKE TEAM</characteristic>

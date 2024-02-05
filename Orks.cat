@@ -907,7 +907,7 @@ Designer’s Note: Place a Grot Oiler token next to the unit, removing it once t
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="15e0-12f9-1f61-fad9">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BOYZ
 - BURNA BOYZ
 - TANKBUSTAS
@@ -1020,7 +1020,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="2207-d598-7b99-c019">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BOYZ
 - LOOTAZ
 - MEK GUNZ</characteristic>
@@ -4967,7 +4967,7 @@ Designer’s Note: Place a Bomb Squig token next to the unit, removing it when t
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="977f-8808-a448-68b2">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BOYZ
 - BURNA BOYZ
 - TANKBUSTAS
@@ -5364,7 +5364,7 @@ Designer’s Note: Place a Bomb Squig token next to the unit, removing it when t
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="ada4-e5f7-2f1-c37c">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BOYZ
 - LOOTAS
 - MEK GUNZ
@@ -6121,7 +6121,7 @@ Designer’s Note: Place a Bomb Squig token next to the unit, removing it when t
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="dfe1-4fa7-c2bc-bad7">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BOYZ
 - NOBZ</characteristic>
               </characteristics>
@@ -6592,7 +6592,7 @@ Designer’s Note: Place a Grot Orderly token next to the unit, removing it once
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="9be1-2f2a-2976-8eb3">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BOYZ
 - NOBZ
 - LOOTAS
@@ -7882,7 +7882,7 @@ Designer’s Note: Place two Bomb Squig tokens next to the unit, removing one ea
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="165e-4c2e-d8a0-5d5d">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BOYZ
 - NOBZ</characteristic>
               </characteristics>

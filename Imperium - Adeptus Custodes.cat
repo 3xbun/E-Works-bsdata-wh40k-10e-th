@@ -106,7 +106,7 @@
         </profile>
         <profile id="a7f1-e106-1e30-3452" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Prosecutors
 ■ Vigilators
 ■ Witchseekers</characteristic>
@@ -483,7 +483,7 @@
       <profiles>
         <profile id="1a70-8702-4179-b711" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Custodian Guard
 ■ Custodian Wardens</characteristic>
           </characteristics>
@@ -1121,7 +1121,7 @@
         </profile>
         <profile id="101b-4770-32be-d3a2" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Prosecutors
 ■ Vigilators
 ■ Witchseekers</characteristic>
@@ -1453,7 +1453,7 @@
         </profile>
         <profile id="de62-c023-6540-2206" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Custodian Guard
 ■ Custodian Wardens</characteristic>
           </characteristics>
@@ -1635,7 +1635,7 @@
         </profile>
         <profile id="4e62-8c6f-2631-373c" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Allarus Custodians</characteristic>
           </characteristics>
         </profile>
@@ -1774,7 +1774,7 @@
       <profiles>
         <profile id="d569-255b-ad41-d354" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Vertus Praetors</characteristic>
           </characteristics>
         </profile>
@@ -1914,7 +1914,7 @@
         </profile>
         <profile id="a26c-fa45-83a0-13b5" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Custodian Guard
 ■ Custodian Wardens</characteristic>
           </characteristics>
@@ -2013,7 +2013,7 @@
         </profile>
         <profile id="7591-8f8b-3b46-ede2" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Custodian Guard
 ■ Custodian Wardens</characteristic>
           </characteristics>

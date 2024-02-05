@@ -2047,7 +2047,7 @@
           <profiles>
             <profile id="b6d-7fbe-cc9-4f92" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - Cadian Shock Troops
 - Catachan Jungle Fighters
 - Death Korps of Krieg
@@ -6792,7 +6792,7 @@
           <profiles>
             <profile id="9519-d3ea-5b7c-1088" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - Cadian Shock Troops
 - Catachan Jungle Fighters
 - Death Korps of Krieg
@@ -6974,7 +6974,7 @@
           <profiles>
             <profile id="1b38-efb9-5c45-f30c" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - Cadian Shock Troops
 - Catachan Jungle Fighters
 - Death Korps of Krieg
@@ -11374,7 +11374,7 @@
           <profiles>
             <profile id="1ed5-49fe-3d4f-a4c1" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ DEATH KORPS OF KRIEG
 ■ INFANTRY SQUAD</characteristic>
               </characteristics>
@@ -11674,7 +11674,7 @@
           <profiles>
             <profile id="5b96-7f97-f433-4b15" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ DEATH RIDER SQUADRON</characteristic>
               </characteristics>
             </profile>
@@ -17228,7 +17228,7 @@
           <profiles>
             <profile id="e87d-4b67-1992-ed3c" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ DEATH RIDER SQUADRON</characteristic>
               </characteristics>
             </profile>
