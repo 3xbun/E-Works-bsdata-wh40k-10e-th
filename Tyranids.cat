@@ -595,7 +595,7 @@
           <profiles>
             <profile id="c13f-316a-bbdf-74fd" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้:
 - TYRANT GUARD</characteristic>
               </characteristics>
             </profile>
@@ -811,7 +811,7 @@
         </profile>
         <profile id="3ae7-6f89-23de-3cca" name="Spawn Termagants" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">น Command phase ของคุณ คุณสามารถเลือกยูนิต Termagants ที่เป็นมิตรหนึ่งยูนิตภายใน 6 นิ้วจากโมเดลนี้ และเริยกคืนโมเดล Termagant ที่ถูกทําลายสูงสุด D3+3 ตัวกลับไปยังยูนิตนั้น ยูนิต Termagants ไม่สามารถถูกเลือกเพิ่อใช้ความสามารถนี้ได้มากกว่าหนึ่งครั้งต่อเฟส</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Command phase ของคุณ คุณสามารถเลือกยูนิต Termagants ที่เป็นมิตรหนึ่งยูนิตภายใน 6 นิ้วจากโมเดลนี้ และเริยกคืนโมเดล Termagant ที่ถูกทําลายสูงสุด D3+3 ตัวกลับไปยังยูนิตนั้น ยูนิต Termagants ไม่สามารถถูกเลือกเพิ่อใช้ความสามารถนี้ได้มากกว่าหนึ่งครั้งต่อเฟส</characteristic>
           </characteristics>
         </profile>
         <profile id="7697-fdc6-4658-3f1c" name="Brood Progenitor (Aura, Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -947,7 +947,7 @@
           <profiles>
             <profile id="99ef-a339-35c2-ec3" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้:
 ■ TYRANT GUARD</characteristic>
               </characteristics>
             </profile>
@@ -963,7 +963,7 @@
             <modifier type="append" field="name" value="D3"/>
           </modifiers>
         </infoLink>
-        <infoLink id="03e9-1e26-bc4b-42a5" name="Invulnerable Save 4+" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
+        <infoLink id="03e9-1e26-bc4b-42a5" name="Invulnerable Save" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
         <infoLink id="da26-aec0-ce49-9117" name="Shadow in the Warp" hidden="false" targetId="395b-a159-b293-27aa" type="rule"/>
         <infoLink id="d127-3b0d-807d-155" name="Synapse" hidden="false" targetId="86aa-437f-260b-5cad" type="rule"/>
       </infoLinks>
@@ -1079,7 +1079,7 @@
           <profiles>
             <profile id="78d5-4fce-3f26-7817" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้:
 - GENESTEALERS</characteristic>
               </characteristics>
             </profile>
@@ -1185,7 +1185,7 @@
           <profiles>
             <profile id="bdac-5b09-9843-5aed" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้:
 - GARGOYLES
 - TYRANID WARRIORS WITH MELEE BIO-WEAPONS
 - TYRANID WARRIORS WITH RANGED BIO-WEAPONS</characteristic>
@@ -1283,7 +1283,7 @@
           <profiles>
             <profile id="e546-54e1-550a-a1d9" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้:
 - CARNIFEXES</characteristic>
               </characteristics>
             </profile>
@@ -1546,6 +1546,9 @@
             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the Fight phase, select one of the following:
 - Aggression Imperative: Until the end of the phase, each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.
 - Bioregeneration: Until the end of the phase, each time a saving throw if made for a model in this unit, re-roll a saving throw of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงเริ่มต้น Fight phase, คุณสามารถเลือก ความสามารถอย่างใดอย่างหนึ่งต่อไปนี้เพิ่อใช้กับโมเดลในยูนิตนี้ จนกระทั่งจบ phase:
+- Aggression Imperative: ทุกครั้งที่โมเดลในยูนิตนี้โจมตีด้วยระยะประชิด Re-roll a Hit roll ที่ออก 1
+- Bioregeneration: ทุกครั้งที่ต้องทําการเซฟทอยให้กับโมเดล ในยูนิตนี้ ให้ re-roll a saving throw ที่ออก 1</characteristic>
           </characteristics>
         </profile>
       </profiles>
