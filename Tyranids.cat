@@ -8267,12 +8267,12 @@ HIVE PREDATORS 
     </profile>
     <profile id="9c62-16b6-ad61-163d" name="Floating Death" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit or an enemy unit ends a move, for each model in this unit within 3&quot; of one or more enemy units, select one of those enemy units. That model in this unit is destroyed, then roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6 that enemy unit suffers D6 mortal wounds.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตศัตรูจบการเคลื่อนที่ภายใน 3 นิ้วของโมเดล ในยูนิตนี้, และทุกครั้งที่โมเดลในยูนิตนี้จบการเคลื่อนที่ภายใน 3 นิ้วของยูนิตศัตรู ทอยลูกเต๋า D6 หนึ่งลูก: หากผลการทอยได้ 2-5 ยูนิตศัตรูนั้นจะได้รับความเสีย หาย D3 Mortal wound; หากผลการทอยได้ 6 ยูนิตศัตรูนั้นจะได้รับความเสีย หาย D6 Mortal wound, และโมเดลในยูนิตนี้ที่ทําให้เกิดผลการทอยนั้นจะถูก ทําลาย</characteristic>
       </characteristics>
     </profile>
     <profile id="374e-ed33-a96f-a014" name="Bio-minefield" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Enemy units cannot start or end an Advance move within 6&quot; of this unit.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตศัตรูไม่สามารถเริ่มต้นหรือสิ้นสุดการเคลื่อนที่แบบ Advance ภายในระยะ 6 นิ้วของยูนิตนี้</characteristic>
       </characteristics>
     </profile>
     <profile id="b4a8-7659-cc29-b18e" name="Damaged: 1-4 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
