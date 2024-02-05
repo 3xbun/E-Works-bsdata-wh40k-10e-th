@@ -599,7 +599,7 @@
         </profile>
         <profile id="06e3-9b06-7daf-0eb6" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - EIGHTBOUND
 - EXALTED EIGHTBOUND
 - KHORNE BERSERKERS</characteristic>
@@ -983,7 +983,7 @@
         </profile>
         <profile id="2714-1342-291d-9505" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - EIGHTBOUND
 - EXALTED EIGHTBOUND
 - KHORNE BERSERKERS</characteristic>

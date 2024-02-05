@@ -1218,6 +1218,29 @@
       <constraints>
         <constraint field="selections" scope="roster" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b161-903c-73a7-d9c" type="max"/>
       </constraints>
+      <categoryLinks>
+        <categoryLink targetId="9cfd-1c32-585f-7d5c" id="7ddf-8930-839c-20a2" primary="true" name="Character"/>
+        <categoryLink targetId="cf47-a0d7-7207-29dc" id="8a9f-548-894a-236a" primary="false" name="Infantry"/>
+        <categoryLink targetId="5a61-81ac-eb7c-a87e" id="110e-2c9f-cf-7f84" primary="false" name="Grenades"/>
+        <categoryLink targetId="3d58-2655-391e-ecc" id="1465-1097-98fc-5e80" primary="false" name="Faction: T&apos;au Empire"/>
+        <categoryLink targetId="5035-d8d0-822b-e2c" id="d878-51e4-e42c-dc03" primary="false" name="Cadre Fireblade"/>
+      </categoryLinks>
+      <infoGroups>
+        <infoGroup name="Leader" hidden="false" id="25ae-b1b2-69c-d031">
+          <infoLinks>
+            <infoLink name="Leader" hidden="false" type="rule" id="bfb0-aa41-47b8-d21" targetId="b4dd-3e1f-41cb-218f"/>
+          </infoLinks>
+          <profiles>
+            <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="e084-9d6c-36d3-d635">
+              <characteristics>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
+- BREACHER TEAM
+- STRIKE TEAM</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+        </infoGroup>
+      </infoGroups>
       <profiles>
         <profile id="ee37-5f4e-ffdc-e35f" name="Cadre Fireblade" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
           <characteristics>
@@ -1650,7 +1673,7 @@
           <profiles>
             <profile id="c601-4585-dfb8-bbf7" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - BREACHER TEAM
 - KROOT CARNIVORES
 - STRIKE TEAM</characteristic>

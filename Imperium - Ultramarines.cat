@@ -64,7 +64,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="a3-79c9-601-8467">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Bladeguard Veteran Squad
@@ -168,7 +168,7 @@
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="e2c1-7cbf-bfcd-716a">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Squad
 ■ Command Squad
@@ -275,7 +275,7 @@ Heroic Intervention.</characteristic>
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="af75-67b0-4fcb-d9e8">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Bladeguard Veteran Squad
@@ -771,7 +771,7 @@ If your army includes one or more of the Vehicle models listed below, Sergeant C
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="d0c4-765-4614-5b63">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Scout Squad
 ■ Scout Sniper Squad</characteristic>
@@ -1066,7 +1066,7 @@ If your army includes one or more of the Vehicle models listed below, Sergeant C
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="2ce2-dd82-241a-a38f">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 
 ■ Assault Intercessor Squad
 ■ Bladeguard Veteran Squad&apos;

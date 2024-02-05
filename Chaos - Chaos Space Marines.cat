@@ -565,7 +565,7 @@
         </profile>
         <profile id="68a4-911a-c03c-2cf4" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ LEGIONARIES
 ■ NOISE MARINES</characteristic>
           </characteristics>
@@ -734,7 +734,7 @@
         </profile>
         <profile id="840f-5d08-8f3c-8d60" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHAOS TERMINATOR SQUAD
 ■ LEGIONARIES</characteristic>
           </characteristics>
@@ -853,7 +853,7 @@
       <profiles>
         <profile id="2e37-6074-e784-7b4" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ RAPTORS</characteristic>
           </characteristics>
         </profile>
@@ -984,7 +984,7 @@
         </profile>
         <profile id="3c5d-5e9a-a996-7afc" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHOSEN
 ■ LEGIONARIES</characteristic>
           </characteristics>
@@ -1401,7 +1401,7 @@
         </profile>
         <profile id="1f0d-2787-4129-313e" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHOSEN
 ■ LEGIONARIES</characteristic>
           </characteristics>
@@ -1754,7 +1754,7 @@
       <profiles>
         <profile id="638e-667a-a1c5-1135" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHOSEN
 ■ LEGIONARIES
 ■ POSSESSED</characteristic>
@@ -1904,7 +1904,7 @@
         </profile>
         <profile id="d0c2-c293-3921-2275" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHOSEN
 ■ LEGIONARIES</characteristic>
           </characteristics>
@@ -2171,7 +2171,7 @@ Penetration and Damage characteristics of melee weapons equipped by this model b
         </profile>
         <profile id="d81c-7f34-f563-e11b" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHAOS TERMINATOR SQUAD</characteristic>
           </characteristics>
         </profile>
@@ -2359,7 +2359,7 @@ Penetration and Damage characteristics of melee weapons equipped by this model b
       <profiles>
         <profile id="f559-54b3-6e83-37a1" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHOSEN
 ■ LEGIONARIES</characteristic>
           </characteristics>
@@ -2489,7 +2489,7 @@ Penetration and Damage characteristics of melee weapons equipped by this model b
         </profile>
         <profile id="d23e-95b7-a67c-61be" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHAOS TERMINATOR SQUAD</characteristic>
           </characteristics>
         </profile>
@@ -2925,7 +2925,7 @@ Penetration and Damage characteristics of melee weapons equipped by this model b
         </profile>
         <profile id="b5da-4ab-cfb5-4e4c" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHOSEN
 ■ HAVOCS
 ■ LEGIONARIES</characteristic>
@@ -3100,7 +3100,7 @@ Penetration and Damage characteristics of melee weapons equipped by this model b
       <profiles>
         <profile id="8618-d29a-f66e-ade8" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHOSEN
 ■ LEGIONARIES
 
@@ -3216,7 +3216,7 @@ You can attach this model to one of the above units even if one other CHARACTER 
       <profiles>
         <profile id="f980-3ab8-249e-51a9" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ ACCURSED CULTISTS
 ■ CHOSEN
 ■ CULTIST MOB
@@ -3378,7 +3378,7 @@ You can attach this model to one of the above units even if one other CHARACTER 
       <profiles>
         <profile id="98b1-c4d2-400d-f8c7" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ ACCURSED CULTISTS
 ■ CULTIST MOB</characteristic>
           </characteristics>
@@ -5300,7 +5300,7 @@ You can attach this model to one of the above units even if one other CHARACTER 
       <profiles>
         <profile id="e4c4-4418-a864-289b" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ CHOSEN
 ■ LEGIONARIES
 
@@ -14270,7 +14270,7 @@ You can attach this model to one of the above units even if one other CHARACTER 
         </profile>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="cf8c-292d-1477-cc54">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ TRAITOR GUARDSMEN SQUAD
 ■ RENEGADE HEAVY WEAPONS SQUAD</characteristic>
           </characteristics>
@@ -15000,7 +15000,7 @@ You can attach this model to one of the above units even if one other CHARACTER 
       <profiles>
         <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="278a-3fda-28cf-bbf1">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ ACCURSED CULTISTS
 ■ CULTIST MOB
 ■ NEGAVOLT CULTISTS</characteristic>

@@ -1721,7 +1721,7 @@
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="e5c8-ff8c-ad6a-1a31">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Battle Sisters Squad
 ■ Celestian Sacresants
 ■ Dominion Squad
@@ -1843,7 +1843,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="8665-1f52-179d-38e9">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Battle Sisters Squad
 ■ Celestian Sacresants
 ■ Dominion Squad
@@ -2304,7 +2304,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="c40a-e524-693c-c23f">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Battle Sisters Squad
 ■ Celestian Sacresants
 ■ Dominion Squad
@@ -2383,7 +2383,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="76a1-5a9f-64c5-19ed">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Battle Sisters Squad
 ■ Celestian Sacresants
 ■ Dominion Squad
@@ -2662,7 +2662,7 @@ At the start of the Declare Battle Formations step, you can select one BATTLE SI
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="d642-3373-8e19-9571">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Battle Sisters Squad
 ■ Celestian Sacresants</characteristic>
               </characteristics>
@@ -2731,7 +2731,7 @@ of your Command phase, you gain 1CP.</characteristic>
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="4fb5-ff4b-1c95-ade3">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Arco-flagellants
 ■ Battle Sisters Squad
 ■ Crusaders
@@ -3301,7 +3301,7 @@ of your Command phase, you gain 1CP.</characteristic>
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="1ea1-b3c-25f8-8533">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Battle Sisters Squad
 ■ Celestian Sacresants
 ■ Dominion Squad
@@ -4009,7 +4009,7 @@ of your Command phase, you gain 1CP.</characteristic>
           <profiles>
             <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="e631-ecf1-5c39-50da">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ Arco-flagellants
 ■ Crusaders
 ■ Sisters Novitiate Squad</characteristic>

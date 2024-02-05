@@ -777,7 +777,7 @@
         </profile>
         <profile id="3cd3-d7ec-3a95-f9b6" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ BLOODCRUSHERS</characteristic>
           </characteristics>
         </profile>
@@ -3197,7 +3197,7 @@
       <profiles>
         <profile id="57a0-377c-e548-376" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ PINK HORRORS
 ■ BLUE HORRORS</characteristic>
           </characteristics>
@@ -3410,7 +3410,7 @@
         </profile>
         <profile id="5fe7-3f48-2f6c-bd62" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 ■ PINK HORRORS
 ■ BLUE HORRORS</characteristic>
           </characteristics>
