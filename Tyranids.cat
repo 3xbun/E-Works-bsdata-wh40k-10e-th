@@ -6376,7 +6376,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your opponent’s turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในจบเทิร์นของฝ่ายตรงข้าม หากยูนิตนี้ไม่ได้อยู่ในระยะ Engagement Range ของยูนิตศัตรูหนึ่งยูนิตขึ้นไป คุณสามารถนํายูนิตนี้ออก จากสนามรบและวางลงใน Strategic Reserves</characteristic>
           </characteristics>
         </profile>
       </profiles>
