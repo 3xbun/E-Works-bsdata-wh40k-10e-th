@@ -5481,12 +5481,12 @@
         </profile>
         <profile id="1fbb-7493-b68-98a3" name="Seed Mucolids" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per turn, in your shooting phase, when selected to shoot, one unit with this ability can use it instead of making any attacks with it&apos;s ranged weapons. If it does, you can add one new MUCOLID SPORES containing 1 model to your army and set it up anywhere on the battlefield that is wholly within 18&quot; of this model and more than 9&quot; horizontally away from all enemy units.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเทิร์นในช่วง Shooting phase ของคุณ ทุกครั้งที่โมเดลนี้ถูกเลือกให้ยิง มันสามารถใช้ความสามารถนี้แทนการทําการโจมตีด้วยอาวุธระยะ ไกลใดๆ ได้ หากทําเช่นนั้น คุณสามารถเพิ่มยูนิต Mucolid Spores ใหม่ที่มีโมเดล 1 ตัวให้กับกองทัพของคุณและวางไว้ที่ใดก็ได้บนสนามรบที่อยู่ภายใน 18 นิ้วของ โมเดลนี้และต้องอยู่ห่างจากยูนิตศัตรูทั้งหมดมากกว่า 9 นิ้วในแนวราบ</characteristic>
           </characteristics>
         </profile>
         <profile id="d8c3-9917-c6c8-7b77" name="Hive Defences" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">You can target this model with the Fire Overwatch stratagem for 0CP, and can do so even if you have already targeted a different unit with that stratagem this turn. This model can only be targeted with that Stratagem once per turn</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">คุณสามารถเลือกให้โมเดลนี้ใช้ Fire Overwatch ฟรีได้ และสามารถทำได้แม้ว่ายูนิตอื่นจะใช้ stratagem นี้แล้วก็ตาม โมเดลนี้จะสามารถใช้ stratagem นี้ได้หนึ่งครั้งต่อเทิร์น</characteristic>
           </characteristics>
         </profile>
       </profiles>
