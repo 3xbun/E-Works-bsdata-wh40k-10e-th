@@ -2213,12 +2213,12 @@ Outrider Squad มันสามารถเปนผูนํายู�
       <profiles>
         <profile id="1937-4776-60fa-d585" name="Proteus Doctrines" publicationId="4115-3627-e608-39f6" page="21" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit makes an attack that targets a unit that is not Below Half-strength, add 1 to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้ทําการโจมตีใส่ยูนิตที่ไม่ติด สถานะ Below Half-strength เพิ่ม 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="43c9-9fc4-26c9-f5d9" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="18" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character from your army with the Leader ability can be attached to a Vanguard Veterans Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากยูนิต Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Sternguard Veteran Squad หรือ Vanguard Veterans Squad มันสามารถ เป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2304,7 +2304,7 @@ Outrider Squad มันสามารถเปนผูนํายู�
                     </profile>
                     <profile id="e93c-6750-7d86-1132" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                       <characteristics>
-                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี Invulnerable Save 4+</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
