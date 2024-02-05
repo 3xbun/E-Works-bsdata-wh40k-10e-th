@@ -3703,7 +3703,7 @@ this phase.</characteristic>
           <profiles>
             <profile id="ea44-505d-1519-fd1d" name="Lord of Dread" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">CHAOS KNIGHTS model only. At the start of the Fight phase, you can select one enemy unit within Engagement Range of the bearer; that enemy unit must take a Battle-shock test.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล Chaos Knights เท่านั้น เมื่อเริ่ม Fight phase คุณสามารถเลือก ยูนิตศัตรูหนึ่งยูนิตภายใน Engagement Range ของผู้สวมใส่ ยูนิตศัตรู นั้นต้องทํา Battle-shock test</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -3718,7 +3718,7 @@ this phase.</characteristic>
           <profiles>
             <profile id="bcb3-c4d1-dee5-3b9d" name="Aura of Terror" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">CHAOS KNIGHTS model only. If you control an objective marker at the end of your Command phase, and the bearer is within range of that objective marker, that objective marker is said to be Tainted and remains under your control even if you have no models within range of it, until your opponent controls it at the start or end of any turn. In addition, while an objective marker is Tainted and under your control and the Despair Dread ability is active for your army, that objective marker has the Despair Dread ability as if it was a CHAOS KNIGHTS model from your army (so subtract 1 from Battle-shock and Leadership tests taken for enemy units within 12&quot; of it).</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล Chaos Knights เท่านั้น หากคุณควบคุม objective marker ใน ช่วงจบ Command phase ของคุณ และผูสวมใส่อยู่ภายในระยะของ objective marker นั้น objective marker นั้นถือว่าแปดเปื้อนและอยู่ ภายใต้การควบคุมของคุณแม้ว่าคุณจะไม่มีโมเดลอยู่ภายในระยะของมัน ก็ตาม จนกว่าฝ่ายตรงข้ามจะควบคุมมันในช่วงเริ่มหริอจบเทิร์นใดๆ นอกจากนี้ ในขณะที่ objective marker แปดเปื้อนและอยู่ภายใต้การ ควบคุมของคุณและความสามารถ Despair Dread จะเปิดใช้งานสําหรับ  กองทัพของคุณ และ objective marker นั้นจะมีความสามารถ Despair- Dread ราวกับว่ามันเป็นโมเดล Chaos Knights จากกองทัพของคุณ  (ดังนั้น ให้ลบ 1 จากการทํา Battle-shock และ Leadership test สําหรับยูนิตศัตรูที่อยู่ภายในระยะ 12&quot;ของมัน)</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -3733,7 +3733,7 @@ this phase.</characteristic>
           <profiles>
             <profile id="be11-dfc5-c59f-16d1" name="The Traitor&apos;s Mark" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">CHAOS KNIGHTS model only. The Doom and Darkness ability is active for the bearer from the first battle round onwards, instead of from the third.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล Chaos Knights เท่านั้น ความสามารถ Doom and Darkness จะเปิดใช้งานสําหรับผู้สวมใส่ตั้งแต่ Battle round ที่หนึ่ง จากปกติจะเป็น Battle round ที่สาม</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -3748,7 +3748,7 @@ this phase.</characteristic>
           <profiles>
             <profile id="b263-32e3-5af5-2643" name="Panoply of the Cursed Knights" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">CHAOS KNIGHTS model only. Each time an attack is made against the bearer, subtract 1 from the Armour Penetration  characteristic of that attack.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล Chaos Knights เท่านั้น ทุกครั้งที่มีการโจมตีใส่ผู้สวมใส่ ลบ 1 จากค่า Armour Penetration ของการโจมตีนั้น</characteristic>
               </characteristics>
             </profile>
           </profiles>
