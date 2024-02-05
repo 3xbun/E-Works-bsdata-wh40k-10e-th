@@ -7016,7 +7016,7 @@
           </profiles>
           <rules>
             <rule id="62c7-3cb5-45c-cc3b" name="Harpooned" hidden="false">
-              <description>After the bearer has shot with this weapon, select one enemy MONSTER or VEHICLE unit hit by one or more of those attacks. Until the end of the turn, each time the bearer selects that unit as a target of a charge, add 2 to the Charge roll</description>
+              <description>เมื่อผู้ถือใช้อาวุธนี้ยิง เลือกยูนิต Monster หรือ Vehicle ฝ่ายศัตรูที่ถูกยิงด้วยอาวุธนี้ จนจบเทิร์น ทุกครั้งที่ผู้ถือเลือกยูนิตเป็นเป้าหมายของการชาร์จ เพิ่ม 2 ให้กับ Charge Roll</description>
             </rule>
           </rules>
           <infoLinks>
