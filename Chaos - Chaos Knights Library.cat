@@ -3785,12 +3785,12 @@ DOOM AND DARKNESS
   <sharedProfiles>
     <profile id="97fd-09c5-60a8-63c4" name="Damaged: 1-4 wounds remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-4 Wound ทุกครั้งที่โมเดลนี้โจมตี ให้ลบ 1 จาก Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="12ce-2a62-9fea-74bd" name="Damaged: 1-7 wounds remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-7 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-7 Wound ให้ลบ 5 จากค่า Objective Control ของโมเดลนี้ และทุกครั้งที่โมเดลนี้โจมตี ให้ลบ 1 จาก Hit Roll</characteristic>
       </characteristics>
     </profile>
     <profile id="9717-2058-eae3-602e" name="Forged in Terror (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -3802,24 +3802,24 @@ DOOM AND DARKNESS
         </modifier>
       </modifiers>
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In the Battle-shock step of your opponent’s Command phase, if an enemy unit that is below its Starting Strength is within 12&quot; of a CHAOS KNIGHTS model from your army, that enemy unit must take a Battleshock test. For the purposes of this ability, if a unit has a Starting Strength of 1, it is considered to be below its Starting Strength while it has lost one or more wounds.
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วง Battle-shock step ของ Command phase ของฝ่ายตรงข้าม หากยูนิตศัตรูที่ติด below Starting Strength อยู่ภายในระยะ 12&quot;ของ โมเดล Chaos Knights จากกองทัพของคุณ ยูนิตศัตรูนั้นต้องทํา Battle- shock test สําหรับวัตถุประสงค์ของความสามารถนี้ หากยูนิตมี Starting Strength เป็น 1 จะถือว่าติด below Starting Strength เมื่อสูญเสีย Wound ไปหนึ่ง Wound หริอมากกว่า
 
-Designer’s Note: This means that all enemy units within range of this Aura ability that have lost one or more models must take a Battle-shock test in your opponent’s Command phase, not just those that are Below Half-strength.</characteristic>
+หมายเหตุ: หมายความว่ายูนิตศัตรูทั้งหมดที่อยู่ภายในระยะของความสามารถ Aura นี้ที่สูญเสียโมเดลไปหนึ่งตัวหริอมากกว่าจะต้องทํา Battle-shock test  ใน Command phase ของฝ่ายตรงข้ามเช่นกัน ไม่ใช่แค่ยูนิตที่ติด Below Half- strength เท่านั้น</characteristic>
       </characteristics>
     </profile>
     <profile id="7400-7387-dae-781f" name="Damaged: 1-10 wounds remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-10 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-10 Wound ให้ลบ 5 จากค่า Objective Control ของโมเดลนี้ และทุกครั้งที่โมเดลนี้โจมตี ให้ลบ 1 จาก Hit Roll</characteristic>
       </characteristics>
     </profile>
     <profile id="668-138f-bf96-9619" name="Damaged: 1-8 wounds remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-8 wounds remaining, subtract 5 from this model’s Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-8 Wound ให้ลบ 5 จากค่า Objective Control ของโมเดลนี้ และทุกครั้งที่โมเดลนี้โจมตี ให้ลบ 1 จาก Hit Roll</characteristic>
       </characteristics>
     </profile>
     <profile id="73ac-6b3a-8480-d08a" name="Huntmaster (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly WAR DOG model is within 6&quot; of this model, each time that WAR DOG model makes a ranged attack, you can ignore any or all modifiers to that attack’s Ballistic Skill characteristic and/or to the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดล WAR DOG ฝ่ายเดียวอยู่ในระยะ 6&quot; กับโมเดลนี้ ทุกครั้งที่ WAR DOG ตัวนั้นโจมตีระยะไกล คุณสามารถไม่สนใจการแก้ไขบางส่วนหรือทั้งหมดที่มีต่อค่า BS ของการโจมตีนั้น และ/หรือ Hit Roll</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>
