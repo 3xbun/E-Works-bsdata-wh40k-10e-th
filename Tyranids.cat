@@ -6928,12 +6928,10 @@
       <profiles>
         <profile id="b8e7-5d35-cbdb-fc5f" name="Singular Purpose" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the First battle round, select one of the following: 
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่ม Battle Round รอบแรก ให้เลือกความสามารถ อย่างใดอย่างหนึ่งต่อไปนี้: 
 
-- Select one enemy unit. Until the end of the battle, each time this model makes an attack that targets that unit you can re-roll the Hit roll and you can re-roll the Wound roll
-
-
--Select one objective marker. Until the end of the battle, while this model is within range of that objective marker, it has the Feel No Pain 5+ ability and an Objective Control characteristic of 15.</characteristic>
+▪เลือกหนึ่งยูนิตศัตรู, จนจบเกม, ทุกครั้งที่โมเดลนี้ทําการโจมตีใส่ยูนิตทที่เลือก, คุณสามารถ Re-roll the Hit roll และ Re-roll the Wound roll ได้ 
+▪เลือกหนึ่ง Objective marker, จนจบเกม, เมื่อโมเดลนี้จะอยู่ภายในระยะ ของ Objective marker ที่เลือก, โมเดลนี้จะมีความสามารถ Feel No Pain 5+ และค่า Objective Control เท่ากับ 15</characteristic>
           </characteristics>
         </profile>
         <profile id="36d4-99f2-1830-b57" name="Norn Assimilator" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
