@@ -1330,7 +1330,7 @@ Reclaim the Realm
         </profile>
         <profile id="e11c-1932-dd04-c55f" name="Exemplar of the Code" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the battle, select one unit from your opponent’s army. Each time this model makes an attack that targets that unit, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่มต้นเกม เลือกหนึ่งยูนิตจากกองทัพของ ฝ่ายตรงข้าม ทุกครั้งที่โมเดลนี้ทําการโจมตีใส่ยูนิตนั้น คุณสามารถ Re-roll the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1339,7 +1339,7 @@ Reclaim the Realm
           <profiles>
             <profile id="36a7-a0c0-ff14-14a7" name="Mentor (Bondsman)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a model is affected by this ability, improve that model’s Leadership characteristic by 1 and improve that model’s Objective Control characteristic by 2.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลได้รับผลจากความสามารถนี้ เพิ่ม 1 ให้ กับค่า Leadership ของโมเดลนั้น และเพิ่ม 2 ให้กับค่า Objective Control ของโมเดลนั้น</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1355,7 +1355,7 @@ Reclaim the Realm
           </modifiers>
         </infoLink>
         <infoLink id="1919-347f-33d9-bb9b" name="Super-Heavy Walker" hidden="false" targetId="5e13-1624-d280-418d" type="rule"/>
-        <infoLink id="98f3-699d-3577-a805" name="Invulnerable Save 5+" hidden="false" targetId="8552-862d-6a49-4879" type="profile"/>
+        <infoLink id="98f3-699d-3577-a805" name="Invulnerable Save (5+*)" hidden="false" targetId="8552-862d-6a49-4879" type="profile"/>
         <infoLink id="250f-51fe-b002-2662" name="Damaged: 1-7 Wounds Remaining" hidden="false" targetId="a274-b647-186a-54ee" type="profile"/>
       </infoLinks>
       <categoryLinks>
