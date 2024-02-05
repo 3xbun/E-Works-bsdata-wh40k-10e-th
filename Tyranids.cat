@@ -2635,7 +2635,7 @@
         </profile>
         <profile id="5bd7-b7c-42a4-3055" name="Fear of the Unseen (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While an enemy unit is within 6&quot; of this model, worsen the Leadership characteristic of models in that unit by 1. In addition, in the Battle-shock step of your opponent’s Command phase, if such an enemy unit is below its Starting Strength, it must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตศัตรูอยู่ภายในระยะ 6 นิ้วของโมเดลนี้ ลดค่า Leadership (LD) ของโมเดลในยูนิตนั้นลง 1 นอกจากนี้ ใน Battle-shock step ของ Command phase ของฝ่ายตรงข้าม หากยูนิตศัตรูดังกล่าวมีจํานวน โมเดลน้อยกว่า Starting Strength มันจะต้องทํา Battle-shock test</characteristic>
           </characteristics>
         </profile>
         <profile id="e3fa-da84-9809-3099" name="Hunter Organism" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -2647,7 +2647,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model cannot be your Warlord</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้ไม่สามารถเป็น Warlord ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2655,7 +2655,7 @@
         <infoLink id="f1a5-240b-243c-eed0" name="Feeder Tendrils" hidden="false" targetId="3f46-6dbb-d99b-4ae2" type="profile"/>
         <infoLink id="2837-94c6-2d8-5e26" name="Fights First" hidden="false" targetId="24-c886-e8ba-5a89" type="rule"/>
         <infoLink id="a6bf-e39f-4b5c-661c" name="Infiltrators" hidden="false" targetId="c05d-f4c3-f091-4938" type="rule"/>
-        <infoLink id="427c-c263-7d60-a5a4" name="Invulnerable Save 4+" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
+        <infoLink id="427c-c263-7d60-a5a4" name="Invulnerable Save" hidden="false" targetId="a2fa-ebfd-7b32-9a75" type="profile"/>
         <infoLink id="d638-601e-fc4d-b225" name="Lone Operative" hidden="false" targetId="a8a0-8fe7-898-e0f3" type="rule"/>
         <infoLink id="ee29-bee3-d0ff-fc53" name="Stealth" hidden="false" targetId="bec5-4288-34a6-ccfa" type="rule"/>
         <infoLink id="c239-36a3-7bb9-c712" name="Synapse" hidden="false" targetId="86aa-437f-260b-5cad" type="rule"/>
