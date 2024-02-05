@@ -3681,7 +3681,7 @@
       <profiles>
         <profile id="533-9226-7e51-ee0" name="Chitinous Horrors (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While an enemy unit is within Engagement Range of this unit, halve the Objective Control characteristic of models in that enemy unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ขณะที่ยูนิตศัตรูอยู่ภายในระยะ Engagement Range ของยูนิตนี้ ให้ลดค่า Objective Control ของโมเดลในยูนิตศัตรูนั้นลงครึ่งหนึ่ง</characteristic>
           </characteristics>
         </profile>
       </profiles>
