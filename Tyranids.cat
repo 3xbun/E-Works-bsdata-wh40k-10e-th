@@ -3444,12 +3444,12 @@
       <profiles>
         <profile id="36f5-a5b7-9e6-9f40" name="Spirit Leech (Aura, Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While an enemy unit is within 6&quot; of this unit, if it contains a Neurothrope, each time that enemy unit fails a Battle-shock test, it suffers D3 mortal wounds and one model in this unit regains up to D3 lost wounds.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตนี้มี Neurothrope เมื่อยูนิตศัตรู อยู่ภายใน 6 นิ้วของยูนิตนี้ ทุกครั้งที่ยูนิตศัตรูนั้นล้มเหลว Battle-shock test มันจะได้รับความเสียหาย D3 mortal wounds และโมเดลหนึ่งตัวในยูนิตนี้จะ ฟื้นฟู Wound ที่สูญเสียไปได้สูงสุด D3</characteristic>
           </characteristics>
         </profile>
         <profile id="6356-2345-a0cf-9555" name="Warp Field (Aura, Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly TYRANIDS unit is within 6&quot; of this unit, models in that unit have a 6+ invulnerable save.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ขณะที่ยูนิต Tyranids มิตรอยู่ภายใน 6 นิ้ว ของยูนิตนี้ โมเดลในยูนิตนั้นจะมี Invulnerable save 6+</characteristic>
           </characteristics>
         </profile>
       </profiles>
