@@ -5454,12 +5454,12 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="81a0-c679-23bd-77e3" name="Droneport" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this FORTIFICATION is selected to shoot, its drone defenders weapon will target and resolve attacks against every enemy unit that is an eligible target to this FORTIFICATION.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ Fortification นี้ถูกเลือกให้ยิง drone defenders wea- pon ของมันจะโจมตีใส่เป้าหมายเมื่อโจมตีใส่ยูนิตศัตรูทุกยูนิตที่เป็นเป้าหมายที่เข้า เงื่อนไขของ Fortification นี้</characteristic>
           </characteristics>
         </profile>
         <profile id="a334-a990-143d-fe61" name="Tidewall Droneport" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 11 T’AU EMPIRE INFANTRY models. It cannot transport BATTLESUIT, KROOT or VESPID STINGWINGS models.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกโมเดล T’au Empire Infantry จำนวน 11 ตัว และไม่สามารถบรรทุกโมเดล Battlesuit, Kroot หรือ Vespid Stingwings</characteristic>
           </characteristics>
         </profile>
       </profiles>
