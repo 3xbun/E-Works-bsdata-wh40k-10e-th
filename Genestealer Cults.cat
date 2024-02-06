@@ -4363,12 +4363,13 @@
         </profile>
         <profile id="aeea-7c47-8219-2ff6" name="Primed and Ready" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, you can select one model from your army with this ability as the target of the Grenade Stratagem for 0CP, provided that model has not already been the target of that Stratagem this phase. This can allow you to use the Grenade Stratagem for a second time this phase</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting phase ของคุณ คุณสามารถใช้ Strat- agem Grenade กับโมเดลหนึ่งตัวจากกองทัพของคุณที่มีความสามารถนี้ได้  ด้วย 0 CP หากโมเดลนั้นยังไม่เคยใช้ Stratagem นั้นในเฟสนี้ ความสามารถนี้ จะทําให้คุณสามารถใช้ Stratagem Grenade ซ้ําได้อีกครั้งใน Shooting phase เดียวกัน</characteristic>
           </characteristics>
         </profile>
         <profile id="bb22-5863-886b-44a4" name="Planted Explosives" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, when an enemy unit ends a Normal, Advance or Fall Back move within 12&quot; of this model, this model can use its Reductus mine. If it does, roll one D6: on a 2+, that enemy unit suffers D3+3 mortal wounds. Only one model from your army with this ability can use it in the same battle round.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม เมื่อยูนิตศัตรูจบการเคลื่อนที่ปกติ, Advance, หริอ Fall Back ภายในระยะ 12&quot; จากโมเดลนี้ โมเดลนี้สามารถใช้ Reductus mine ของมันได้ หากทําเช่นนั้น ให้หนึ่ง D6: ที่ 2+: ยูนิตศัตรูนั้น จะได้รับความเสียหาย D3+3 Mortal wound
+หมายเหตุ: วาง Reductus Mine token ไว้ใกล้ๆ กับผู้สวมใส่ และนํามัน ออกจากหลังจากที่ใช้ความสามารถนี้แล้ว</characteristic>
           </characteristics>
         </profile>
       </profiles>
