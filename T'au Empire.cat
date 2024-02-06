@@ -5534,7 +5534,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="4cc0-bf88-84f5-c52b" name="Tidewall Gunrig" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 11 T’AU EMPIRE INFANTRY models. It cannot transport BATTLESUIT, KROOT or VESPID STINGWINGS models.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกโมเดล T’au Empire Infantry จำนวน 11 ตัว และไม่สามารถบรรทุกโมเดล Battlesuit, Kroot หรือ Vespid Stingwings</characteristic>
           </characteristics>
         </profile>
       </profiles>
