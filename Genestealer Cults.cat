@@ -2094,12 +2094,12 @@
       <profiles>
         <profile id="1537-7cfd-9fd9-f69d" name="Outrider Gangs" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time you use the Cult Ambush ability to set this unit back up on the battlefield, in addition to the normal rules, all of its models must be set up wholly within 9&quot; of a battlefield edge and at least one of its models must be touching one of your Cult Ambush markers (that marker is then removed from the battlefield). If this cannot be done, this unit cannot be set back up.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่คุณใช้ความสามารถ Cult Ambush เพิ่อนํายูนิตนี้ กลับเข้าสู่สนามรบ นอกเหนือจากกฎปกติ ทั้งหมดของโมเดลในยูนิตนี้จะต้องวาง ภายในระยะ 9&quot; จากขอบสนามรบ และจะต้องมีโมเดลในยูนิตนี้ อย่างน้อยหนึ่งตัว สัมผัสกับ Cult Ambush marker ของคุณ (หลังจากนั้น marker ดังกล่าวจะถูก  นําออกจากสนามรบ) หากไม่สามารถทําได้ ยูนิตนี้จะไม่สามารถกลับเข้าสู่สนามรบได้</characteristic>
           </characteristics>
         </profile>
         <profile id="a1b0-4124-e468-17a3" name="Demolition Run" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit ends a Normal move, you can select one enemy unit within 6&quot; of and visible to this unit and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อ Battle round หลังจากที่ยูนิตนี้จบการเคลื่อน ที่ปกติ คุณสามารถเลือกยูนิตศัตรูหนึ่งยูนิตที่อยู่ภายในระยะ 6&quot; และมองเห็นได้ จากยูนิตนี้ และทอยหนึ่ง D6 สําหรับโมเดลแต่ละตัวในยูนิตนี้: สําหรับทุกลูกที่ 4+ ให้ยูนิตศัตรูนั้นได้รับความเสียหาย 1 Mortal wound</characteristic>
           </characteristics>
         </profile>
       </profiles>
