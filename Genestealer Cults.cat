@@ -2506,7 +2506,7 @@
       <profiles>
         <profile id="ebfc-acb-d5c5-a4c4" name="Voice of New Truths (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While an enemy unit is within 12&quot; of this model, subtract 1 from Battle-shock tests taken for that unit and, if that unit fails a Battle-shock test, it suffers 1 mortal wound.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตศัตรูอยู่ภายในระยะ 12&quot; ของโมเดลนี้ ให้ลบ 1 จากผลลัพท์ของการทํา Battle-shock test ของยูนิตศัตรูนั้น และหากยูนิตศัตรูนั้นล้มเหลวในการทํา Battle-shock test ให้ยูนิตศัตรูนั้นได้ รับความเสียหาย 1 Mortal wound</characteristic>
           </characteristics>
         </profile>
         <profile id="7f74-bf54-fc5c-8ba7" name="Clamavus" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -2521,7 +2521,7 @@
         </profile>
         <profile id="d109-cec8-e513-fab1" name="Scrambler Array" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12&quot; of this model.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตศัตรูที่เข้ามาบนสนามรบด้วยการ Reinforcements จะไม่สามารถเข้ามาภายในระยะ 12&quot;จากโมเดลนี้ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2534,7 +2534,7 @@
 - ACOLYTE HYBRIDS
 - HYBRID METAMORPHS
 - NEOPHYTE METAMORPHS
-You can attach this model to a Genestealer Cults Battleline unit, even if a Primus, Magus or Acolyte Iconward model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
+คุณสามารถใส่โมเดลนี้อยู่ในยูนิต Genestealer Cults Battleline ได้ แม้ว่าจะมี โมเดล Primus, Magus หริอ Acolyte Iconward อยู่ในยูนิตนั้นแล้วก็ตาม หาก ทําเช่นนั้น และยูนิตบอดี้การ์ดนั้นถูกทําลาย ยูนิตผู้นําที่อยู่ในยูนิตนั้นจะกลายเป็น ยูนิตแยกต่างหาก ด้วย Starting Strengths เริ่มต้น</characteristic>
               </characteristics>
             </profile>
           </profiles>
