@@ -9903,7 +9903,9 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
         <selectionEntry id="e366-3583-f47a-986e" name="Kauyon" hidden="false" collective="false" import="true" type="upgrade">
           <rules>
             <rule id="317c-3f1d-9993-b610" name="Kauyon" hidden="false">
-              <description>From the third battle round onwards, all ranged weapons equipped by T’au Empire models from your army have the [SUSTAINED HITS 1] ability. While a unit is a Guided unit (see For the Greater Good), weapons in that unit have the [SUSTAINED HITS 2] ability instead.</description>
+              <description>ตั้งแต่ Battle round ที่สามเป็นต้นไป อาวุธระยะไกลทั้งหมดของโมเดล T&apos;au Empire จากกองทัพของคุณจะมีความสามารถ [SUSTAINED HITS 1] ถ้าหากยูนิตของคุณเป็นยูนิต Guided (ดูที่ For the Greater Good) อาวุธใน ยูนิตนั้นจะมีความสามารถ [SUSTAINED HITS 2] แทน
+
+</description>
             </rule>
           </rules>
           <infoLinks>
