@@ -7014,7 +7014,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="d6ef-b13d-f91a-ad20" name="Coordinated Strike" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is a Guided unit, each time it makes an attack that targets its Spotted unit, re-roll a Hit roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นยูนิต Guided ทุกครั้งที่มันโจมตียูนิต Spotted ของมัน คุณสามารถ Re-roll a Hit roll ที่ออก  1 ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="63c6-ed19-c7e5-638" name="Damaged: 1-10 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
