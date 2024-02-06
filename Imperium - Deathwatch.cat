@@ -1228,6 +1228,23 @@
               </characteristics>
             </profile>
           </profiles>
+          <profiles>
+            <profile id="da3c-2d61-7879-ea97" name="Garran Branatar" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
+              <characteristics>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+                <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
+                <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
+                <characteristic name="W" typeId="750a-a2ec-90d3-21fe">3</characteristic>
+                <characteristic name="LD" typeId="58d2-b879-49c7-43bc">6+</characteristic>
+                <characteristic name="OC" typeId="bef7-942a-1a23-59f8">2</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="f12-38da-600-43e8" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
           <selectionEntries>
             <selectionEntry id="ad82-8000-8d9d-8fa8" name="Heavy Flamer" publicationId="4115-3627-e608-39f6" page="11" hidden="false" collective="false" import="true" type="upgrade">
               <constraints>
@@ -2523,6 +2540,28 @@ Outrider Squad มันสามารถเปนผูนํายู�
         <profile id="a226-1a6e-44f-6113" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="24" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Intercessor Squad มันสามารถเป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="efbb-bbf1-57eb-c7e1" name="Infantry" hidden="false" targetId="cf47-a0d7-7207-29dc" primary="true"/>
+        <categoryLink id="8ebd-731d-ffed-1a89" name="Grenades" hidden="false" targetId="5a61-81ac-eb7c-a87e" primary="false"/>
+        <categoryLink id="1ff3-743d-4483-538d" name="Imperium" hidden="false" targetId="aff3-d6a3-2a95-9dc" primary="false"/>
+        <categoryLink id="c9-627-a825-79c1" name="Tacticus" hidden="false" targetId="5179-8ede-45e3-49a2" primary="false"/>
+        <categoryLink id="2439-3df5-6ee9-114f" name="Faction: Deathwatch" hidden="false" targetId="d39c-9989-db7f-d815" primary="false"/>
+        <categoryLink id="ba30-18f5-32d3-6b2" name="Faction: Adeptus Astartes" hidden="false" targetId="6e7-40c-58d9-e402" primary="false"/>
+        <categoryLink id="2f82-c310-9d44-dc0" name="Kill Team" hidden="false" targetId="81b0-a893-4fb7-c298" primary="false"/>
+        <categoryLink id="5c0-51e7-95a9-bfb9" name="Fortis Kill Team" hidden="false" targetId="a2bb-b582-9f57-27f5" primary="false"/>
+      </categoryLinks>
+      <profiles>
+        <profile id="cd92-208e-7559-9c9b" name="Fortis Doctrines" publicationId="4115-3627-e608-39f6" page="23" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit makes an attack that targets a unit that is Below Half-strength, add 1 to the Hit roll.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a226-1a6e-44f-6113" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="24" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character from your army with the Leader ability can be attached to an Intercessor Squad, it can be attached to this unit instead.</characteristic>
           </characteristics>
         </profile>
       </profiles>
