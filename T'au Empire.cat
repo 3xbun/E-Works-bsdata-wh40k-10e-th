@@ -9942,7 +9942,8 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
     <profile id="3d6e-7d4-ba81-9a8f" name="Weapon Support System" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <comment>Shared</comment>
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time the bearer makes a ranged attack, you can ignore any or all modifiers to the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ผู้สวมใส่ทำการโจมตีระยะไกล
+คุณสามารถเพิกเฉยต่อตัวปรับแต่งใดๆ หรือทั้งหมดต่อการทอย Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="b5b2-f430-5dc1-106b" name="Battlesuit Support System" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
