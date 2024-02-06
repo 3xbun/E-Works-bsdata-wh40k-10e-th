@@ -5315,31 +5315,11 @@ You can attach this model to a GENESTEALER CULTS BATTLELINE unit, even if a PRIM
   </sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="8f27-1d49-40ef-b041" name="Cult Ambush" hidden="false">
-      <description>If your Army Faction is GENESTEALER CULTS, each time a unit with this ability is destroyed, roll one D6, adding 1 to the result if it is a BATTLELINE unit, and adding 1 to the result if its the first or second battle round. On a 5+, that unit is placed into Cult Ambush and you can place one Cult Ambush marker anywhere on the battlefield that is more than 9&quot; horizontally away from all enemy units (if this is not possible, no marker is placed). 
+      <description>หากฝ่ายกองทัพของคุณคือ Genestealer Cult ทุกครั้งที่ยูนิตที่มีความ สามารถนี้ถูกทําลาย ให้ทอย 1D6 โดยเพิ่ม 1 ให้กับผลลัพธ์หากเป็นยูนิต Battleline และเพิ่ม 1 ให้กับผลลัพธ์หากเป็น Battle round ที่หนึ่งหริอสอง ที่ 5+ ให้เพิ่มยูนิตใหม่ที่เหมือนกับยูนิตที่ถูกทําลายของคุณไปยังกองทัพของ คุณ ใน Cult Ambush ด้วย Starting Strength และ Wound เท่ากับค่า เริ่มต้น และคุณสามารถวาง Cult Ambush marker* หนึ่งอันบนสนามรบ  ในจิดไหนก็ได้ที่ห่างจากยูนิตศัตรูทั้งหมดเกิน 9&quot; ในแนวนอน (หากไม่สามารถทําได้ การวางเคริ่องหมายใดๆ จะไม่เกิดขิ้น)
 
+หากโมเดลศัตรู (ยกเว้นโมเดล Aircraft) จบการเคลื่อนที่ใดๆ ก็ตามในระยะ 9&quot;ของ Cult Ambush marker ที่คุณวางไว้ Cult Ambush marker  นั้นจะถูกนําออกจากสนามรบทันที เมื่อจบช่วง Reinforcements ของ Mo- vement phase ถัดไปของฝ่ายตรงข้าม สําหรับ Cult Ambush marker  แต่ละอันที่ยังคงอยู่บนสนามรบ คุณสามารถเลือกยูนิตหนึ่งยูนิตในกองทัพ ของคุณ ที่อยู่ใน Cult Ambush นํายูนิตนั้นเข้ามาบนสนามรบโดยให้ห่างจาก โมเดลศัตรูทั้งหมด 9&quot;ในแนวนอนและโมเดลอย่างน้อยหนึ่งตัวในยูนิตนั้นจะ ต้องสัมผัสกับ Cult Ambush marker นั้น และวางทั้งหมดของโมเดลตัวอื่นๆ ในยูนิตนั้นให้อยู่ภายในระยะ 3&quot;จาก Cult Ambush marker นั้น (Cult Ambush marker นั้นจะถูกนําออกจากสนามรบ)
 
-If an enemy model (excluding Aircraft models) ends any kind of move within 9&quot; of a Cult Ambush marker you placed, that Cult Ambush marker is removed from the battlefield. At the end of the Reinforcements step of your opponent’s next Movement phase, for each of your Cult Ambush markers that is still on the battlefield, you can select one unit from your army that is in Cult Ambush and set that destroyed unit back up on the battlefield using the Deep Strike ability, containing all of its models with their full wounds remaining and with at least one of those models touching that Cult Ambush marker (that Cult Ambush marker is then removed from the battlefield). 
-
-
-CHARACTERS that are attached to a unit with this ability are not returned alongside that unit should it return to the battlefield as described above (only the Bodyguard unit returns).</description>
-    </rule>
-    <rule id="66c5-5a84-d6d8-9e44" name="New Rule" hidden="false">
-      <modifiers>
-        <modifier type="set" field="hidden" value="true">
-          <conditionGroups>
-            <conditionGroup type="or">
-              <conditions>
-                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="e367-b2cb-d22a-b17c" type="atLeast"/>
-                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="51e8-dac1-561a-aaa9" type="atLeast"/>
-                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="5543-973a-cd2e-c941" type="atLeast"/>
-                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="725f-8a41-dc78-52f5" type="atLeast"/>
-                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="3d6c-357e-3c09-813c" type="atLeast"/>
-                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="5e0e-11d9-181d-3481" type="atLeast"/>
-              </conditions>
-            </conditionGroup>
-          </conditionGroups>
-        </modifier>
-      </modifiers>
+Charaters ที่รวมอยู่กับยูนิตที่มีความสามารถนี้จะไม่กลับมาพร้อมกับยูนิต  นั้นหากยูนิตนั้นกลับมาบนสนามรบตามที่อธิบายไว้ข้างต้น (เฉพาะยูนิตบอดี้การ์ดเท่านั้นที่จะกลับมา)</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
