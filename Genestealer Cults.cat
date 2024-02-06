@@ -3319,17 +3319,18 @@
       <profiles>
         <profile id="6032-de57-f8f6-e3d8" name="Psychic Familiar" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, at the start of any of your opponent’s Shooting phases, this model can use its psychic familiar. If it does, until the end of the phase, double the range of its Mind Control ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม เมื่อเริ่มต้น Shooting phase ของฝ่าย ตรงข้าม โมเดลนี้สามารถใช้ความสามารถนี้ได้ได้ หากทําเช่นนั้น จนจบ Shooting phase นั้น เพิ่มระยะของความสามารถ Mind Control ของโมเดลนี้เป็นสองเท่า 
+หมายเหตุ: วางโทเคน Psychic Familiar ไว้ใกล้ๆ กับโมเดล และนํามันออก หลังจากใช้ความสามารถแล้ว</characteristic>
           </characteristics>
         </profile>
         <profile id="72c3-6768-b2e4-cbcc" name="Mind Control (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of your opponent’s Shooting phase, one PSYKER model from your army with this ability can use it. If used, select one enemy unit within 12&quot; of and visible to that PSYKER model and roll one D6: on a 1, that PSYKER model suffers D3 mortal wounds; on a 2-5, until the end of the phase, each time a model in that enemy unit makes an attack, subtract 1 from the Hit roll; on a 6, that enemy unit is not eligible to shoot this phase.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting phase ของฝั่งตรงข้าม Psyker หนึ่งยูนิตจากกองทัพของคุณที่มีความสามารถนี้ สามารถใช้ความสามารถนี้ได้ หากทําเช่นนั้น เลือกยูนิตศัตรูหนึ่งยูนิต ภายในระยะ 12&quot; และมองเห็นได้จาก โมเดล Psyker นั้น ทอยหนึ่ง D6: ที่ 1 โมเดล Psyker นั้นได้รับความเสียหาย D3 Mortal wound ผล 2-5: จนจบเฟส ทุกครั้งที่โมเดลในยูนิตศัตรูยูนิตนั้น ทําการ โจมตี ให้ลบ 1 the Hit roll ผล 6: ยูนิตศัตรูยูนิตนั้น ไม่สามารถยิงได้ในเฟสนี้</characteristic>
           </characteristics>
         </profile>
         <profile id="6861-b91-d08f-8f28" name="Spiritual Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability against Psychic Attacks</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต โมเดลในยูนิตนั้นจะมีความสามารถ Feel No Pain 5+ ต่อการโจมตีแบบ Psychic Psychic Attacks.</characteristic>
           </characteristics>
         </profile>
         <profile id="275f-3264-3ec9-8c56" name="Magus" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
