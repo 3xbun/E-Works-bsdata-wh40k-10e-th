@@ -1316,12 +1316,12 @@
         </profile>
         <profile id="fe14-c4c9-0210-2cd0" name="Taskmaster (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly WAR DOG model is within 9&quot; of this model, each time that WAR DOG model makes a ranged attack, re-roll a Hit roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล War Dog ที่เป็นมิตรอยู่ภายในระยะ 9&quot; ของโมเดลนี้ ทุกครั้งที่โมเดล War Dog นั้นทําการโจมตีระยะไกล คุณสามารถ Re-roll a Hit roll ที่ออก 1 ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="dd85-4783-c495-ca01" name="Obsessive Ruthlessness" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a ranged attack against a MONSTER or VEHICLE unit, that attack has the [DEVASTATING WOUNDS] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้โจมตีระยะไกลใส่ยูนิต Monster หริอ Vehicle การโจมตีนั้นจะมีความสามารถ [DEVASTATING WOUNDS]</characteristic>
           </characteristics>
         </profile>
       </profiles>
