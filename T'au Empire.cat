@@ -3504,7 +3504,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="4050-a088-38c5-ab2a" name="Precise Targeting" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is a Guided unit, each time it makes an attack that targets its Spotted unit, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นยูนิต Guided ทุกครั้งที่โมเดลนี้ทำการ โจมตีใส่ยูนิต Spotted คุณสามารถ Re-roll the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
