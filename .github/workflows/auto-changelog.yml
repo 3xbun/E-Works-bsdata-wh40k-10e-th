@@ -1,2 +1,8 @@
-- name: Generate changelog
-  uses: heinrichreimer/action-github-changelog-generator@v2.4
+name: Generate changelog
+on: [push]
+jobs: 
+  build: 
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate changelog
+        uses: heinrichreimer/action-github-changelog-generator@v2.4
