@@ -5325,7 +5325,7 @@ Charaters ที่รวมอยู่กับยูนิตที่มี�
   <sharedProfiles>
     <profile id="21da-375a-fb19-c622" name="Damaged: 1-3 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-3 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-3 Wound ทุกครั้งที่โมเดลนี้โจมตี ลบ 1 จากการ the Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="4fff-cbd2-1277-6f61" name="Hybrid Metamorph" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -5340,12 +5340,12 @@ Charaters ที่รวมอยู่กับยูนิตที่มี�
     </profile>
     <profile id="5549-7c1-ba1b-c59a" name="Invulnerable Save 5+" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This Model has a 5+ Invulnerable Save</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี Invulnerable Save 5+</characteristic>
       </characteristics>
     </profile>
     <profile id="1b8a-3e6f-875a-6fac" name="Invulnerable Save 4+" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This Model has a 4+ Invulnerable Save</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี Invulnerable Save 4+ </characteristic>
       </characteristics>
     </profile>
     <profile id="346a-8364-5e27-ffbd" name="Acolyte Hybrid" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
