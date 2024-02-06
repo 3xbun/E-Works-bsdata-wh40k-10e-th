@@ -2858,7 +2858,7 @@
       <profiles>
         <profile id="1d1-7a6-c41f-1e86" name="Savage Amalgam" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 3+, do not remove it from play; that destroyed model can fight after the attacking model’s unit has finished making its attacks, and it is then removed from play.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้ถูกทําลายโดยการโจมตีระยะประ ชิด หากโมเดลนั้น ยังไม่ได้ต่อสู้ในเฟสนี้ ทอยหนึ่ง D6: ที่ 3+ จะยังนําโมเดลนั้น ออกจากเกม โมเดลที่ถูกทําลายนั้นสามารถต่อสู้ได้ หลังจากยูนิตของโมเดลนี้ เสร็จสิินการโจมตี จึงจะนําโมเดลที่ถูกทําลายนั้นออกจากเกม</characteristic>
           </characteristics>
         </profile>
       </profiles>
