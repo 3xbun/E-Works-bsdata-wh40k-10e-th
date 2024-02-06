@@ -1455,12 +1455,12 @@
         </profile>
         <profile id="0e4f-8cca-c666-dbf8" name="Frenzied Rampage (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly WAR DOG model is within 9&quot; of this model, each time that WAR DOG model makes a melee attack, re-roll a Hit roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล War Dog ที่เป็นมิตรอยู่ภายใน ระยะ 9&quot;ของโมเดลนี้ ทุกครั้งที่โมเดล War Dog นั้นทําการโจมตีระยะไกล คุณสามารถ Re-roll a Hit roll ที่ออก 1 ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="eb59-fb5e-62ca-e829" name="Bloodlust" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a Charge move, until the end of the turn, its melee weapons have the [SUSTAINED HITS 1] ability. In addition, once per battle, this model is eligible to declare a charge in a turn in which it Advanced.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทําการเคลื่อนแบบชาร์จ จนจบเทิร์น อาวุธระยะ ประชิดของมันจะมีความสามารถ [SUSTAINED HITS 1] นอกจากนี้ หนึ่งครั้ง ต่อเกม โมเดลนี้สามารถประกาศชาร์จได้ในเทิร์นที่มัน Advance</characteristic>
           </characteristics>
         </profile>
       </profiles>
