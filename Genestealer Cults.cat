@@ -3894,12 +3894,12 @@
         </profile>
         <profile id="968c-f493-12fa-f01e" name="Battlefield Analysis" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per turn, you can select one model or unit from your army with this ability as the target of a Stratagem for 0CP, even if you have already selected a model or unit from your army as the target of that Stratagem this phase.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เทิร์นละครั้ง คุณสามารถใช้ Stratagem กับหนึ่งโมเดล หริอหนึ่งยูนิตจากกองทัพของคุณที่มีความสามารถนี้ได้ด้วย 0 CP แม้ว่าคุณจะใช้ Stratagem นั้นกับโมเดลหริอยูนิตจากกองทัพของคุณในเฟสนี้ไปแล้วก็ตาม</characteristic>
           </characteristics>
         </profile>
         <profile id="7d54-f68a-b935-acd3" name="Cult Infiltration" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of each player’s Command phase, if this model is on the battlefield, you can select one Cult Ambush marker that is on the battlefield and move it up to 6&quot;</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่มต้น Command phase ของผู้เล่นแต่ละคน หากโมเดลนี้อยู่บนสนามรบ คุณสามารถเลือกหนึ่ง Cult Ambush marker บนสนามรบ และเคลื่อนที่มันได้สูงสุด 6&quot;</characteristic>
           </characteristics>
         </profile>
       </profiles>
