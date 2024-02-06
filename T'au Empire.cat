@@ -8162,7 +8162,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="46c2-c2bc-f0bf-8229" name="Jet Pack Insertion" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your opponent’s Movement phase, one or more units embarked within this TRANSPORT can disembark from it, provided every model in each of those disembarking units has the Deep Strike ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อจบ Movement phase ของฝ่ายตรงข้าม หนึ่งยูนิตหรือมากกว่าที่อยู่ภายใน TRANSPORT นี้ สามารถลงจากยานได้ โดยทุกโมเดลในยูนิตที่จะลงจากยานนั้น จะต้องมีความสามารถ Deep Strike</characteristic>
           </characteristics>
         </profile>
         <profile id="47ad-d3d0-b44e-2b05" name="Damaged: 1-9 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
