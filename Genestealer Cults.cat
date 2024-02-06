@@ -1206,7 +1206,7 @@
       <profiles>
         <profile id="cc70-2470-1cb3-952c" name="Feel No Pain 4+" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This unit has a 4+ Feel No Pain</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี Feel No Pain 4+</characteristic>
           </characteristics>
         </profile>
         <profile id="ae25-dce3-9c2e-2e38" name="Hulking Bodyguards" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -1218,7 +1218,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a CHARACTER is leading this unit, each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อ Character เป็นผู้นํายูนิตนี้ ทุกครั้งที่มีการโจมตี ใส่ยูนิตนี้ หากค่า Strength ของการโจมตีนั้น มากกว่า ค่า Toughness ของ ยูนิตนี้ ให้ลบ 1 จาก the Wound roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
