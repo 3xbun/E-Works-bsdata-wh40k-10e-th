@@ -3431,7 +3431,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of your Command phase, roll one D6 for each objective marker you control that has one or more units from your army with this ability within range of it. If one or more of the results is a 4+, you gain 1CP.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่ม Command phase ของคุณ  ทอยหนึ่ง D6 สําหรับแต่ละ objective marker ที่คุณควบคุม และมียูนิตจากกองทัพของคุณที่มีความสามารถนี้ อย่างน้อยหนึ่งยูนิต อยู่ภายในระยะของ objective  marker นั้น ถ้าผลลัพธ์หนึ่งลูกขิ้นไปที่ 4+ คุณจะได้รับ 1 CP</characteristic>
           </characteristics>
         </profile>
       </profiles>
