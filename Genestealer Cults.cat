@@ -2733,7 +2733,7 @@
       <profiles>
         <profile id="483a-4cb-6beb-2e2d" name="Transport" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 12 GENESTEALER CULTS INFANTRY models. It cannot transport a PATRIARCH.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกโมเดล Genestealer Cults Infantry ได้ 12 ตัว และไม่สามารถบรรทุกโมเดล Patriarch ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="33d1-3163-d41d-8f0e" name="Goliath Truck" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -2748,7 +2748,7 @@
         </profile>
         <profile id="2db9-a2a5-7c0d-4600" name="Fire Support" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this TRANSPORT this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting phase ของคุณ หลังจากโมเดลนี้ยิงแล้ว เลือก ยูนิตศัตรูหนึ่งยูนิตที่ถูกโจมตีจากโมเดลนี้อย่างน้อยหนึ่งครั้งในเฟสนี้ จนจบเฟส ทุกครั้งที่โมเดลที่เป็นมิตรที่ Disembark ลงจาก Transport นี้ในเทิร์นนี้โจมตี ยูนิตศัตรูนั้น คุณสามารถ Re-roll the Wound roll ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
