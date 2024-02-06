@@ -9476,7 +9476,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
           <profiles>
             <profile id="83b6-668f-212d-ec34" name="Through Unity, Devastation" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">T’AU EMPIRE model only (excluding KROOT SHAPER models). While this model is leading a unit, each time that unit is an Observer unit, until the end of the phase, ranged weapons equipped by models in their Guided unit have the [LETHAL HITS] ability while targeting their Spotted unit.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล T’au Empire เท่านั้น (ยกเว้นโมเดล Kroot Shaper) หาก ผู้สวมใส่เป็นผู้นำยูนิต ทุกครั้งที่ยูนิตนั้นเป็นยูนิต Observer จนจบ เฟส อาวุธระยะไกลของโมเดลในยูนิต Guided ของมันจะมีความ สามารถ [LETHAL HITS] เมื่อโจมตีใส่ยูนิต Spotted ของพวกมัน</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -9503,7 +9503,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
           <profiles>
             <profile id="36c5-75d0-b4c8-ff3d" name="Precision of the Patient Hunter" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">T’AU EMPIRE model only. Each time the bearer makes a ranged attack, add 1 to the Hit roll. From the third battle round onwards, add 1 to the Wound roll as well.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล T’au Empire เท่านั้น ทุกครั้งที่ผู้สวมใส่ทำการโจมตีระยะไกล ให้เพิ่ม 1 the Hit roll และตั้งแต่ Battle round ที่สามเป็นต้นไป ให้เพิ่ม 1 the Wound roll ด้วยเช่นกัน</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -9537,7 +9537,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
           <profiles>
             <profile id="92ec-ab9-82a2-e84" name="Puretide Engram Neurochip" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">T’AU EMPIRE model only (excluding KROOT SHAPER models). Once per turn, you can use a Stratagem on the bearer’s unit, even if you have already used that Stratagem on a different unit this phase.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล T’au Empire เท่านั้น (ยกเว้นโมเดล Kroot Shaper) หนึ่ง ครั้งต่อเทิร์น คุณสามารถใช้ Stratagem กับยูนิตของผู้สวมใส่ได้ แม้จะเคยใช้ Stratagem นั้นในยูนิตอื่นในเฟสนี้แล้วก็ตาม</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -9571,7 +9571,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
           <profiles>
             <profile id="1a6-6e94-192a-1473" name="Exemplar of the Kauyon" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">T’AU EMPIRE model only (excluding KROOT SHAPER models). While the bearer is leading a unit, that unit’s Kauyon Detachment rule takes effect from the second battle round onwards instead of the third.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล T’au Empire เท่านั้น (ยกเว้นโมเดล Kroot Shaper) หาก ผู้สวมใส่เป็นผู้นำยูนิต กฎ Detachment Kauyon ของยูนิตนั้นจะมี ผลตั้งแต่ Battle Round ที่สองเป็นต้นไปจากปกติจะทำงานใน Battle Round ที่สาม</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -9763,7 +9763,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1bc1-180f-7f51-15c3" type="max"/>
           </constraints>
         </entryLink>
-        <entryLink id="67e9-2d8d-3cda-8937" name="Weapon Support System" hidden="false" collective="false" import="true" targetId="b26b-c7ee-b1d6-a220" type="selectionEntry">
+        <entryLink id="67e9-2d8d-3cda-8937" name="Weapon support system" hidden="false" collective="false" import="true" targetId="b26b-c7ee-b1d6-a220" type="selectionEntry">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="4046-742c-33f2-6dc8" type="max"/>
           </constraints>
@@ -9926,7 +9926,9 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
         <selectionEntry id="e366-3583-f47a-986e" name="Kauyon" hidden="false" collective="false" import="true" type="upgrade">
           <rules>
             <rule id="317c-3f1d-9993-b610" name="Kauyon" hidden="false">
-              <description>From the third battle round onwards, all ranged weapons equipped by T’au Empire models from your army have the [SUSTAINED HITS 1] ability. While a unit is a Guided unit (see For the Greater Good), weapons in that unit have the [SUSTAINED HITS 2] ability instead.</description>
+              <description>ตั้งแต่ Battle round ที่สามเป็นต้นไป อาวุธระยะไกลทั้งหมดของโมเดล T&apos;au Empire จากกองทัพของคุณจะมีความสามารถ [SUSTAINED HITS 1] ถ้าหากยูนิตของคุณเป็นยูนิต Guided (ดูที่ For the Greater Good) อาวุธใน ยูนิตนั้นจะมีความสามารถ [SUSTAINED HITS 2] แทน
+
+</description>
             </rule>
           </rules>
           <infoLinks>
