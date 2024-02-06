@@ -5385,7 +5385,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="ca95-3b9e-2fbb-1bac" name="Tidewall Shieldline" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 11 T’AU EMPIRE INFANTRY models. It cannot transport BATTLESUIT, KROOT or VESPID STINGWINGS models. If this model is equipped with a Tidewall defence platform, it has a transport capacity of 22 T’AU INFANTRY models instead.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกโมเดล T’au Empire Infantry จำนวน 11 ตัวและไม่สาม- ารถบรรทุกโมเดล Battlesuit, Kroot หรือ Vespid Stingwings หากโมเดลนี้ ติดตั้ง Tidewall defence platform มันจะสามารถบรรทุกโมเดล T’au Empire Infantry จำนวน 22 ตัวแทน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5401,7 +5401,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
             <modifier type="append" field="name" value="20"/>
           </modifiers>
         </infoLink>
-        <infoLink id="7a39-b569-49be-c6a9" name="Invulnerable Save" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
+        <infoLink id="7a39-b569-49be-c6a9" name="Invulnerable Save (5+)" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
         <infoLink id="cb70-84fb-7cef-c4be" name="Tidewall Cover" hidden="false" targetId="2050-72df-fd02-7085" type="profile"/>
       </infoLinks>
       <categoryLinks>
@@ -9956,7 +9956,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
     </profile>
     <profile id="2050-72df-fd02-7085" name="Tidewall Cover" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่มีการยิงใส่โมเดล หากไม่สามารถมองเห็น โมเดลทุกตัวได้ทั้งหมดจากยูนิตที่โจมตีมาเนื่องจากโมเดลอยู่ใน Fortification นี้ โมเดลที่ถูกโจมตีจะได้รับ Benefit of Cover จากการโจมตีครั้งนั้น</characteristic>
       </characteristics>
     </profile>
     <profile id="3a1d-540f-ebbf-700e" name="Damaged: 1-6 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
