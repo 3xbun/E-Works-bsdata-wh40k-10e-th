@@ -3602,7 +3602,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="85b7-6da7-e356-82e5" name="Target Uploaded" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per turn, when using the Greater Good ability, you can select this unit to be an Observer unit for a second time. When doing so, you can change which enemy unit is this unit’s Spotted unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเทิร์น เมื่อใช้ความสามารถ Greater Good คุณสามารถเลือกยูนิตนี้ให้เป็นยูนิต Observer ได้อีกครั้งหนึ่ง เมื่อทำเช่นนี้ คุณสามารถเปลี่ยนยูนิตศัตรูที่เป็นยูนิต Spotted ของยูนิตนี้ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
