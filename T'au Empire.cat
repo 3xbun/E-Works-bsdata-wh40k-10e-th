@@ -3033,7 +3033,7 @@
         </profile>
         <profile id="c5b0-2214-2987-d0de" name="Forward Observers" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit is an Observer unit, until the end of the phase, each time a ranged attack is made by a model in their Guided unit that targets their Spotted unit, re-roll a Wound roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้เป็นยูนิต Observer จนจบเฟส ทุกครั้ง ที่โมเดลในยูนิต Guided ของพวกเขาทำการโจมตีระยะไกลใส่ยูนิต Spotted ของ พวกเขา คุณสามารถ Re-roll a Wound roll ที่ออก 1 ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
