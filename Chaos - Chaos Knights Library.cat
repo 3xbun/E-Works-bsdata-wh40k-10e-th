@@ -1770,12 +1770,12 @@
         </profile>
         <profile id="87a6-3ff2-cea4-2c34" name="Infernal Aegis (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly WAR DOG model is within 6&quot; of this model, that WAR DOG model has the Benefit of Cover.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล War Dog ที่เป็นมิตรอยู่ภายในระยะ 6&quot; ของโมเดลนี้ โมเดล War Dog นั้นจะได้รับ Benefit of Covert of Cover</characteristic>
           </characteristics>
         </profile>
         <profile id="fc0a-7d42-111d-44a3" name="Bastion of Corruption" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12&quot; of this model.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตศัตรูที่เข้ามาบนสนามรบด้วยการ Reinforce- ments ไม่สามารถวางภายใน 12&quot; ของโมเดลนี้</characteristic>
           </characteristics>
         </profile>
         <profile id="f7fe-ed4a-bdc7-3f9" name="Invulnerable Save" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
