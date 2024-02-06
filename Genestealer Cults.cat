@@ -2362,12 +2362,12 @@
         </profile>
         <profile id="34ba-2f78-5a6c-efcf" name="Twisted Science" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, melee weapons equipped by models in that unit have the [LETHAL HITS] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต อาวุธระยะประชิดของโมเดลใน ยูนิตนั้นจะมีความสามารถ [LETHAL HITS]</characteristic>
           </characteristics>
         </profile>
         <profile id="5f87-984b-e0e0-2125" name="Biological Warfare" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, when this model’s unit is selected to fight, this model can use this ability. If it does, until the end of the phase, improve the Attacks and Damage characteristics of its injector goad by 3.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม เมื่อยูนิตที่โมเดลนี้ถูกเลือกให้ต่อสู้ โมเดลนี้สามารถใช้ความสามารถนี้ได้ หากทําเช่นนั้น จนจบเฟส ให้เพิ่ม 3 ให้กับ ค่า Attack และค่า Damage ของ injector goad</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2376,12 +2376,12 @@
           <profiles>
             <profile id="cb83-5005-32d4-8f79" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้:
 - ABERRANTS
 - ACOLYTE HYBRIDS
 - HYBRID METAMORPHS
 - NEOPHYTE METAMORPHS
-You can attach this model to a Genestealer Cults Battleline unit, even if a Primus, Magus or Acolyte Iconward model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
+คุณสามารถใส่โมเดลนี้อยู่ในยูนิต Genestealer Cults Battleline ได้ แม้ว่าจะมี โมเดล Primus, Magus หริอ Acolyte Iconward อยู่ในยูนิตนั้นแล้วก็ตาม หาก ทําเช่นนั้น และยูนิตบอดี้การ์ดนั้นถูกทําลาย ยูนิตผู้นําที่อยู่ในยูนิตนั้นจะกลายเป็น ยูนิตแยกต่างหาก ด้วย Starting Strengths เริ่มต้น</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -2474,7 +2474,9 @@ You can attach this model to a Genestealer Cults Battleline unit, even if a Prim
           <profiles>
             <profile id="dd6f-370e-baf4-2c5f" name="Alchemicus Familiar" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, when the bearer’s unit is selected to fight, the bearer can use its alchemicus familiar. If it does, until the end of the phase, melee weapons equipped by models in that unit have the [ANTI-INFANTRY 2+] ability.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม เมื่อยูนิตของผู้สวมใส่ถูกเลือกให้ต่อสู้ ผู้สวมใส่สามารถใช้ Alchemicus Familiar ได้ ถ้าทําเช่นนั้น จนจบเฟส อาวุธ ระยะประชิดของโมเดลในยูนิตนั้นจะมีความสามารถ [ANTI-INFANTRY 2+] 
+
+หมายเหตุ: วาง Alchemicus Familiar Token ไว้ใกล้ๆ กับผู้สวมใส่ และนํามัน ออกจากหลังจากที่ใช้ความสามารถนี้แล้ว</characteristic>
               </characteristics>
             </profile>
           </profiles>
