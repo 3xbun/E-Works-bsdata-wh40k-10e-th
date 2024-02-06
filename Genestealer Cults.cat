@@ -5302,7 +5302,7 @@ You can attach this model to a GENESTEALER CULTS BATTLELINE unit, even if a PRIM
           <profiles>
             <profile id="9814-9dba-9dad-fa2a" name="They Came From Below" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a GENESTEALER CULTS unit from your army is set up on the battlefield as Reinforcements, until the end of your next Fight phase, weapons equipped by models in that unit have the [SUSTAINED HITS 1] and [IGNORES COVER] abilities</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่คุณนํายูนิต Genestealer Cults จากกองทัพของคุณ เข้ามาบนสนามรบ ในช่วง Reinforcements จนจบ Fight phase ถัดไปของคุณ อาวุธของโมเดลในยูนิตนั้นจะมี [SUSTAINED HITS 1] และ [IGNORES COVER]</characteristic>
               </characteristics>
             </profile>
           </profiles>
