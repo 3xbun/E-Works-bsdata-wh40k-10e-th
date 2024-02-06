@@ -888,12 +888,12 @@
         </profile>
         <profile id="246f-e1c4-6335-20d1" name="Dread Dominion (Aura)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While a friendly WAR DOG is within 9&quot; of this model, each time that WAR DOG takes a Battle-shock test, add 1 to that test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หาก War Dog ที่เป็นมิตรอยู่ภายในระยะ 9&quot; ของโมเดลนี้ ทุกครั้งที่ War Dog นั้นทํา Battle-shock test ให้เพิ่ม 1 ในการ ทดสอบนั้น</characteristic>
           </characteristics>
         </profile>
         <profile id="8d65-776a-67a4-e925" name="Seething Hatred" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model is selected to shoot or fight, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ถูกเลือกให้ยิงหริอต่อสู้ คุณสามารถ Re-roll หนึ่ง Hit roll หริอ Re-roll หนึ่ง Wound roll เมื่อแก้ไขการโจมตีเหล่านั้น</characteristic>
           </characteristics>
         </profile>
       </profiles>
