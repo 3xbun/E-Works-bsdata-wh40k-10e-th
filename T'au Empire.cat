@@ -5992,7 +5992,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
           <profiles>
             <profile id="7899-d388-f303-592" name="Bounty Hunters" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the battle, select one unit from your opponent’s army. Each time a model in this unit makes an attack that targets that unit, that attack has the [LETHAL HITS] and [PRECISION] abilities.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่มเกม เลือกหนึ่งยูนิตศัตรูของฝ่ายตรงข้าม ทุกครั้งที่ โมเดลในยูนิตนี้โจมตตีใส่ยูนิตตศัตรูที่เลือก การโจมตีนั้นจะมีความสามารถ [LETHAL HITS] และ [PRECISION]</characteristic>
               </characteristics>
             </profile>
           </profiles>
