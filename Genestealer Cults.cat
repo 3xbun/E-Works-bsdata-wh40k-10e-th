@@ -1409,17 +1409,17 @@
         </profile>
         <profile id="8030-1b98-3c3c-4afb" name="Feel No Pain 4+" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model has a 4+ Feel No Pain</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี Feel No Pain 4+</characteristic>
           </characteristics>
         </profile>
         <profile id="48f2-fdac-e0bf-b520" name="The Chosen One" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, melee weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต อาวุธระยะประชิดของโมเดลใน ยูนิตนั้น จะมีความสามารถ [SUSTAINED HITS 1]</characteristic>
           </characteristics>
         </profile>
         <profile id="c0d7-d922-8f79-8fca" name="Regenerating Gene-mass" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">The first time this model is destroyed, roll one D6 at the end of the phase. On a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">ครั้งแรกที่โมเดลนี้ถูกทําลาย เมื่อจบเฟสให้ทอย  หนึ่ง D6: ที่ 2+ ให้นําโมเดลนี้กลับมาบนสนามรบในจิดที่ใกล้ที่สุดกับจิดที่มันถูกทําลาย และต้องไม่อยู่ใน Engagement Range ของยูนิตศัตรูใดๆ โดยมี Wound  เท่ากับจํานวนเริ่มต้น</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1428,7 +1428,7 @@
           <profiles>
             <profile id="f802-ed9a-9cb0-7aef" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้:
 - ABERRANTS</characteristic>
               </characteristics>
             </profile>
