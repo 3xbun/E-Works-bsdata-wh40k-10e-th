@@ -9480,7 +9480,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
           <profiles>
             <profile id="36c5-75d0-b4c8-ff3d" name="Precision of the Patient Hunter" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">T’AU EMPIRE model only. Each time the bearer makes a ranged attack, add 1 to the Hit roll. From the third battle round onwards, add 1 to the Wound roll as well.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล T’au Empire เท่านั้น ทุกครั้งที่ผู้สวมใส่ทำการโจมตีระยะไกล ให้เพิ่ม 1 the Hit roll และตั้งแต่ Battle round ที่สามเป็นต้นไป ให้เพิ่ม 1 the Wound roll ด้วยเช่นกัน</characteristic>
               </characteristics>
             </profile>
           </profiles>
