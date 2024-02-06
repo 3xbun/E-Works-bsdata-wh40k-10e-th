@@ -3954,12 +3954,12 @@
       <modifierGroups>
         <modifierGroup>
           <modifiers>
-            <modifier type="set" field="ce3c-3b3b-f90d-e13" value="1">
+            <modifier type="set" field="ce3c-3b3b-f90d-e13" value="1.0">
               <conditions>
                 <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="true" childId="1d6e-2579-8e7f-1ed4" type="atLeast"/>
               </conditions>
             </modifier>
-            <modifier type="set" field="ce3c-3b3b-f90d-e13" value="0">
+            <modifier type="set" field="ce3c-3b3b-f90d-e13" value="0.0">
               <conditionGroups>
                 <conditionGroup type="and">
                   <conditions>
@@ -4125,7 +4125,7 @@
         </profile>
         <profile id="6a64-5c0f-6b5f-15e2" name="Cult Demagogue" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต ทุกครั้งที่โมเดลในยูนิตนั้นโจมตี คุณสามารถ Re-rol the Hit roll ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="769-3c2c-947e-3320" name="Decoys and Misdirection" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -4137,7 +4137,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If your army includes one or more models with this ability, after both players have deployed their armies, select up to three GENESTEALER CULTS units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากกองทัพของคุณมีโมเดลอย่างน้อยหนึ่งตัว ที่มีความสามารถนี้ หลังจากทั้งสองฝ่าย Deploy กองทัพแล้ว คุณสามารถเลือก ยูนิต Genestealer Cults จากกองทัพของคุณได้สูงสุดสามยูนิต และ Deploy ใหม่อีกครั้ง คุณสามารถเลือกนํายูนิตเหล่านั้นไปไว้ใน Strategic Reserves ได้ ไม่ว่าจะมีกี่ยูนิตใน Strategic Reserves อยู่แล้วก็ตาม</characteristic>
           </characteristics>
         </profile>
       </profiles>
