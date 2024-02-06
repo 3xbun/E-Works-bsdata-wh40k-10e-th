@@ -6800,7 +6800,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="b7b7-8ee8-ef19-eefd" name="High-intensity Markerlights" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit is an Observer unit, until the end of the phase, each time a model in its Guided unit makes an attack that targets their Spotted unit, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้เป็นยูนิต Observer จนจบเฟส ทุกครั้งที่มีโมเดลในยูนิต Guided  ของมันโจมตีใส่ยูนิต Spotted ของพวกเขา คุณสามารถ Re-roll the Hit roll ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
