@@ -3986,17 +3986,18 @@
       <profiles>
         <profile id="2ce2-73a5-1981-bdb2" name="Might From Beyond" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, melee weapons equipped by models in that unit have the [DEVASTATING WOUNDS] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต อาวุธระยะประชิดของโมเดล ในยูนิตนั้นจะมีความสามารถ [DEVASTATING WOUNDS]</characteristic>
           </characteristics>
         </profile>
         <profile id="bef7-52f2-442f-210e" name="Cosmic Horror (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the Fight phase, each enemy unit within 6&quot; of this model must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่มต้น Fight phase ยูนิตศัตรูแต่ละยูนิต ที่อยู่ภายในระยะ 6&quot; ของโมเดลนี้ จะต้องทํา Battle-shock test</characteristic>
           </characteristics>
         </profile>
         <profile id="7174-ac6-70bb-b118" name="Psychic Familiar" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, at the start of the Fight phase, this model can use its psychic familiar. If it does, until the end of the phase, double the range of its Cosmic Horror ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม เมื่อเริ่มต้น Fight phase โมเดลนี้สามารถ ใช้ความสามารถนี้ได้ได้ หากทําเช่นนั้น จนจบเฟส เพิ่มระยะของความสามารถ Cosmic Horror ของโมเดลนี้เป็นสองเท่า
+หมายเหตุ: วางโทเคน Psychic Familiar ไว้ใกล้ๆ กับโมเดล และนํามันออก หลังจากใช้ความสามารถแล้ว</characteristic>
           </characteristics>
         </profile>
         <profile id="6fda-ef18-abe2-1d36" name="Patriarch" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
