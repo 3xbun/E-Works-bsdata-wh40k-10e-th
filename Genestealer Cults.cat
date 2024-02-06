@@ -3017,12 +3017,12 @@
         </profile>
         <profile id="40f3-ad42-a70c-c4db" name="Priority Target" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes an attack with its cult sniper rifle that targets an enemy unit, if it scores a hit, until the end of the phase, each time another GENESTEALER CULTS model from your army makes a ranged attack that targets that enemy unit, re-roll a Hit roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้โจมตีด้วยอาวุธ cult sniper rifle ใส่ยูนิต ศัตรู และทอย Hit roll จนจบเฟส ทุกครั้งที่โมเดล Genestealer Cults ตัวอื่น จากกองทัพของคุณโจมตีระยะไกลใส่ยูนิตศัตรูนั้น คุณสามารถ Re-roll a Hit roll ที่ออก 1 ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="db66-29d9-d077-57d3" name="Master Outrider" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this model’s unit has shot, if it is not within Engagement Range of any enemy units, that unit can make a Normal move of up to 6&quot; as if it were your Movement phase. If it does, until the end of the turn, that unit is not eligible to declare a charge.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting phase ของคุณ หลังจากยูนิตของโมเดลนี้ ยิงแล้ว ถ้ายูนิตนี้ ไม่ได้อยู่ภายใน Engagement Range ของยูนิตศัตรูใดๆ ยูนิต นี้จะสามารถเคลื่อนที่ปกติได้ 6&quot; เหมือนใน Movement phase ของคุณ หาก ทําเช่นนั้น จนจบเทิร์น ยูนิตนี้จะไม่สามารถประกาศชาร์จได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
