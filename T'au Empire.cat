@@ -4257,7 +4257,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="86af-3f86-dca6-faff" name="Airborne Agility" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your Movement phase, if this unit is not within Engagement Range of any enemy units, you can remove it from the battlefield and place it into Strategic Reserves.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อจบ Movement phase ของคุณ หากยูนิตนี้ไม่อยู่ภาย ใน Engagement Range ของยูนิตศัตรูใดๆ คุณสามารถนำยูนิตนี้ออกจากสนาม รบและวางไว้ใน Strategic Reserves</characteristic>
           </characteristics>
         </profile>
       </profiles>
