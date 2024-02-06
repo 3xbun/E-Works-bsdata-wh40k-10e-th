@@ -1613,12 +1613,12 @@
         </profile>
         <profile id="9552-ae5b-6be2-775d" name="Vortex Terrors (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of your Shooting phase, select one enemy unit within 12&quot; of this model. That enemy unit must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่มต้น Shooting phase ของคุณ เลือกหนึ่ง ยูนิตศัตรูที่อยู่ภายใน 12&quot;ของโมเดลนี้ ยูนิตศัตรูนั้นต้องทํา Battle-shock test</characteristic>
           </characteristics>
         </profile>
         <profile id="cac0-b733-e4cf-d88e" name="Warp Storms (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your Movement phase, roll one D6 for each enemy unit within 9&quot; of this model: on a 3+, that enemy unit suffers D3 mortal wounds.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อจบ Movement phase ของคุณ ทอยหนึ่ง D6 สําหรับแต่ละยูนิตศัตรูที่อยู่ภายใน 9&quot;ของโมเดลนี้: ที่ 3+ ยูนิตศัตรูนั้นจะได้รับ ความเสียหาย D3 Wound</characteristic>
           </characteristics>
         </profile>
       </profiles>
