@@ -3111,12 +3111,12 @@
       <profiles>
         <profile id="f872-566b-d324-828f" name="Cometh the Hour, Cometh the Hero" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">When this model is set up using the Deep Strike ability, if it is set up within 3&quot; horizontally of a friendly GENESTEALER CULTS BATTLELINE unit, it can be set up anywhere on the battlefield that is more than 3&quot; horizontally from all enemy models, but if it is set up within 9&quot; horizontally of an enemy unit it is not eligible to declare a charge this turn</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อนําโมเดลนี้ใช้ความสามารถ Deep Strike หากโมเดลนี้เข้ามาในสนามรบภายในระยะ 3&quot;ในแนวนอนจากยูนิต Genestealer Cults Battleline ที่เป็นมิตร คุณสามารถนําโมเดลนี้เข้ามาในสนาม รบในตําแหน่งใดๆ ให้ห่างจากโมเดลศัตรูทุกตัว 3&quot;ในแนวนอน อย่างไรก็ตาม หากโมเดลนี้เข้ามาในสนามรบภายในระยะ 9&quot;จากยูนิตศัตรู มันจะไม่สามารถ ประกาศชาร์จได้ในเทิร์นนั้น</characteristic>
           </characteristics>
         </profile>
         <profile id="38a1-4506-e19e-bdf7" name="Gunslinger" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time an enemy unit targets a friendly GENESTEALER CULTS BATTLELINE unit within 3&quot; of this model with ranged attacks, after that enemy unit has finished making its attacks, this model can shoot as if it were your Shooting phase.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตศัตรูโจมตีระยะไกลใส่ยูนิต Genestealer Cults Battleline ที่เป็นมิตรที่อยู่ภายในระยะ 3&quot;จากโมเดลนี้ หลังจากยูนิตศัตรูนั้น โจมตีเสร็จสิ้น โมเดลนี้สามารถยิงได้ เหมือนใน Shooting phase ของคุณ</characteristic>
           </characteristics>
         </profile>
         <profile id="9a93-51fd-a789-b0c" name="Kelermorph" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
