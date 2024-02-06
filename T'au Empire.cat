@@ -297,7 +297,7 @@
       <profiles>
         <profile id="7c13-8707-b827-3d35" name="Guardian Drone" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model makes a ranged attack that targets the bearer’s unit, subtract 1 from the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่มีโมเดลทำการโจมตีระยะไกลใส่ยูนิตของผู้สวมใส่ ลบ 1 จาก the Wound roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -332,7 +332,7 @@
       <profiles>
         <profile id="2026-4469-a453-d24e" name="Marker Drone" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer’s unit has the MARKERLIGHT keyword and can act as an Observer unit for another unit even if it Advanced this turn.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตของผู้สวมใส่จะมีคีย์เวิร์ด Markerlight และสามารถ ทำหน้าที่เป็นยูนิต Observer สำหรับยูนิตอื่นได้ แม้ว่าจะ เคลื่อนที่แบบ Advanced ในเทิร์นนี้ก็ตาม</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -373,7 +373,7 @@
       <profiles>
         <profile id="274d-797e-a00f-62" name="Shield Drone" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Add 1 to the bearer’s Wounds characteristic.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เพิ่ม 1 ให้กับค่า Wound ของผู้สวมใส่</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -996,7 +996,7 @@
       <profiles>
         <profile id="82af-7e9a-2d1a-5637" name="Shield Generator" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has a 4+ invulnerable save.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผู้สวมใส่จะมี invulnerable save 4+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2804,7 +2804,7 @@
         </profile>
         <profile id="48d4-b938-de65-cd2" name="Turbo-jets" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6&quot; to the Move characteristic of models in this unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้ Advance จนถึงสิ้นสุดเฟส ให้เพิ่ม 6 นิ้วให้กับค่า Move ของโมเดลในยูนิตนี้ แทนการทอย Advance</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3056,7 +3056,7 @@
         </profile>
         <profile id="c5b0-2214-2987-d0de" name="Forward Observers" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit is an Observer unit, until the end of the phase, each time a ranged attack is made by a model in their Guided unit that targets their Spotted unit, re-roll a Wound roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้เป็นยูนิต Observer จนจบเฟส ทุกครั้ง ที่โมเดลในยูนิต Guided ของพวกเขาทำการโจมตีระยะไกลใส่ยูนิต Spotted ของ พวกเขา คุณสามารถ Re-roll a Wound roll ที่ออก 1 ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3291,9 +3291,9 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="ff15-6f06-1824-ea0b" name="Stealth Drones" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Twice per battle, after an attack has been allocated to this model, you can change the Damage characteristic of that attack to 0.
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">สองครั้งต่อเกม หลังจากที่การโจมตีสร้างความเสียหายให้ กับโมเดลนี้ คุณสามารถเปลี่ยนค่า Damage ของการโจมตีนั้นให้เป็น 0 ได้
 
-Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one each time this ability has been used.</characteristic>
+หมายเหตุ: วาง Stealth Drone token สองอันใกล้ๆ กับยูนิตนี้และนำมันออก เมื่อใช้ความสามารถนี้ไปแล้ว</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3527,7 +3527,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="4050-a088-38c5-ab2a" name="Precise Targeting" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is a Guided unit, each time it makes an attack that targets its Spotted unit, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดลนี้เป็นยูนิต Guided ทุกครั้งที่โมเดลนี้ทำการ โจมตีใส่ยูนิต Spotted คุณสามารถ Re-roll the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3602,7 +3602,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
           </constraints>
         </entryLink>
         <entryLink id="2330-c0-86bb-d406" name="Warlord" hidden="false" collective="false" import="true" targetId="179c-d88a-d49b-48b9" type="selectionEntry"/>
-        <entryLink id="fc57-5f59-6b04-e77a" name="Enhancements - Kauyon" hidden="false" collective="false" import="true" targetId="fae2-569a-6bec-9167" type="selectionEntryGroup"/>
+        <entryLink id="fc57-5f59-6b04-e77a" name="Enhancements" hidden="false" collective="false" import="true" targetId="fae2-569a-6bec-9167" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="70.0"/>
@@ -3625,7 +3625,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="85b7-6da7-e356-82e5" name="Target Uploaded" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per turn, when using the Greater Good ability, you can select this unit to be an Observer unit for a second time. When doing so, you can change which enemy unit is this unit’s Spotted unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเทิร์น เมื่อใช้ความสามารถ Greater Good คุณสามารถเลือกยูนิตนี้ให้เป็นยูนิต Observer ได้อีกครั้งหนึ่ง เมื่อทำเช่นนี้ คุณสามารถเปลี่ยนยูนิตศัตรูที่เป็นยูนิต Spotted ของยูนิตนี้ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4134,7 +4134,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="9957-13e2-50a0-163c" name="Piranha" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your Movement phase, select one enemy unit within 12&quot; of this unit; that enemy unit must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อจบ Movement phase ของคุณ เลือกยูนิตศัตรูหนึ่งยูนิต ภายในระยะ 12 ของยูนิตนี้ ยูนิตศัตรูนัั้นจะต้องทำ Battle-shock test</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4280,7 +4280,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="86af-3f86-dca6-faff" name="Airborne Agility" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your Movement phase, if this unit is not within Engagement Range of any enemy units, you can remove it from the battlefield and place it into Strategic Reserves.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อจบ Movement phase ของคุณ หากยูนิตนี้ไม่อยู่ภาย ใน Engagement Range ของยูนิตศัตรูใดๆ คุณสามารถนำยูนิตนี้ออกจากสนาม รบและวางไว้ใน Strategic Reserves</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4410,7 +4410,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="fb24-c625-8e6a-eeb0" name="Hunting Pack" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While one or more friendly KROOT CARNIVORE units within 6&quot; of this unit are within Engagement Range of one or more enemy units, each time a model in this unit makes a melee attack, add 1 to the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากมียูนิต Kroot Carnivore ที่เป็นมิตรหนึ่งยูนิตหรือมาก กว่าภายในระยะ 6 นิ้วของยูนิตนี้ที่อยู่ภายใน Engagement Range ของยูนิตศัตรู หนึ่งยูนิตหรือมากกว่า ทุกครั้งที่โมเดลในยูนิตนี้ทำการโจมตีระยะประชิด เพิ่ม 1 the Wound roll.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4471,7 +4471,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
           <profiles>
             <profile id="45a8-1aaa-cff6-938b" name="Advanced Armour" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Models in this unit have the Feel No Pain 4+ ability against mortal wounds.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้จะมีความสามารถ Feel No Pain 4+ ต่อความ เสียหายแบบ Mortal wound</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -4671,7 +4671,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
           <profiles>
             <profile id="8fb6-aff7-75ac-f206" name="Nova Charge" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, in your Shooting phase, select one ranged weapon equipped by this model. Until the end of the phase, that weapon has the [DEVASTATING WOUNDS] ability.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม ใน Shooting phase เลือกหนึ่งอาวุธระยะไกล ของโมเดลนี้ จนจบเฟส อาวุธนั้นจะมีความสามารถ [DEVASTATING WOUNDS]</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -4687,7 +4687,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
           </modifiers>
         </infoLink>
         <infoLink id="c9eb-2532-fd04-e1b0" name="Damaged: 1-4 Wounds Remaining" hidden="false" targetId="2220-2459-9f07-490e" type="profile"/>
-        <infoLink id="6292-f471-c9b1-2aee" name="Invulnerable Save" hidden="false" targetId="5b77-29f8-7b77-75e3" type="profile"/>
+        <infoLink id="6292-f471-c9b1-2aee" name="Invulnerable Save (4+)" hidden="false" targetId="5b77-29f8-7b77-75e3" type="profile"/>
         <infoLink id="8560-6343-52a8-de4" name="Battlesuit Support System" hidden="false" targetId="b5b2-f430-5dc1-106b" type="profile"/>
         <infoLink id="6387-82ef-9ccc-b208" name="Weapon Support System" hidden="false" targetId="3d6e-7d4-ba81-9a8f" type="profile"/>
         <infoLink id="884-bd55-8355-90b3" name="For The Greater Good" hidden="false" targetId="eeb6-c42-48f7-cc21" type="rule"/>
@@ -4828,7 +4828,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="9e7-373-d0d6-af25" name="Armour Hunter" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes an attack that targets a MONSTER or VEHICLE, add 1 to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทำการโจมตีใส่ Monster หรือ Vehicle เพิ่ม 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4925,7 +4925,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="89bb-91cf-2e76-ae69" name="Aerial Scanners" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes an attack with a ranged weapon that targets a unit that can FLY, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทำการโจมตีด้วยอาวุธระยะไกลใส่ยูนิตที่มี คีย์เวิร์ด Fly คุณสามารถ Re-roll the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5019,12 +5019,12 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="6109-8d9d-d74-423f" name="Rapid Deployment" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Units can disembark from this TRANSPORT after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตสามารถ Disembark จาก Transport นี้ได้ในเทิร์น ที่มันทำการ Advance ยูนิตต่างๆ ที่ทำเช่นนี้จะถือว่าได้เคลื่อนที่ปกติในเฟสนี้ และ ไม่สามารถประกาศชาร์จได้เทิร์นเดียวกัน แต่สามารถทำอย่างอื่นที่เหลือได้ตามปกติ</characteristic>
           </characteristics>
         </profile>
         <profile id="cdb4-e0e7-adc0-bb3b" name="Devilfish" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 12 T’AU EMPIRE INFANTRY models. It cannot transport BATTLESUIT, KROOT or VESPID STINGWINGS models.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกโมเดล T’au Empire Infantry จำนวน 12 ตัว และไม่สามารถบรรทุกโมเดล Battlesuit, Kroot หรือ Vespid Stingwings</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5167,7 +5167,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="1ee8-8fac-5c19-3b78" name="Ground Strike Fighter" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a ranged attack that targets an enemy unit that cannot FLY, add 1 to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้ทำการโจมตีใส่ยูนิตที่ไม่มีคีย์เวิร์ด Fly เพิ่ม 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5273,7 +5273,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="1a89-4e93-ec68-d5b6" name="Pulse Bombs" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 3+, that unit suffers 1 mortal wound.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้สิ้นสุดการเคลื่อนที่ปกติ  คุณสามารถเลือกยูนิตศัตรูหนึ่งยูนิตที่โมเดลนี้เคลื่อนที่ผ่านระหว่างการเคลื่อนที่นั้น และทอยหก D6: สำหรับแต่ละลูกที่ 3+ ยูนิตนั้นจะได้รับความเสียหาย 1 Mortal wound</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5408,7 +5408,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="ca95-3b9e-2fbb-1bac" name="Tidewall Shieldline" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 11 T’AU EMPIRE INFANTRY models. It cannot transport BATTLESUIT, KROOT or VESPID STINGWINGS models. If this model is equipped with a Tidewall defence platform, it has a transport capacity of 22 T’AU INFANTRY models instead.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกโมเดล T’au Empire Infantry จำนวน 11 ตัวและไม่สาม- ารถบรรทุกโมเดล Battlesuit, Kroot หรือ Vespid Stingwings หากโมเดลนี้ ติดตั้ง Tidewall defence platform มันจะสามารถบรรทุกโมเดล T’au Empire Infantry จำนวน 22 ตัวแทน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5424,7 +5424,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
             <modifier type="append" field="name" value="20"/>
           </modifiers>
         </infoLink>
-        <infoLink id="7a39-b569-49be-c6a9" name="Invulnerable Save" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
+        <infoLink id="7a39-b569-49be-c6a9" name="Invulnerable Save (5+)" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
         <infoLink id="cb70-84fb-7cef-c4be" name="Tidewall Cover" hidden="false" targetId="2050-72df-fd02-7085" type="profile"/>
       </infoLinks>
       <categoryLinks>
@@ -5477,12 +5477,12 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="81a0-c679-23bd-77e3" name="Droneport" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this FORTIFICATION is selected to shoot, its drone defenders weapon will target and resolve attacks against every enemy unit that is an eligible target to this FORTIFICATION.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ Fortification นี้ถูกเลือกให้ยิง drone defenders wea- pon ของมันจะโจมตีใส่เป้าหมายเมื่อโจมตีใส่ยูนิตศัตรูทุกยูนิตที่เป็นเป้าหมายที่เข้า เงื่อนไขของ Fortification นี้</characteristic>
           </characteristics>
         </profile>
         <profile id="a334-a990-143d-fe61" name="Tidewall Droneport" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 11 T’AU EMPIRE INFANTRY models. It cannot transport BATTLESUIT, KROOT or VESPID STINGWINGS models.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกโมเดล T’au Empire Infantry จำนวน 11 ตัว และไม่สามารถบรรทุกโมเดล Battlesuit, Kroot หรือ Vespid Stingwings</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5557,7 +5557,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="4cc0-bf88-84f5-c52b" name="Tidewall Gunrig" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 11 T’AU EMPIRE INFANTRY models. It cannot transport BATTLESUIT, KROOT or VESPID STINGWINGS models.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกโมเดล T’au Empire Infantry จำนวน 11 ตัว และไม่สามารถบรรทุกโมเดล Battlesuit, Kroot หรือ Vespid Stingwings</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5633,22 +5633,22 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         <profile id="9b21-f9e4-2fe9-7895" name="Damaged: 1-5 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <comment>Stormsurge</comment>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-5 wounds remaining, subtract 3 from this models Objective Control characteristic, and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-5 Wound ลบ 3 จากค่า Objective Control และทุกครั้งที่ โมเดลนี้โจมตี ลบ 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="d152-5323-f05c-bd84" name="Heavy Walker" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4&quot; or less in height as if they were not there.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้เคลื่อนที่ปกติ Advance หรือ Fall back มัน สามารถเคลื่อนที่ผ่านโมเดลอื่นได้(ยกเว้นโมเดล Titanic)และ Terrrain ที่มีความ สูงไม่เกิน 4 นิ้วราวกับว่ามันไม่อยู่จริง</characteristic>
           </characteristics>
         </profile>
         <profile id="d61e-c391-27c4-cec9" name="Support System" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a ranged attack, you can ignore any or all modifiers to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ผู้สวมใส่ทำการโจมตีระยะไกลคุณสามารถเพิกเฉย ต่อตัวปรับแต่งใดๆ หรือทั้งหมดต่อการทอย Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="f200-bc51-2065-ca29" name="Titan-killer" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a ranged attack that targets a TITANIC or TOWERING unit, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้โจมตีระยะไกลใส่ยูนิต Titanic หรือ Towering คุณสามารถ Re-roll the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5658,7 +5658,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
             <modifier type="append" field="name" value="D6+2"/>
           </modifiers>
         </infoLink>
-        <infoLink id="75d1-7e80-d917-e9b2" name="Invulnerable Save" hidden="false" targetId="5b77-29f8-7b77-75e3" type="profile"/>
+        <infoLink id="75d1-7e80-d917-e9b2" name="Invulnerable Save (4+)" hidden="false" targetId="5b77-29f8-7b77-75e3" type="profile"/>
         <infoLink id="7eee-506c-d91d-e648" name="For The Greater Good" hidden="false" targetId="eeb6-c42-48f7-cc21" type="rule"/>
       </infoLinks>
       <categoryLinks>
@@ -6015,7 +6015,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
           <profiles>
             <profile id="7899-d388-f303-592" name="Bounty Hunters" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the battle, select one unit from your opponent’s army. Each time a model in this unit makes an attack that targets that unit, that attack has the [LETHAL HITS] and [PRECISION] abilities.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่มเกม เลือกหนึ่งยูนิตศัตรูของฝ่ายตรงข้าม ทุกครั้งที่ โมเดลในยูนิตนี้โจมตตีใส่ยูนิตตศัตรูที่เลือก การโจมตีนั้นจะมีความสามารถ [LETHAL HITS] และ [PRECISION]</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -6540,12 +6540,12 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="3723-a2c0-a8e7-3f96" name="Nova Shielding" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, when this model is selected as the target of a ranged attack, it can use this ability. If it does, until the end of the phase, each time an attack targets this model, if the Strength characteristic of that attack is greater than the Toughness characteristic of this model, subtract 1 from the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม เมื่อโมเดลนี้ถูกเลือกเป็นเป้าหมายของการโจมตีระยะไกล มันสามารถใช้ความสามารถนี้ได้ หากทำเช่นนั้น จนจบเฟส ทุกครั้งที่มีการโจมตีใส่โมเดลนี้ หากค่า Strength ของการโจมตีนั้น มากกว่า ค่า Toughness ของโมเดลนี้ ให้ลบ 1 จาก Wound roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
       <infoLinks>
-        <infoLink id="66c1-9cb8-72a7-ff4a" name="Invulnerable Save" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
+        <infoLink id="66c1-9cb8-72a7-ff4a" name="Invulnerable Save (5+)" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
         <infoLink id="5794-1edb-6249-e015" name="Deadly Demise" hidden="false" targetId="b68a-5ded-65ac-98c" type="rule">
           <modifiers>
             <modifier type="append" field="name" value="D6"/>
@@ -6823,7 +6823,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="b7b7-8ee8-ef19-eefd" name="High-intensity Markerlights" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit is an Observer unit, until the end of the phase, each time a model in its Guided unit makes an attack that targets their Spotted unit, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้เป็นยูนิต Observer จนจบเฟส ทุกครั้งที่มีโมเดลในยูนิต Guided  ของมันโจมตีใส่ยูนิต Spotted ของพวกเขา คุณสามารถ Re-roll the Hit roll ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -6915,7 +6915,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="49d-e53f-d6d7-83cd" name="Aerial Disengagement" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9&quot; of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6&quot;.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเทิร์น เมื่อยูนิตศัตรูจบการเคลื่อนที่ปกติ , Advance หรือ Fall Back ภายในระยะ 9 นิ้วจากยูนิตนี้ และหากยูนิตนี้ไม่ได้อยู่ใน Engagement Range ของยูนิตศัตรูใดๆ ยูนิตนี้สามารถเคลื่อนที่ปกติได้สูงสุด 6 นิ้ว</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -7037,7 +7037,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="d6ef-b13d-f91a-ad20" name="Coordinated Strike" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is a Guided unit, each time it makes an attack that targets its Spotted unit, re-roll a Hit roll of 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นยูนิต Guided ทุกครั้งที่มันโจมตียูนิต Spotted ของมัน คุณสามารถ Re-roll a Hit roll ที่ออก  1 ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="63c6-ed19-c7e5-638" name="Damaged: 1-10 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -7347,7 +7347,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="492b-cd7c-f5e5-4d76" name="Agile Dogfighter" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time an attack targets this model, subtract 1 from the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่มีการโจมตีใส่โมเดลนี้ ให้ลบ 1 จาก the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -7565,7 +7565,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="5a71-e391-7d55-904f" name="Strafing Run" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks that cannot FLY. That enemy unit must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting phase ของคุณ หลังจากโมเดลนี้ยิงเสร็จ เลือกยูนิตศัตรูหนึ่งยูนิตที่โดนโจมตีด้วยการโจมตีใดๆ ของโมเดลนี้ที่ไม่ใช่ยูนิต Fly ยูนิตศัตรูที่เลือกนั้นจะต้องทำ Battle-shock test</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -7801,7 +7801,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
           <profiles>
             <profile id="b584-c327-fdf5-2b8b" name="Titan Hunter" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model’s twin heavy rail cannon and seeker missiles have the [ANTI-TITANIC 3+] ability while targeting a unit within half range.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Twin heavy rail cannon และ seeker missiles ของโมเดลนี้ มีความสามารถ [ANTI-TITANIC 3+] เมื่อโจมตีเป้าหมายภายในระยะครึ่งหนึ่ง</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -7816,7 +7816,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
             <modifier type="append" field="name" value="D6+2"/>
           </modifiers>
         </infoLink>
-        <infoLink id="1f6f-b984-eff-4fdf" name="Invulnerable Save" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
+        <infoLink id="1f6f-b984-eff-4fdf" name="Invulnerable Save (5+)" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
         <infoLink id="d97a-32c0-dacf-45f" name="For The Greater Good" hidden="false" targetId="eeb6-c42-48f7-cc21" type="rule"/>
         <infoLink id="ceb6-7b48-9364-7703" name="Damaged: 1-6 Wounds Remaining" hidden="false" targetId="3a1d-540f-ebbf-700e" type="profile"/>
       </infoLinks>
@@ -7984,12 +7984,14 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="5188-f8f-edfa-1f82" name="Aggressive Deployment" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this TRANSPORT this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting phase ของคุณ หลังจากโมเดลนี้ยิงเสร็จ เลือกยูนิตศัตรูหนึ่งยูนิตที่ถูกโจมตีด้วยการโจมตีใดๆ ของโมเดลนี้ จนจบเฟส ทุกครั้งที่โมเดลที่เป็นมิตร ที่ลงจาก TRANSPORT นี้ในเทิร์นนี้ โจมตีใส่ยูนิตศัตรูที่เลือกไว้ คุณสามารถ Re-roll the Wound roll ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="3caf-102c-1f3c-d49" name="Air Caste Colossus" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time you target this model with a Stratagem, you must spend three times that Stratagem’s stated CP cost to do so.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่คุณใช้ Stratagem กับโมเดลนี้ คุณต้องจ่าย CP เป็นสามเท่าของค่า CP ตามปกติของ Stratagem นั้น
+
+</characteristic>
           </characteristics>
         </profile>
         <profile id="22fb-6e85-141e-589c" name="Damaged: 1-20 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -7999,15 +8001,16 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="6105-d7ca-156e-2032" name="Manta" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of all of the following:
-- 200 T’AU EMPIRE INFANTRY or TACTICAL DRONE models
-- 4 DEVILFISH, SKY RAY GUNSHIP or HAMMERHEAD models
-- 8 BATTLESUIT models with a Wounds characteristic of 9 or less</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถขนส่งหน่วยทหารได้ดังนี้:
+- โมเดล T’AU EMPIRE INFANTRY หรือ TACTICAL DRONE จำนวน 200 ตัว
+- โมเดล  DEVILFISH, SKY RAY GUNSHIP หรือ HAMMERHEAD จำนวน 4 ตัว
+- โมเดล  8 BATTLESUIT ที่มีค่า Wound เท่ากับ 9 หรือน้อยกว่า จำนวน 9 ตัว
+</characteristic>
           </characteristics>
         </profile>
       </profiles>
       <infoLinks>
-        <infoLink id="2c77-7cdb-529e-56d" name="Invulnerable Save" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
+        <infoLink id="2c77-7cdb-529e-56d" name="Invulnerable Save (5+)" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
         <infoLink id="6681-d78a-5d9c-e4aa" name="Deadly Demise" hidden="false" targetId="b68a-5ded-65ac-98c" type="rule">
           <modifiers>
             <modifier type="append" field="name" value="3D6"/>
@@ -8182,12 +8185,12 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
         </profile>
         <profile id="46c2-c2bc-f0bf-8229" name="Jet Pack Insertion" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your opponent’s Movement phase, one or more units embarked within this TRANSPORT can disembark from it, provided every model in each of those disembarking units has the Deep Strike ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อจบ Movement phase ของฝ่ายตรงข้าม หนึ่งยูนิตหรือมากกว่าที่อยู่ภายใน TRANSPORT นี้ สามารถลงจากยานได้ โดยทุกโมเดลในยูนิตที่จะลงจากยานนั้น จะต้องมีความสามารถ Deep Strike</characteristic>
           </characteristics>
         </profile>
         <profile id="47ad-d3d0-b44e-2b05" name="Damaged: 1-9 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-9 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-9 Wound ทุกครั้งที่โมเดลนี้ทำการโจมตี ลบ 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="22be-5b30-a8dd-f03" name="Orca Dropship [Legends]" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
@@ -9962,7 +9965,8 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
     <profile id="3d6e-7d4-ba81-9a8f" name="Weapon Support System" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <comment>Shared</comment>
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time the bearer makes a ranged attack, you can ignore any or all modifiers to the Hit roll.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ผู้สวมใส่ทำการโจมตีระยะไกล
+คุณสามารถเพิกเฉยต่อตัวปรับแต่งใดๆ หรือทั้งหมดต่อการทอย Hit roll</characteristic>
       </characteristics>
     </profile>
     <profile id="b5b2-f430-5dc1-106b" name="Battlesuit Support System" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -9979,7 +9983,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
     </profile>
     <profile id="2050-72df-fd02-7085" name="Tidewall Cover" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
-        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack.</characteristic>
+        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่มีการยิงใส่โมเดล หากไม่สามารถมองเห็น โมเดลทุกตัวได้ทั้งหมดจากยูนิตที่โจมตีมาเนื่องจากโมเดลอยู่ใน Fortification นี้ โมเดลที่ถูกโจมตีจะได้รับ Benefit of Cover จากการโจมตีครั้งนั้น</characteristic>
       </characteristics>
     </profile>
     <profile id="3a1d-540f-ebbf-700e" name="Damaged: 1-6 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
