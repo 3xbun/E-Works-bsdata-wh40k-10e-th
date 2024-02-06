@@ -7961,12 +7961,14 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="5188-f8f-edfa-1f82" name="Aggressive Deployment" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly model that disembarked from this TRANSPORT this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting phase ของคุณ หลังจากโมเดลนี้ยิงเสร็จ เลือกยูนิตศัตรูหนึ่งยูนิตที่ถูกโจมตีด้วยการโจมตีใดๆ ของโมเดลนี้ จนจบเฟส ทุกครั้งที่โมเดลที่เป็นมิตร ที่ลงจาก TRANSPORT นี้ในเทิร์นนี้ โจมตีใส่ยูนิตศัตรูที่เลือกไว้ คุณสามารถ Re-roll the Wound roll ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="3caf-102c-1f3c-d49" name="Air Caste Colossus" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time you target this model with a Stratagem, you must spend three times that Stratagem’s stated CP cost to do so.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่คุณใช้ Stratagem กับโมเดลนี้ คุณต้องจ่าย CP เป็นสามเท่าของค่า CP ตามปกติของ Stratagem นั้น
+
+</characteristic>
           </characteristics>
         </profile>
         <profile id="22fb-6e85-141e-589c" name="Damaged: 1-20 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -7976,15 +7978,16 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         </profile>
         <profile id="6105-d7ca-156e-2032" name="Manta" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of all of the following:
-- 200 T’AU EMPIRE INFANTRY or TACTICAL DRONE models
-- 4 DEVILFISH, SKY RAY GUNSHIP or HAMMERHEAD models
-- 8 BATTLESUIT models with a Wounds characteristic of 9 or less</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถขนส่งหน่วยทหารได้ดังนี้:
+- โมเดล T’AU EMPIRE INFANTRY หรือ TACTICAL DRONE จำนวน 200 ตัว
+- โมเดล  DEVILFISH, SKY RAY GUNSHIP หรือ HAMMERHEAD จำนวน 4 ตัว
+- โมเดล  8 BATTLESUIT ที่มีค่า Wound เท่ากับ 9 หรือน้อยกว่า จำนวน 9 ตัว
+</characteristic>
           </characteristics>
         </profile>
       </profiles>
       <infoLinks>
-        <infoLink id="2c77-7cdb-529e-56d" name="Invulnerable Save" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
+        <infoLink id="2c77-7cdb-529e-56d" name="Invulnerable Save (5+)" hidden="false" targetId="27f4-7449-a636-ae8c" type="profile"/>
         <infoLink id="6681-d78a-5d9c-e4aa" name="Deadly Demise" hidden="false" targetId="b68a-5ded-65ac-98c" type="rule">
           <modifiers>
             <modifier type="append" field="name" value="3D6"/>
