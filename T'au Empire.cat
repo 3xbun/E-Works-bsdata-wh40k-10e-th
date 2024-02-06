@@ -5610,22 +5610,22 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
         <profile id="9b21-f9e4-2fe9-7895" name="Damaged: 1-5 Wounds Remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <comment>Stormsurge</comment>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-5 wounds remaining, subtract 3 from this models Objective Control characteristic, and each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-5 Wound ลบ 3 จากค่า Objective Control และทุกครั้งที่ โมเดลนี้โจมตี ลบ 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="d152-5323-f05c-bd84" name="Heavy Walker" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding TITANIC models) and terrain features that are 4&quot; or less in height as if they were not there.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้เคลื่อนที่ปกติ Advance หรือ Fall back มัน สามารถเคลื่อนที่ผ่านโมเดลอื่นได้(ยกเว้นโมเดล Titanic)และ Terrrain ที่มีความ สูงไม่เกิน 4 นิ้วราวกับว่ามันไม่อยู่จริง</characteristic>
           </characteristics>
         </profile>
         <profile id="d61e-c391-27c4-cec9" name="Support System" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a ranged attack, you can ignore any or all modifiers to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ผู้สวมใส่ทำการโจมตีระยะไกลคุณสามารถเพิกเฉย ต่อตัวปรับแต่งใดๆ หรือทั้งหมดต่อการทอย Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="f200-bc51-2065-ca29" name="Titan-killer" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model makes a ranged attack that targets a TITANIC or TOWERING unit, you can re-roll the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้โจมตีระยะไกลใส่ยูนิต Titanic หรือ Towering คุณสามารถ Re-roll the Hit roll</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5635,7 +5635,7 @@ Designer’s Note: Place a Homing Beacon token next to this unit, removing it on
             <modifier type="append" field="name" value="D6+2"/>
           </modifiers>
         </infoLink>
-        <infoLink id="75d1-7e80-d917-e9b2" name="Invulnerable Save" hidden="false" targetId="5b77-29f8-7b77-75e3" type="profile"/>
+        <infoLink id="75d1-7e80-d917-e9b2" name="Invulnerable Save (4+)" hidden="false" targetId="5b77-29f8-7b77-75e3" type="profile"/>
         <infoLink id="7eee-506c-d91d-e648" name="For The Greater Good" hidden="false" targetId="eeb6-c42-48f7-cc21" type="rule"/>
       </infoLinks>
       <categoryLinks>
