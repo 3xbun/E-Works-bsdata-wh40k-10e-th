@@ -1739,7 +1739,7 @@
       <profiles>
         <profile id="429b-8985-6cfb-8970" name="Vile Insurrectionists:" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target of that attack is an enemy unit within range of an objective marker, re-roll a Wound roll of 1 as well.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้โจมตี คุณสามารถ Re-roll  a Hit roll ที่ออก 1 ได้ หากเป้าหมายของการโจมตีนั้นอยู่ภายในระยะของ Objective Marker คุณสามารถ Re-roll a Wound roll ที่ออก 1 ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -4893,7 +4893,7 @@ You can attach this model to a GENESTEALER CULTS BATTLELINE unit, even if a PRIM
       <profiles>
         <profile id="22c6-be05-5fd4-ebc8" name="Cult Icon" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In the Reinforcements step of your Movement phase, you can return up to D3 destroyed models to the bearer’s unit. If the bearer’s unit is within range of an objective marker you control, you can return up to 3 destroyed models to that unit instead. This ability cannot be used to return destroyed CHARACTER models in Attached units.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วง Reinforcements ของ Movement phase ของคุณ คุณ สามารถคืนชีพโมเดลในยูนิตของผู้สวมใส่ที่ถูกทําลายไปแล้วได้สูงสุด D3 ตัว หากยูนิตของผู้สวมใส่อยู่ภายในระยะของ Objective Marker ที่คุณควบคุม คุณสามารถคืนชีพโมเดลที่ถูกทําลายได้สูงสุด 3 ตัวแทน ความสามารถนี้ไม่สามารถคืนชีพ  โมเดล Character ในยูนิตที่อยู่ในยูนิต Attached ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
