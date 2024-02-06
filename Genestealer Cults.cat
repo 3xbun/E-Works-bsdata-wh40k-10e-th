@@ -3206,7 +3206,7 @@
         </profile>
         <profile id="2636-f3df-1f73-f2d0" name="Sudden Assault" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit have the Fights First ability</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต โมเดลในยูนิตนั้นจะมีความ สามารถ Fights First</characteristic>
           </characteristics>
         </profile>
         <profile id="afa4-c009-a8fa-5484" name="Bodyguard" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -3218,7 +3218,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, other Character models attached to that unit have the Feel No Pain 4+ ability</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต โมเดล Character อื่นๆ ที่อยู่ในยูนิตนั้น จะมีความสามารถ Feel No Pain 4+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3231,7 +3231,7 @@
 - ACOLYTE HYBRIDS
 - HYBRID METAMORPHS
 - NEOPHYTE METAMORPHS
-You can attach this model to a GENESTEALER CULTS BATTLELINE unit, even if a PRIMUS, MAGUS, or ACOLYTE ICONWARD model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
+คุณสามารถใส่โมเดลนี้ในยูนิต Genestealer Cults Battleline ได้ แม้ว่าจะมี โมเดล Primus, Magus หริอ Acolyte Iconward อยู่กับยูนิตนั้นแล้วก็ตาม หากทําเช่นนั้น และยูนิตบอกี้การ์ดนั้นถูกทําลาย ยูนิตผู้นําที่อยู่ในยูนิตนั้นจะ กลายเป็นยูนิตแยกต่างหาก โดยมี Starting Strengths เริ่มต้นตามปกติ</characteristic>
               </characteristics>
             </profile>
           </profiles>
