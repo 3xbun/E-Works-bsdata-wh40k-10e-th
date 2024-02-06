@@ -42,22 +42,22 @@
         </profile>
         <profile id="17f1-675b-5c2b-d950" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี invulnerable save 4+ </characteristic>
           </characteristics>
         </profile>
         <profile id="e78f-da76-e79d-304a" name="Strategic Knowledge" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, that unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต ยูนิตนั้นสามารถยิง และประกาศชาร์จในเทิร์นที่มัน Advanced หริอ Fell Back</characteristic>
           </characteristics>
         </profile>
         <profile id="d4de-4cfa-ee54-d422" name="Watch Master" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, after your opponent uses a Stratagem, if this model is your Warlord and is on the battlefield, it can use this ability. If it does, until the end of the battle, increase the cost of that Stratagem to your opponent by 1CP.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม หลังจากที่ฝ่ายตรงข้ามใช้ Stratagem หาก โมเดลนี้เป็น Warlord ของคุณและอยู่บนสนามรบ มันสามารถใช้ความสามารถนี้ได้ หากทําเช่นนั้น จนจบเกม เพิ่มค่า CP ของ Stratagem นั้นให้กับฝ่ายตรงข้าม 1CP</characteristic>
           </characteristics>
         </profile>
         <profile id="6240-ce76-8480-ccfe" name="Leader" publicationId="4115-3627-e608-39f6" page="8" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้:
 ■ Deathwatch Veterans
 ■ Proteus Kill Team</characteristic>
           </characteristics>
@@ -137,13 +137,12 @@
       <profiles>
         <profile id="9ddf-5d21-3000-5854" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี invulnerable save 4+ </characteristic>
           </characteristics>
         </profile>
         <profile id="c481-d4ab-58f1-858d" name="Tactical Instinct" publicationId="4115-3627-e608-39f6" page="9" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, you can target that unit with a Stratagem even if that Stratagem has already been used on another unit from your army this phase.
-In addition, that unit can be targeted with a Stratagem even while it is Battle-shocked.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต คุณสามารถใช้ Stratagem กับ ยูนิตนั้นได้แม้ว่า Stratagem นั้นจะถูกใช้กับยูนิตอื่นจากกองทัพของคุณในเฟสนี้ แล้วก็ตาม นอกจากนี้ ยูนิตนั้นสามารถใช้ Stratagem ได้แม้ว่าจะติดสถานะ Battle-shock ก็ตาม</characteristic>
           </characteristics>
         </profile>
         <profile id="9704-dfd4-a221-49c1" name="Watch Captain Artemis" publicationId="4115-3627-e608-39f6" page="9" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -158,17 +157,17 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
         </profile>
         <profile id="14e1-8336-a9b2-40c3" name="Unstoppable Champion" publicationId="4115-3627-e608-39f6" page="9" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The first time this model is destroyed, roll one D6 at the end of the phase. On a 2+, set this model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with 1 wound remaining.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ครั้งแรกที่โมเดลนี้ถูกทําลาย ทอยหนึ่ง D6 ในช่วง จบเฟส ที่ 2+ ใหนําโมเดลนี้กลับเข้ามาบนสนามรบ ให้ใกล้กับตําแหน่งเดิมที่มันถูก ทําลายให้มากที่สุด และไม่อยู่ภายใน Engagement Range ของยูนิตศัตรูใดๆ โดยมี Wound เหลืออยู่ 1 Wound</characteristic>
           </characteristics>
         </profile>
         <profile id="8004-24d4-9bb2-b89d" name="Feel No Pain" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">6+</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี Feel No Pain 6+</characteristic>
           </characteristics>
         </profile>
         <profile id="8863-f9da-9fe5-8262" name="Leader" publicationId="4115-3627-e608-39f6" page="10" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้:
 ■ Deathwatch Veterans
 ■ Proteus Kill Team</characteristic>
           </characteristics>
@@ -491,17 +490,17 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
         </profile>
         <profile id="2424-fdd-d5c0-1d78" name="Blackstar Cluster Launcher" publicationId="4115-3627-e608-39f6" page="19" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model ends a Normal move, you can select one enemy unit it moved over during that move and roll six D6: for each 5+, that unit suffers 1 mortal wound.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้สิ้นสุดการเคลื่อนที่แบบปกติ คุณสามารถเลือกยูนิตศัตรูหนึ่งยูนิตที่โมเดลนี้เคลื่อนที่ผ่านระหว่างการเคลื่อนที่ นั้นแล้วทอยหก D6: ทุกลูกที่ออก 5+ ยูนิตนั้นจะได้รับความเสียหาย 1 Mortal Wound</characteristic>
           </characteristics>
         </profile>
         <profile id="4edc-8524-49f5-884a" name="Damaged: 1-5 Wounds Remaining" publicationId="4115-3627-e608-39f6" page="19" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-5 Wound ทุกครั้งที่โมเดลนี้ทําการโจมตี ลบ 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="4d9c-b69c-4685-27b7" name="Transport" publicationId="4115-3627-e608-39f6" page="20" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model has a transport capacity of 12 Adeptus Astartes Infantry models or one Kill Team unit. Each Jump Pack, Gravis or Terminator model takes up the space of 2 models and each Mounted model takes up the space of 3 models.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถบรรทุกโมเดล Adeptus Astartes Infantry 12 ตัว หรือยูนิต Kill Team 1 ยูนิต โมเดล Jump Pack, Gravis หรือ Terminator ทุกตัวจะใช้ พื้นที่เท่ากับ 2 ตัว และโมเดล Centurion หรือ Mounted ทุกตัวจะใช้พื้นที่เท่ากับ 3 ตัว</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -586,7 +585,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
               <profiles>
                 <profile id="ebf-db45-9aa0-a5d5" name="Auspex Array" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                   <characteristics>
-                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Ranged weapons equipped by the bearer have the [IGNORES COVER] ability.</characteristic>
+                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">อาวุธระยะไกลของผู้สวมใส่จะมีความสามารถ [IGNORES COVER]</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -601,7 +600,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
               <profiles>
                 <profile id="697e-3cd8-8c0e-e354" name="Infernum Halo-launcher" publicationId="4115-3627-e608-39f6" page="19" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                   <characteristics>
-                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has the Smoke keyword.</characteristic>
+                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผู้สวมใส่จะมีคีย์เวิร์ด Smoke</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -734,12 +733,12 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
       <profiles>
         <profile id="762-8fda-bc0e-6e5f" name="Catechism of Death" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this unit contains Chaplain Cassius, melee weapons equipped by models in this unit have the [DEVASTATING WOUNDS] ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตนี้มี Chaplain Cassius อาวุธระยะประชิด ของโมเดลในยูนิตนี้จะมีความสามารถ [DEVASTATING WOUNDS]</characteristic>
           </characteristics>
         </profile>
         <profile id="685b-a006-c655-4250" name="Unflinching" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit takes a Battle-shock or Leadership test, you can re-roll that test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้ทํา Battle-shock หริอ Leadership test คุณสามารถ Re-roll การทดสอบนั้นใหม่ได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -774,7 +773,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
             </profile>
             <profile id="4019-5ac3-1808-fb5b" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี invulnerable save 4+ </characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1011,7 +1010,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
             </profile>
             <profile id="cb89-cc1a-5e19-2bf1" name="Jump Pack" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has a Move characteristic of 12&quot; and can move over models and terrain as if they were not there.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผู้สวมใส่จะมีค่า Move เท่ากับ 12&quot; สามารถเคลื่อนที่ผ่านโมเดล และ Terrain ได้ราวกับว่ามันไม่มีอยู่จริง</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1051,7 +1050,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
             </profile>
             <profile id="4b39-2ba4-2741-5275" name="Jump Pack" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has a Move characteristic of 12&quot; and can move over models and terrain as if they were not there.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผู้สวมใส่จะมีค่า Move เท่ากับ 12&quot; สามารถเคลื่อนที่ผ่านโมเดล และ Terrain ได้ราวกับว่ามันไม่มีอยู่จริง</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1104,7 +1103,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
             </profile>
             <profile id="b490-9584-430a-7495" name="Psychic Hood" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Models in the bearer’s unit have the Feel No Pain 4+ ability against Psychic Attacks.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผู้สวมใส่จะมี Feel No Pain 4+ ต่อการโจมตีแบบ Psychic</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1212,6 +1211,23 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2f08-c19d-c797-50f" type="min"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8054-8547-6f51-9092" type="max"/>
           </constraints>
+          <profiles>
+            <profile id="da3c-2d61-7879-ea97" name="Garran Branatar" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
+              <characteristics>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+                <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
+                <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
+                <characteristic name="W" typeId="750a-a2ec-90d3-21fe">3</characteristic>
+                <characteristic name="LD" typeId="58d2-b879-49c7-43bc">6+</characteristic>
+                <characteristic name="OC" typeId="bef7-942a-1a23-59f8">2</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="f12-38da-600-43e8" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี invulnerable save 4+ </characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
           <profiles>
             <profile id="da3c-2d61-7879-ea97" name="Garran Branatar" publicationId="4115-3627-e608-39f6" page="11" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
               <characteristics>
@@ -1413,12 +1429,13 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
       <profiles>
         <profile id="bf86-5de2-35f6-7cc6" name="Turbo-boost" publicationId="4115-3627-e608-39f6" page="17" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6&quot; to the Move characteristic of models in this unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อยูนิตนี้เคลื่อนที่แบบ Advance เพิ่มค่า Move ของโมเดลใน ยูนิตนี้อีก 6&quot; จนจบเฟส แทนการทอย Advance</characteristic>
           </characteristics>
         </profile>
         <profile id="daa6-6c8a-136f-695" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="18" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character from your army with the Leader ability can be attached to a Outrider Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเปนผูนําใหกับยูนิต
+Outrider Squad มันสามารถเปนผูนํายูนิตนี้ไดเชนกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1638,22 +1655,22 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
       <profiles>
         <profile id="c729-b51b-629d-5df9" name="Terminatus Assault" publicationId="4115-3627-e608-39f6" page="15" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit ends a Charge move, each enemy unit within Engagement Range of this unit must take a Battle-shock test.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่ยูนิตนี้สิ้นสุดการเคลื่อนที่แบบชาร์จ ยูนิตศัตรู ทุกยูนิตที่อยู่ใน Engagement Range ของยูนิตนี้จะต้องทํา Battle-shock test</characteristic>
           </characteristics>
         </profile>
         <profile id="72d-cf90-8721-2810" name="Teleport Homer" publicationId="4115-3627-e608-39f6" page="16" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent’s deployment zone. If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3&quot; of that token and not within 9&quot; of any enemy models. That token is then removed.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อเริ่มเกม คุณสามารถวางโทเคน Teleport Homer หนึ่ง อันสําหรับยูนิตนี้ได้ทุกที่บนสนามรบให้อยู่นอก deployment zone ของฝ่ายตรง ข้าม หากทําเช่นนั้น ครั้งหนึ่งต่อเกม คุณสามารถใช้ Stratagem Rapid Ingress กับยูนิตนี้ด้วย 0 CP เมื่อ Stratagem นั้นทํางาน คุณต้องวางยูนิตนี้ภายในระยะ 3&quot; ของโทเคนนั้นและห่างมากกว่า 9&quot; จากโมเดลศัตรูใดๆ หลังจากนั้นโทเคนนั้น จะถูกนําออกจากสนาม</characteristic>
           </characteristics>
         </profile>
         <profile id="f1f4-4cb5-6192-b88b" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี invulnerable save 4+ </characteristic>
           </characteristics>
         </profile>
         <profile id="f957-6c76-5341-c2cf" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="18" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character from your army with the Leader ability can be attached to a Terminator Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Terminator Squad มันสามารถเป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1764,12 +1781,12 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
       <profiles>
         <profile id="55db-d5ea-d9bb-4205" name="Death to the Alien" publicationId="4115-3627-e608-39f6" page="13" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit makes an attack, re-roll a Hit roll of 1. If the target of that attack does not have the Imperium or Chaos keywords, you can re-roll the Hit roll instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้ทําการโจมตี คุณสามารถ Re-roll a Hit roll ที่ออก 1 ได้ หากเป้าหมายของการโจมตีนั้นไม่มีคีย์เวิร์ด Imperium หริอ Chaos คุณสามารถ Re-roll the Hit roll แทนได้</characteristic>
           </characteristics>
         </profile>
         <profile id="5b2a-95ce-d179-ab23" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="18" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character from your army with the Leader ability can be attached to a Vanguard Veterans Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากยูนิต Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Sternguard Veteran Squad หรือ Vanguard Veteran Squad มันสามารถ เป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2213,12 +2230,12 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
       <profiles>
         <profile id="1937-4776-60fa-d585" name="Proteus Doctrines" publicationId="4115-3627-e608-39f6" page="21" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit makes an attack that targets a unit that is not Below Half-strength, add 1 to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้ทําการโจมตีใส่ยูนิตที่ไม่ติด สถานะ Below Half-strength เพิ่ม 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="43c9-9fc4-26c9-f5d9" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="18" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character from your army with the Leader ability can be attached to a Vanguard Veterans Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากยูนิต Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Sternguard Veteran Squad หรือ Vanguard Veterans Squad มันสามารถ เป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2304,7 +2321,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
                     </profile>
                     <profile id="e93c-6750-7d86-1132" name="Invulnerable Save" publicationId="4115-3627-e608-39f6" page="7" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                       <characteristics>
-                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">4+</characteristic>
+                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้มี Invulnerable Save 4+</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -2514,6 +2531,28 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
           </conditions>
         </modifier>
       </modifiers>
+      <profiles>
+        <profile id="cd92-208e-7559-9c9b" name="Fortis Doctrines" publicationId="4115-3627-e608-39f6" page="23" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้ทําการโจมตีใส่ยูนิตที่ติด สถานะ Below Half-strength เพิ่ม 1 the Hit roll</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a226-1a6e-44f-6113" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="24" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Intercessor Squad มันสามารถเป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="efbb-bbf1-57eb-c7e1" name="Infantry" hidden="false" targetId="cf47-a0d7-7207-29dc" primary="true"/>
+        <categoryLink id="8ebd-731d-ffed-1a89" name="Grenades" hidden="false" targetId="5a61-81ac-eb7c-a87e" primary="false"/>
+        <categoryLink id="1ff3-743d-4483-538d" name="Imperium" hidden="false" targetId="aff3-d6a3-2a95-9dc" primary="false"/>
+        <categoryLink id="c9-627-a825-79c1" name="Tacticus" hidden="false" targetId="5179-8ede-45e3-49a2" primary="false"/>
+        <categoryLink id="2439-3df5-6ee9-114f" name="Faction: Deathwatch" hidden="false" targetId="d39c-9989-db7f-d815" primary="false"/>
+        <categoryLink id="ba30-18f5-32d3-6b2" name="Faction: Adeptus Astartes" hidden="false" targetId="6e7-40c-58d9-e402" primary="false"/>
+        <categoryLink id="2f82-c310-9d44-dc0" name="Kill Team" hidden="false" targetId="81b0-a893-4fb7-c298" primary="false"/>
+        <categoryLink id="5c0-51e7-95a9-bfb9" name="Fortis Kill Team" hidden="false" targetId="a2bb-b582-9f57-27f5" primary="false"/>
+      </categoryLinks>
       <profiles>
         <profile id="cd92-208e-7559-9c9b" name="Fortis Doctrines" publicationId="4115-3627-e608-39f6" page="23" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
@@ -3060,12 +3099,12 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
       <profiles>
         <profile id="f8b6-3181-7e49-fb57" name="Indomitor Doctrines" publicationId="4115-3627-e608-39f6" page="25" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit makes an attack, add 1 to the Hit roll if this unit is below its Starting Strength, and add 1 to the Wound roll as well if this unit is Below Half-strength.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้ทําการโจมตีใส่ยูนิตที่ติด สถานะ below Starting Strength เพิ่ม 1 the Hit roll และเพิ่ม 1 wound roll หากยูนิตนั้นติดสถานะ Below Half-strength</characteristic>
           </characteristics>
         </profile>
         <profile id="b8a4-e32-bbbb-4e78" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="24" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character unit from your army can be attached to a Heavy Intercessor Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Heavy Intercessor Squad มันสามารถ เป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3719,12 +3758,12 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
       <profiles>
         <profile id="e966-dcf9-893d-a8f8" name="Attached Unit" publicationId="4115-3627-e608-39f6" page="24" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Character unit from your army can be attached to an Infiltrator Squad, it can be attached to this unit instead.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หากโมเดล Character จากกองทัพคุณที่มีความสามารถเป็นผู้นําให้กับยูนิต Infiltrator Squad มันสามารถ เป็นผู้นํายูนิตนี้ได้เช่นกัน</characteristic>
           </characteristics>
         </profile>
         <profile id="afc0-1ac-ce23-3a4f" name="Spectrus Doctrines" publicationId="4115-3627-e608-39f6" page="27" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your opponent’s turn, if this unit is more than 6&quot; away from all enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves. It will arrive back on the battlefield in the Reinforcements step of your next Movement phase.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อจบเทิร์นของฝ่ายตรงข้าม หากยูนิตนี้ห่างจากยูนิต ศัตรูทั้งหมดมากกว่า 6&quot; คุณสามารถนํายูนิตนี้ออกจากสนามรบและวางไว้ใน Strategic Reserves ยูนิตนี้จะกลับเข้ามาในสนามรบในช่วง Reinforcements ของ Movement phase ถัดไปของคุณ</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3800,7 +3839,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
                       <profiles>
                         <profile id="62db-8998-860b-8b93" name="Helix Gauntlet" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                           <characteristics>
-                            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Models in the bearer’s unit have the Feel No Pain 6+ ability.</characteristic>
+                            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลในยูนิตของผู้สวมใส่จะมี Feel No Pain 6+</characteristic>
                           </characteristics>
                         </profile>
                       </profiles>
@@ -3815,7 +3854,7 @@ In addition, that unit can be targeted with a Stratagem even while it is Battle-
                       <profiles>
                         <profile id="4f63-f053-e97e-fddf" name="Infiltrator Comms Array" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                           <characteristics>
-                            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristic>
+                            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่คุณใช้ Stratagem กับยูนิตของ ผู้สวมใส่ ทอยหนึ่ง D6: ที่ 5+ คุณจะได้รับ 1 CP</characteristic>
                           </characteristics>
                         </profile>
                       </profiles>
