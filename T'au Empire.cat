@@ -9453,7 +9453,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
           <profiles>
             <profile id="83b6-668f-212d-ec34" name="Through Unity, Devastation" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">T’AU EMPIRE model only (excluding KROOT SHAPER models). While this model is leading a unit, each time that unit is an Observer unit, until the end of the phase, ranged weapons equipped by models in their Guided unit have the [LETHAL HITS] ability while targeting their Spotted unit.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล T’au Empire เท่านั้น (ยกเว้นโมเดล Kroot Shaper) หาก ผู้สวมใส่เป็นผู้นำยูนิต ทุกครั้งที่ยูนิตนั้นเป็นยูนิต Observer จนจบ เฟส อาวุธระยะไกลของโมเดลในยูนิต Guided ของมันจะมีความ สามารถ [LETHAL HITS] เมื่อโจมตีใส่ยูนิต Spotted ของพวกมัน</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -9740,7 +9740,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1bc1-180f-7f51-15c3" type="max"/>
           </constraints>
         </entryLink>
-        <entryLink id="67e9-2d8d-3cda-8937" name="Weapon Support System" hidden="false" collective="false" import="true" targetId="b26b-c7ee-b1d6-a220" type="selectionEntry">
+        <entryLink id="67e9-2d8d-3cda-8937" name="Weapon support system" hidden="false" collective="false" import="true" targetId="b26b-c7ee-b1d6-a220" type="selectionEntry">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="4046-742c-33f2-6dc8" type="max"/>
           </constraints>
