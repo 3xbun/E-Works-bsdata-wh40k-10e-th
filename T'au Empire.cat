@@ -9548,7 +9548,7 @@ Designer’s Note: Place two Blacklight Marker Drone tokens next to this model, 
           <profiles>
             <profile id="1a6-6e94-192a-1473" name="Exemplar of the Kauyon" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
               <characteristics>
-                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">T’AU EMPIRE model only (excluding KROOT SHAPER models). While the bearer is leading a unit, that unit’s Kauyon Detachment rule takes effect from the second battle round onwards instead of the third.</characteristic>
+                <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดล T’au Empire เท่านั้น (ยกเว้นโมเดล Kroot Shaper) หาก ผู้สวมใส่เป็นผู้นำยูนิต กฎ Detachment Kauyon ของยูนิตนั้นจะมี ผลตั้งแต่ Battle Round ที่สองเป็นต้นไปจากปกติจะทำงานใน Battle Round ที่สาม</characteristic>
               </characteristics>
             </profile>
           </profiles>
