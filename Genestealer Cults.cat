@@ -1493,7 +1493,7 @@
       <profiles>
         <profile id="672c-fcd1-2183-179c" name="Crossfire" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this unit has shot, select one enemy unit that was hit by one or more attacks made by this unit this phase. Until the end of the phase, each time a friendly GENESTEALER CULTS unit makes an attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. The same enemy unit can only be affected by this ability once per phase</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หลังจากยูนิตนี้ยิงแล้ว เลือกยูนิตศัตรูหนึ่งยูนิต ที่ถูกโจมตีอย่างน้อย หนึ่งครั้งด้วยการโจมตีของยูนิตนี้ในเฟสนี้ จนจบเฟส ทุกครั้งที่ยูนิต Genestealer  Cults ที่เป็นมิตร โจมตีใส่ยูนิตศัตรูที่เลือกนั้น ให้เพิ่ม 1 ให้กับค่า Armour Pene- tration ของการโจมตีนั้น</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1605,7 +1605,7 @@
                   <profiles>
                     <profile id="db52-3838-1974-508f" name="Flare Launcher" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                       <characteristics>
-                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer’s unit has the SMOKE keyword</characteristic>
+                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตของผู้สวมใส่จะมีคีย์เวิร์ด Smoke</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -1620,7 +1620,7 @@
                   <profiles>
                     <profile id="1384-e4e8-a223-948f" name="Spotter" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                       <characteristics>
-                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer’s ranged weapons have a Ballistic Skill characteristic of 3+.</characteristic>
+                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">อาวุธระยะไกลของของผู้สวมใส่จะมีค่า Ballistic Skill ที่ 3+</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -1632,7 +1632,7 @@
                   <profiles>
                     <profile id="9cd2-9285-328c-2b1" name="Survey Augur" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                       <characteristics>
-                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time the bearer’s unit has shot, select one enemy unit that was hit by one or more attacks made by the bearer this phase. Until the end of the phase, each time a friendly GENESTEALER CULTS model makes an attack against that unit, that attack has the [IGNORES COVER] ability.</characteristic>
+                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หลังจากยูนิตของผู้สวมใส่ยิงแล้ว เลือกยูนิตศัตรูหนึ่งยูนิต ที่ถูกโจมตีอย่างน้อยหนึ่งครั้งด้วยการโจมตีของผู้สวมใส่ในเฟสนี้ จนจบเฟส ทุก ครั้งที่โมเดล Genestealer Cults ที่เป็นมิตรโจมตีใส่ยูนิตศัตรูที่เลือกนั้น การโจมตี นั้นจะมีความสามารถ [IGNORES COVER]</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
