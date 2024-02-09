@@ -160,7 +160,7 @@
       <profiles>
         <profile id="183b-a8a1-b9eb-2dd5" name="Luck Has, Need Keeps, Toil Earns" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงจบ Command phase ของ คุณ หากยูนิตนี้อยู่ในระยะของ Objective marker ที่คุณควบคุมอยู่ Objective marker นั้นจะยังคงอยู่ภายใต้การควบคุมของคุณ แม้ว่าคุณจะไม่มีโมเดลอยู่ ภายในระยะของมันก็ตาม จนกว่าคู่ต่อสู้ของคุณจะควบคุมมันในช่วงเริ่มต้นหริอ ท้ายของเทิร์นใดๆ</characteristic>
           </characteristics>
         </profile>
         <profile id="15e9-df12-30b7-42cb" name="Hearthkyn Warriors" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
