@@ -2077,7 +2077,7 @@
       <profiles>
         <profile id="668c-fdea-d78d-76da" name="Cyberstimms" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตนี้ถูกทําลายด้วยการโจมตีระยะประชิด หากโมเดลดังกล่าวยังไม่ได้ต่อสู้ในเฟสนี้ ทอยหนึ่งD6 : ที่ 4+ จะยังไม่นํามันออก จากเกม โมเดลที่ถูกทําลายยังสามารถต่อสู้ได้หลังจากยูนิตของโมเดลนี้เสร็จสิิน การโจมตีแล้ว จึงจะถูกนําออกจากเกม</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2158,7 +2158,7 @@
             </selectionEntry>
             <selectionEntry id="4894-87e8-1f3a-a7d9" name="Beserk w/ twin concussion gauntlets" hidden="false" collective="false" import="true" type="model">
               <modifiers>
-                <modifier type="decrement" field="023d-c077-e268-19b0" value="1">
+                <modifier type="decrement" field="023d-c077-e268-19b0" value="1.0">
                   <conditions>
                     <condition field="selections" scope="415a-e6f6-d17f-d700" value="10.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="model" type="lessThan"/>
                   </conditions>
@@ -2222,9 +2222,8 @@
                 </profile>
                 <profile id="6b1b-5b1b-e5de-f7c2" name="Subterranean Explosives" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                   <characteristics>
-                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this unit has shot, select one enemy unit (excluding MONSTERS and VEHICLES) that was hit by one or more of this unit’s mole grenade launchers this phase and roll one D6. On a 4+, until the end of your opponent’s next turn, that enemy unit is shaken. While a unit is shaken, subtract 2&quot; from its Move characteristic and subtract 2 from Advance and Charge rolls made for it.
-
-Designer’s Note: While a unit is shaken, place a Mole Grenade token next to that unit as a reminder.</characteristic>
+                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting phase ของคุณ หลังจากที่ยูนิต นี้ยิงแล้ว ให้เลือกยูนิตศัตรูหนึ่งยูนิต (ยกเว้น Monster และ Vehicle) ที่ถูกโจมตี ด้วย Mole Grenade Launcher ของยูนิตนี้หนึ่งครั้งขิ้นไปในเฟสนี้ ทอยหนึ่ง D6: ที่ 4+ จนจบเทิร์นถัดไปของฝ่ายตรงข้าม ยูนิตศัตรูนั้นจะติด Shaken ให้ลบ 2&quot; จากค่า Move และลบ 2 จาก Advance และ Charge roll ของยูนิตนั้น 
+หมายเหตุ: เมื่อยูนิตติด Shaken ให้วาง Mole Grenade token ไว้ กับยูนิตนั้นเพิ่อกันลืม</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
