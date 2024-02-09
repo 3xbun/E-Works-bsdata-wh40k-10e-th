@@ -2329,7 +2329,7 @@
       <profiles>
         <profile id="0a56-b381-c3ac-12bd" name="Outflanking Mag-Riders" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your opponent’s turn, if this unit is within 6&quot; of any battlefield edge and is not within Engagement Range of any enemy units, you can remove this unit from the battlefield and place it into Strategic Reserves.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงจบเทิร์นของฝ่ายตรงข้าม หากยูนิตนี้ อยู่ภายในระยะ 6&quot; ของขอบใดๆ ของสนามรบและไม่อยู่ภายใน Engagement Range ของยูนิตศัตรูใดๆ คุณสามารถนํายูนิตนี้ออกจากสนามรบ และวางไว้ใน Strategic Reserves</characteristic>
           </characteristics>
         </profile>
         <profile id="eed4-0f4c-f180-db12" name="Hernkyn Pioneer" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -2393,7 +2393,7 @@
                   <profiles>
                     <profile id="5594-0175-2fab-78d0" name="Comms array" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                       <characteristics>
-                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristic>
+                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่คุณใช้ Stratagem กับยูนิตของผู้สวมใส่ ทอยหนึ่ง D6: ที่ 5+ คุณจะได้รับ 1 CP</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -2425,7 +2425,7 @@
                   <profiles>
                     <profile id="2687-9d88-fa31-78e4" name="Pan-spectral scanner" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                       <characteristics>
-                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability.</characteristic>
+                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">อาวุธระยะไกลของโมเดลในยูนิตของผู้สวมใส่ จะมีความสามารถ [IGNORES COVER]</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -2460,7 +2460,7 @@
                   <profiles>
                     <profile id="d4a7-4825-c105-69da" name="Rollbar searchlight" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                       <characteristics>
-                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time a model in the bearer’s unit makes an attack that targets a unit that contains one or more models with the Stealth ability, add 1 to the Hit roll.</characteristic>
+                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลในยูนิตของผู้สวมใส่โจมตีใส่ยูนิต ที่โมเดลมีความสามารถ Stealth หนึ่งตัวขิ้นไป ให้เพิ่ม 1 ให้กับ Hit roll</characteristic>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -2727,13 +2727,13 @@
         </profile>
         <profile id="1cd2-5315-3e03-56d2" name="Blistering Advance" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Units can disembark from this TRANSPORT after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ยูนิตสามารถ Disembark จาก Transport นี้หลังจาก ที่มัน Advance ไปแล้ว ยูนิตที่ Disembark จะนับว่าได้เคลื่อนที่ปกติไปแล้วในเฟส นั้นและไม่สามารถประกาศการชาร์จในเทิร์นเดียวกัน แต่สามารถทํา อย่างอื่นที่เหลือได้</characteristic>
           </characteristics>
         </profile>
         <profile id="c622-c5a6-391f-e9ec" name="Sagitaur" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 6 LEAGUES OF VOTANN INFANTRY models. It cannot transport EXO-ARMOUR or EXO-FRAME models.
-At the start of the Declare Battle Formations step, you can select one Hearthkyn Warriors unit from your army and split it into two units, each containing 5 models (when splitting a unit in this way, make a note of which models form each of the two new units). One of these units must start the battle embarked within this Transport; the other can start the battle embarked within another Transport, or it can be deployed as a separate unit.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกยูนิต Leagues of Votann Infantry จํานวน 6 ตัว และไม่สามารถบรรทุกโมเดล Exo-armour หรือ Exo-frame ได้ 
+เมื่อเริ่มประกาศ Battle Formations คุณสามารถเลือกยูนิต Hearthkyn Warriors หนึ่งยูนิตจากกองทัพของคุณและแยกออกเป็นสองยูนิต โดยแต่ละ ยูนิตประกอบด้วยโมเดล 5 ตัว (เมื่อแยกยูนิตด้วยวิธีนี้ ให้จดบันทึกโมเดลที่สร้าง ขึ้นเป็นยูนิตใหม่แต่ละยูนิต) ยูนิตใดยูนิตหนึ่งต้องเริ่มเกมโดย Embark ภายใน Transport นี้ ส่วนอีกยูนิตสามารถเริ่มเกมโดย Embark ภายใน Transport อื่น หรือ Deploy ลงบนสนามเป็นยูนิตแยกต่างหากได้</characteristic>
           </characteristics>
         </profile>
       </profiles>
