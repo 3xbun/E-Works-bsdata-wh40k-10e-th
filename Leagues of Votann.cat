@@ -1318,12 +1318,12 @@
       <profiles>
         <profile id="0b60-64ba-dab2-aba2" name="Multi-spectral visor" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time a model in that unit makes a ranged attack, add 1 to the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต ทุกครั้งที่โมเดลในยูนิตนั้น โจมตีระยะไกล เพิ่ม 1 the Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="5313-7669-e6a9-5577" name="Brôkhyr&apos;s Guild" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the end of your Movement phase, this unit can repair one friendly LEAGUES OF VOTANN VEHICLE or EXO-FRAME model within 3&quot; of it. That model regains up to D3 lost wounds, or up to 3 lost wounds instead if this unit contains an Ironkyn Assistant. Each model can only be repaired once per turn.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ในช่วงจบ Movement phase ของคุณ ยูนิตนี้สามารถ ซ่อมแซมโมเดล Leagues of Votann Vehicle หริอ Exo-frame ที่เป็นมิตร หนึ่งตัวภายในระยะ 3&quot; ของมัน โมเดลนั้นจะฟิินฟิ Wound ที่เสียไปจํานวน D3 Wound หริอสูงสุด 3 Wound หากยูนิตนี้มี Ironkyn Assistant อยู่ในยูนิต โมเดลแต่ละตัวสามารถซ่อมแซมได้เพิยงหนึ่งครั้งต่อเทิร์น</characteristic>
           </characteristics>
         </profile>
         <profile id="7d15-f4e4-387a-f14d" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
