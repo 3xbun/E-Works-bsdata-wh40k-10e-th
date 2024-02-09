@@ -966,7 +966,7 @@
       <profiles>
         <profile id="a732-854e-79cd-0b70" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - EINHYR HEARTHGUARD</characteristic>
           </characteristics>
         </profile>
@@ -1095,7 +1095,7 @@
       <profiles>
         <profile id="63d6-d6ef-a1e8-b3ac" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลนี้สามารถเป็นผู้นําให้กับยูนิตดังต่อไปนี้::
 - HEARTHKYN WARRIORS</characteristic>
           </characteristics>
         </profile>
@@ -1106,12 +1106,12 @@
         </profile>
         <profile id="467f-6b90-9fac-e6bc" name="Fortify (Psychic)" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, improve the Toughness characteristic of models in that unit by 1.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต เพิ่ม 1 ให้กับค่า Toughness ของโมเดลในยูนิตนั้น</characteristic>
           </characteristics>
         </profile>
         <profile id="fed0-9336-a1da-52b5" name="Grimnyr&apos;s Regard" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once per battle, after this model’s unit fails a Battle-shock test, this model can use this ability. If it does, that unit is no longer Battle-shocked.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">หนึ่งครั้งต่อเกม หลังจากยูนิตของโมเดล นี้ทํา Battle-shock test ไม่ผ่าน โมเดลนี้สามารถใช้ความสามารถนี้ได้ หากทําเช่นนั้น ยูนิตนั้นจะไม่ติด Battle-shock อีกต่อไป</characteristic>
           </characteristics>
         </profile>
       </profiles>
