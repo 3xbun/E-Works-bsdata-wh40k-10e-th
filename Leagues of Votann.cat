@@ -708,7 +708,7 @@
               <profiles>
                 <profile id="12c6-8f73-775f-fd8e" name="Medipack" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                   <characteristics>
-                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Models in the bearer’s unit have the Feel No Pain 6+ ability.</characteristic>
+                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">โมเดลในยูนิตของผู้สวมใส่จะมีความสามารถ Feel No Pain 6+</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -730,7 +730,7 @@
               <profiles>
                 <profile id="3d63-7696-2f18-cb4d" name="Comms array" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                   <characteristics>
-                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time you target the bearer’s unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristic>
+                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่คุณใช้ Stratagem กับยูนิตของผู้สวมใส่ ทอยหนึ่ีง D6: ที่ 5+ คุณจะได้รับ 1 CP</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -745,7 +745,7 @@
               <profiles>
                 <profile id="c4a7-2dc7-b53e-5886" name="Pan spectral scanner" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                   <characteristics>
-                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Ranged weapons equipped by models in the bearer’s unit have the [IGNORES COVER] ability.</characteristic>
+                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">อาวุธระยะไกลของโมเดลในยูนิตของผู้สวมใส่ จะมีความสามารถ [IGNORES COVER]</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
