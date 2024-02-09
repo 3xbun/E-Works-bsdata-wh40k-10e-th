@@ -3026,17 +3026,17 @@
         </profile>
         <profile id="caa1-a6c2-f241-ef7a" name="Fire Support" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ใน Shooting Phase ของคุณ หลังจากที่โมเดลนี้ยิงแล้ว เลือกยูนิตศัตรูหนึ่งยูนิตที่มันได้โจมตีหนึ่งครั้งขิ้นไปในเฟสนี้ จนจบเฟส ทุกครั้งที่ โมเดลที่เป็นมิตร Disembark จาก Transport นี้ในเทิร์นนี้ทําการโจมตีใส่ยูนิต ศัตรูนั้น คุณสามารถ Re-roll The Wound Roll ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="390f-db57-a56d-a66c" name="Damaged: 1-5 wounds remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เหลือ 1-5 Wound ทุกครั้งที่โมเดลนี้โจมตี ให้ลบ 1 จาก Hit roll</characteristic>
           </characteristics>
         </profile>
         <profile id="9d9a-6673-cbb2-ec72" name="Hekaton Land Fortress" hidden="false" typeId="74f8-5443-9d6d-1f1e" typeName="Transport">
           <characteristics>
-            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">This model has a transport capacity of 12 LEAGUES OF VOTANN INFANTRY models. Each EXO-ARMOUR model takes up the space of 2 models and each EXO-FRAME model takes up the space of 3 models.</characteristic>
+            <characteristic name="Capacity" typeId="30f2-be70-861d-1b84">โมเดลนี้สามารถบรรทุกโมเดล Leagues of Votann Infantry จํานวน 12 ตัว โมเดล Exo-armour ทุกตัวจะใช้พื้นที่เท่ากับโมเดล 2 ตัว และโมเดล Exo-frame ทุกตัวจะใช้พื้นที่เท่ากับโมเดล 3 ตัว</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -3130,7 +3130,7 @@
               <profiles>
                 <profile id="ebd6-d270-d7ee-bd1d" name="Pan spectral scanner" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
                   <characteristics>
-                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Ranged weapons equipped by the bearer have the [IGNORES COVER] ability.</characteristic>
+                    <characteristic name="Description" typeId="9b8f-694b-e5e-b573">อาวุธระยะไกลของโมเดลในยูนิตของผู้สวมใส่ จะมีความสามารถ [IGNORES COVER]</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
