@@ -951,7 +951,7 @@
       <profiles>
         <profile id="e7c8-1681-268e-e824" name="Teleport crest" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit have the Deep Strike ability.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อผู้สวมใส่เป็นผู้นํายูนิต โมเดลในยูนิตนั้น จะมีความสามารถ Deep Strike</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -982,12 +982,12 @@
         </profile>
         <profile id="cce9-1dea-2bfb-0600" name="Exemplar of the Einhyr" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, you can re-roll Charge rolls made for that unit.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">เมื่อโมเดลนี้เป็นผู้นํายูนิต ยูนิตนั้นสามารถ Re-roll Charge roll ได้</characteristic>
           </characteristics>
         </profile>
         <profile id="666a-1075-30da-e3d6" name="Mass Driver Accelerators" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Each time this model ends a Charge move, you can select one enemy unit within Engagement Range of this unit and roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ทุกครั้งที่โมเดลนี้สิ้นสุดการเคลื่อนที่แบบชาร์จ คุณสามารถเลือกยูนิตศัตรูหนึ่งยูนิตที่อยู่ภายใน Engagement Range ของ ยูนิตนี้ ทอยหนึ่งD6: ที่ 2-5 ยูนิตศัตรูนั้นได้รับความเสียหาย D3 Mortal wound; หากออก 6 ยูนิตศัตรูนั้นได้รับความเสียหาย D3+3 Mortal wound</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1080,7 +1080,7 @@
       <profiles>
         <profile id="1fa8-d8d6-7361-c235" name="Weavefield crest" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has a 4+ invulnerable save.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">ผูสวมใสจะมีความสามารถ Invulnerable Save 4+</characteristic>
           </characteristics>
         </profile>
       </profiles>
